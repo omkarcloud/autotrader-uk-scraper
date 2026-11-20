@@ -1,0 +1,27 @@
+[
+ {
+  "errors": [
+   {
+    "message": "Cannot query field \"nope\" on type \"Advert\".",
+    "locations": [
+     {
+      "line": 1,
+      "column": 40
+     }
+    ],
+    "extensions": {
+     "code": "GRAPHQL_VALIDATION_FAILED",
+     "exception": {
+      "message": "Cannot query field \"nope\" on type \"Advert\".",
+      "locations": [
+       {
+        "line": 1,
+        "column": 40
+       }
+      ]
+     }
+    }
+   }
+  ]
+ }
+]

@@ -1,0 +1,264 @@
+{
+ "dealerId": "10036877",
+ "name": "BLUEHAWK AUTOMOTIVE LIMITED",
+ "location": {
+  "town": "Hounslow",
+  "county": "Middlesex"
+ },
+ "acceptedDealerReviews": {
+  "totalLiveReviews": 169,
+  "averageLiveReviewRating": 4.2,
+  "sourceSummaries": [
+   {
+    "source": "FEEFO_PARTNERSHIP",
+    "averageLiveReviewRating": 4.2,
+    "totalLiveReviews": 169,
+    "sourceUrl": null
+   }
+  ],
+  "starSummaries": [
+   {
+    "starRating": 1,
+    "totalReviews": 18
+   },
+   {
+    "starRating": 3,
+    "totalReviews": 1
+   },
+   {
+    "starRating": 4,
+    "totalReviews": 2
+   },
+   {
+    "starRating": 5,
+    "totalReviews": 148
+   }
+  ],
+  "dealerReviewList": {
+   "size": 169,
+   "nextCursor": "cGFnZT0y",
+   "reviews": [
+    {
+     "title": "Honest and genuine dealer.",
+     "text": "Bought my car a month ago, and I’m still delighted with the car but also the service from Bluehawk. Car was described accurately, priced very well for what it was,And vitally, the engine was cold when I first layed eyes on it. I would 100% consider bluehawk in the future, even if it means a 4hr drive.Thanks again Hamza, loving my E class.",
+     "reviewerName": "Anonymous",
+     "overallRating": 5,
+     "source": "FEEFO_PARTNERSHIP",
+     "verified": false,
+     "created": "2026-11-12T21:32:19.515Z",
+     "updated": "2026-11-12T21:35:37.000Z",
+     "reply": null
+    },
+    {
+     "title": "Excellent service",
+     "text": "I arrived at 2.00 pm to view a mercedes and at 3.30 i drove away in my new car . Tarin was excellent and the car was as advertised and ready to inspect when i arrived at the car lot . I would definitely recommend .",
+     "reviewerName": "Anthony D",
+     "overallRating": 5,
+     "source": "FEEFO_PARTNERSHIP",
+     "verified": false,
+     "created": "2026-11-01T03:54:41.169Z",
+     "updated": "2026-11-03T13:07:51.000Z",
+     "reply": null
+    },
+    {
+     "title": "",
+     "text": "I had a 6 hour train to the place, let them know the day before I was coming … no issues. Great bunch of lads, great car and highly recommend",
+     "reviewerName": "Dillon E",
+     "overallRating": 5,
+     "source": "FEEFO_PARTNERSHIP",
+     "verified": false,
+     "created": "2026-10-12T21:46:59.608Z",
+     "updated": "2026-10-12T21:52:02.000Z",
+     "reply": null
+    },
+    {
+     "title": "Got a great deal",
+     "text": "Brought my new x5, very happy with my purchase car was priced very well",
+     "reviewerName": "Thomas J",
+     "overallRating": 5,
+     "source": "FEEFO_PARTNERSHIP",
+     "verified": true,
+     "created": "2026-10-10T11:59:28.131Z",
+     "updated": "2026-10-10T11:59:31.000Z",
+     "reply": null
+    },
+    {
+     "title": "Thank you",
+     "text": "Great dealership. Amazing cars.",
+     "reviewerName": "Anonymous",
+     "overallRating": 5,
+     "source": "FEEFO_PARTNERSHIP",
+     "verified": false,
+     "created": "2026-08-24T08:33:55.390Z",
+     "updated": "2026-08-24T08:34:13.000Z",
+     "reply": null
+    },
+    {
+     "title": "",
+     "text": "Bought a bmw m3 from Bluehawk the car was top spec and made the process very easy",
+     "reviewerName": "Dino S",
+     "overallRating": 5,
+     "source": "FEEFO_PARTNERSHIP",
+     "verified": false,
+     "created": "2026-08-24T08:31:46.960Z",
+     "updated": "2026-08-24T08:32:11.000Z",
+     "reply": null
+    },
+    {
+     "title": "5* service",
+     "text": "Brought a Golf R from here last week, bhav was great to deal with throughout, very pleased with the car and service!",
+     "reviewerName": "Josh F",
+     "overallRating": 5,
+     "source": "FEEFO_PARTNERSHIP",
+     "verified": false,
+     "created": "2026-08-12T19:03:36.077Z",
+     "updated": "2026-08-13T08:55:26.000Z",
+     "reply": null
+    },
+    {
+     "title": "First class service",
+     "text": "I had an absolutely fantastic experience visiting Bluehawk Automotive to view a Porsche, and I honestly couldn’t be more impressed with the level of service I received. From my very first enquiry, the team were incredibly quick to respond and amazing at answering all of my questions. Communication was excellent throughout, and every enquiry was dealt with promptly, professionally, and with genuine enthusiasm. They made me feel like a valued customer from the very beginning. What really stood out to me was the professionalism and friendliness of the staff. They created a relaxed and welcoming atmosphere, which made the whole experience enjoyable rather than feeling like a typical dealership visit. It’s clear that customer service is genuinely important to the team at Bluehawk Automotive. The combination of excellent communication, attention to detail, professionalism, and a beautiful Porsche made this a first-class experience. I would highly recommend Bluehawk Automotive to anyone looking for a quality vehicle and, just as importantly, a dealership that genuinely cares about its customers.",
+     "reviewerName": "Emily M",
+     "overallRating": 5,
+     "source": "FEEFO_PARTNERSHIP",
+     "verified": false,
+     "created": "2026-08-12T14:32:06.166Z",
+     "updated": "2026-08-12T14:32:19.000Z",
+     "reply": null
+    },
+    {
+     "title": "",
+     "text": "Good dealership deal with tarin and bhav they were very helpful and made the process very simple. Assuring me even further being that they work with authorise. Which I’ve used in the past with no stress",
+     "reviewerName": "Anonymous",
+     "overallRating": 5,
+     "source": "FEEFO_PARTNERSHIP",
+     "verified": false,
+     "created": "2026-08-12T14:27:22.694Z",
+     "updated": "2026-08-12T14:47:20.000Z",
+     "reply": null
+    },
+    {
+     "title": "Outstanding",
+     "text": "The guys there were really helpful came down with the kids very accommodating lads answered all our questions and we now have a beautiful bmw couldnt be more pleased thank you so much!!",
+     "reviewerName": "Oktay M",
+     "overallRating": 5,
+     "source": "FEEFO_PARTNERSHIP",
+     "verified": false,
+     "created": "2026-08-12T10:44:29.753Z",
+     "updated": "2026-08-12T10:45:17.000Z",
+     "reply": null
+    },
+    {
+     "title": "Viewed a mercedes",
+     "text": "Poor service Was asked to view the car came from Manchester to test a cls white 2017,while test driving the car ,I was told someone just left deposit on the car so I was turned away2 weeks later this viehcle is still bieng advertised on there website,called to ask why this is they said customer hasn't collected the car,I would of brought this car the same day via bank transfer.My first and last time visiting this place.I would recommend travelling distance to there place as its load of young youths having fun with the showroom toys,one guy driving out a car from passenger side,he thought he was being entertaining,but for me its howed how these cars are bieng drivenDo not buy from this place protect your self and your money from this load of rubbish 😒",
+     "reviewerName": "Anonymous",
+     "overallRating": 1,
+     "source": "FEEFO_PARTNERSHIP",
+     "verified": false,
+     "created": "2026-08-11T20:38:57.901Z",
+     "updated": "2026-08-11T20:39:31.000Z",
+     "reply": null
+    },
+    {
+     "title": "Rude, incompetent, disorganised.",
+     "text": "Horrible.Worst experience ever, drove 4 1//2 hours from Manchester already gave them a heads up. Got there no one was interested to even look at us, had to approach a guy who was struggling to find keys as they have a system whereby all the car keys thrown into a box together so they takes ages to find one they need so disorganised.Finally found the keys and the car wasn’t ready as expected, didn’t have anything to say eventually took it for a test drive the guy was on his phone the whole time most disinterested grumpy car salesman I met. Just on WhatsApp or Snapchat on his phone tried to ask him a few questions about the car, he couldn’t string sentence together just mumble rapped under his breath one word answers.I asked him where Zain is the person we spoke to on the phone and who the owner is he said no he just helps out. No interest whatsoever.After the drive wanted to see another car as came to see 2 that day took him 30 mins to find the key as he just disappeared again in the end couldn’t be bothered getting it out as he had to remove another car to get it out and would take him probs 30 mins to find that key for that so I just said leave it.He Clearly didn’t want to be there, couldn’t be bothered seem like he wanted us to go, worse thing bought my family with me as well with the intention to purchase but he was actually clueless no consideration.Not even acknowledgement of us driving 4 hours to come the see car so let me put a bit of effort in.Was very disappointed, the owner needs to hire people who care about his business rather than family members just doing him a favour as this guy is doing more harm than good.Incompetent, disorganised and rude.I’ve already bought my car now from another garage which much better people skills and systems but still had to leave this review as it’s disrespectful customer service.From my experience this place is a joke.P.s I also called the week before was told to come on down, called on the day before I left early morning as it’s a long way only to be told the car’s been taken for works to be done. Good job I phoned again in the morning then!Joke of a place",
+     "reviewerName": "Kaleem O",
+     "overallRating": 1,
+     "source": "FEEFO_PARTNERSHIP",
+     "verified": false,
+     "created": "2026-06-28T12:11:55.813Z",
+     "updated": "2026-07-01T22:09:21.000Z",
+     "reply": null
+    },
+    {
+     "title": "",
+     "text": "Bought an A class perfect condition with no issues amazing customer service and after sales",
+     "reviewerName": "Younes H",
+     "overallRating": 5,
+     "source": "FEEFO_PARTNERSHIP",
+     "verified": false,
+     "created": "2026-06-12T06:43:40.366Z",
+     "updated": "2026-06-12T06:56:06.000Z",
+     "reply": null
+    },
+    {
+     "title": "",
+     "text": "Excellent service from start to finish. Friendly staff, smooth process, and a great car. Very happy with my purchase and would highly recommend.",
+     "reviewerName": "Anonymous",
+     "overallRating": 5,
+     "source": "FEEFO_PARTNERSHIP",
+     "verified": false,
+     "created": "2026-06-08T11:55:22.338Z",
+     "updated": "2026-06-08T12:12:17.000Z",
+     "reply": null
+    },
+    {
+     "title": "Great Experience",
+     "text": "Excellent experience dealing with Bluehawk team, they all are very helpful and i am happy with fully loaded GLE.",
+     "reviewerName": "Anonymous",
+     "overallRating": 5,
+     "source": "FEEFO_PARTNERSHIP",
+     "verified": false,
+     "created": "2026-06-08T11:53:54.957Z",
+     "updated": "2026-06-08T11:54:57.000Z",
+     "reply": null
+    },
+    {
+     "title": "",
+     "text": "Best customer service i have ever had at a dealership will definitely recommend thanks guys so happy with my new car!!",
+     "reviewerName": "Sam B",
+     "overallRating": 5,
+     "source": "FEEFO_PARTNERSHIP",
+     "verified": false,
+     "created": "2026-06-05T21:57:30.669Z",
+     "updated": "2026-06-05T22:00:05.000Z",
+     "reply": null
+    },
+    {
+     "title": "Over the moon",
+     "text": "Brought a new M3 incredible spec over the moon with my purchase",
+     "reviewerName": "Jonathan A",
+     "overallRating": 5,
+     "source": "FEEFO_PARTNERSHIP",
+     "verified": false,
+     "created": "2026-06-05T21:55:56.748Z",
+     "updated": "2026-06-05T22:00:05.000Z",
+     "reply": null
+    },
+    {
+     "title": "Would give 0 stars if possible",
+     "text": "Worst experience ever, showed up to view a car first of all car wasn’t there even though I called ahead and booked an appointment, when the car showed up it was dirty and absolutely reeked of the devils lettuce. When asked why the car wasn’t on site I was told that it was a SOR car ( later found out most of their cars are SOR and not actually owned by them ). What’s even worse is that most of these salesmen are not professional at all - just a bunch of hooligans and criminals. They were smoking out side and it was just very unprofessional at all. I understand we are in London and they may be a bit hip and relaxed but this was just a complet horror. Would NEVER BUY OR EVEN VISIT HERE AGAIN",
+     "reviewerName": "Anonymous",
+     "overallRating": 1,
+     "source": "FEEFO_PARTNERSHIP",
+     "verified": false,
+     "created": "2026-06-05T20:51:22.519Z",
+     "updated": "2026-06-05T20:52:01.000Z",
+     "reply": null
+    },
+    {
+     "title": "",
+     "text": "I would not even bother looking at a car here, agreed with the boss to come at an agreed time to look at a car got there and he was not there and was greeted by someone who was completely useless did not want to listen to me when telling him about the damage to the car and said my offer was “silly” and then said we haven’t prepped it yet so they let people look at cars that ain’t ready. Just save your time and money and shop elsewhere",
+     "reviewerName": "Anonymous",
+     "overallRating": 1,
+     "source": "FEEFO_PARTNERSHIP",
+     "verified": false,
+     "created": "2026-05-20T06:29:21.577Z",
+     "updated": "2026-05-20T06:29:51.000Z",
+     "reply": null
+    },
+    {
+     "title": "Better than the photos",
+     "text": "I’ve been looking for a low-mileage Audi for months. Most dealerships have cars that look tired in person, but this one was immaculate. The spec was even better than the online listing. The handover was professional and not rushed. Highly recommend.",
+     "reviewerName": "Emily W",
+     "overallRating": 5,
+     "source": "FEEFO_PARTNERSHIP",
+     "verified": false,
+     "created": "2026-03-26T21:19:38.275Z",
+     "updated": "2026-03-26T21:19:58.000Z",
+     "reply": null
+    }
+   ]
+  }
+ }
+}

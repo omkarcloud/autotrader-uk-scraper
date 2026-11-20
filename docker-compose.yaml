@@ -1,0 +1,11 @@
+services:
+  autotrader-uk-scraper:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+      # Optional: leave this unset to go out from your own connection. Autotrader UK lets
+      # plain requests through; set a datacenter proxy only if you see blocks at high volume.
+      # - AUTOTRADER_UK_PROXY=http://user:pass@host:port

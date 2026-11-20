@@ -1,0 +1,53 @@
+[
+ {
+  "errors": [
+   {
+    "message": "Resource not found",
+    "locations": [
+     {
+      "line": 1,
+      "column": 80
+     }
+    ],
+    "path": [
+     "search",
+     "advert"
+    ],
+    "extensions": {
+     "code": "NOT_FOUND",
+     "statusCode": 404,
+     "exception": {
+      "message": "Resource not found",
+      "request": {
+       "requestUrl": "http://app.search-one-read.svc.cluster.local/api/v1/advert/202306299089853?postcode=SW1A%201AA"
+      }
+     },
+     "resourceIds": [
+      "2",
+      "0",
+      "2",
+      "3",
+      "0",
+      "6",
+      "2",
+      "9",
+      "9",
+      "0",
+      "8",
+      "9",
+      "8",
+      "5",
+      "3"
+     ],
+     "logging": {
+      "ignoreNotFound": true,
+      "ignoreConflict": false,
+      "ignoreBadRequest": false,
+      "ignoreUnauthorized": false
+     }
+    }
+   }
+  ],
+  "data": null
+ }
+]

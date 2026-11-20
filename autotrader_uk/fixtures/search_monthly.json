@@ -1,0 +1,2805 @@
+{
+ "listings": [
+  {
+   "type": "NATURAL_LISTING",
+   "advertId": "202611177994981",
+   "title": "BMW 1 Series",
+   "subTitle": "3.0 M140i Auto Euro 6 (s/s) 5dr",
+   "attentionGrabber": "ADAPT.SUSP|H/K|KEYLESS|PRONAV!",
+   "price": "£17,489",
+   "formattedPrice": "£17,489",
+   "rrp": null,
+   "discount": null,
+   "condition": "used",
+   "mileageText": "68,000 miles",
+   "vehicleLocation": "Hounslow (11 miles)",
+   "locationType": "STANDARD",
+   "images": [
+    "https://m.atcdn.co.uk/a/media/{resize}/334dee93c5504779b4224e38620d40cc.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/002d623151834bc6920ab5672536099d.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/e12f27cb1bd64d24b74c812b637560f4.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/f9f7bb21de774fdaba062020e9cbf073.jpg"
+   ],
+   "numberOfImages": 8,
+   "sellerType": "TRADE",
+   "dealerLink": "/dealers/middlesex/hounslow/bluehawk-automotive-limited-10036877?channel=cars",
+   "overallReviewRating": 4.2,
+   "dealerReview": {
+    "overallReviewRating": 4.2
+   },
+   "hasDigitalRetailing": false,
+   "preReg": false,
+   "position": 1,
+   "badges": [
+    {
+     "type": "PI_LOW",
+     "displayText": "Lower price"
+    },
+    {
+     "type": "MILEAGE",
+     "displayText": "68,000 miles"
+    },
+    {
+     "type": "REGISTERED_YEAR",
+     "displayText": "2017 (67 reg)"
+    }
+   ],
+   "finance": {
+    "monthlyPrice": {
+     "priceFormattedAndRounded": "£422"
+    },
+    "initialPayment": "£1,000",
+    "termMonths": "48 months",
+    "quoteSubType": "HP",
+    "financeListingProvider": "SELLER",
+    "representativeValues": [
+     {
+      "financeKey": "Finance type",
+      "financeValue": "HP"
+     },
+     {
+      "financeKey": "Monthly payments",
+      "financeValue": "£422"
+     },
+     {
+      "financeKey": "Term",
+      "financeValue": "48 months"
+     },
+     {
+      "financeKey": "Contract length",
+      "financeValue": "48 months"
+     },
+     {
+      "financeKey": "Annual mileage",
+      "financeValue": "20,000 miles"
+     },
+     {
+      "financeKey": "Car price",
+      "financeValue": "£17,489.00"
+     },
+     {
+      "financeKey": "Cash deposit",
+      "financeValue": "£1,000.00"
+     },
+     {
+      "financeKey": "Total amount of credit",
+      "financeValue": "£16,489.00"
+     },
+     {
+      "financeKey": "Total amount payable",
+      "financeValue": "£21,222.92"
+     },
+     {
+      "financeKey": "Representative APR",
+      "financeValue": "10.9%"
+     },
+     {
+      "financeKey": "Total charges payable",
+      "financeValue": "£3,733.92"
+     },
+     {
+      "financeKey": "Fixed rate of interest pa",
+      "financeValue": "10.9%"
+     },
+     {
+      "financeKey": "Option to purchase fee",
+      "financeValue": "£1.00"
+     }
+    ],
+    "rawFinanceFields": {
+     "deposit": "1000",
+     "term": "48",
+     "annualMileage": "20000"
+    }
+   },
+   "trackingContext": {
+    "retailerContext": {
+     "id": "10036877"
+    },
+    "advertContext": {
+     "id": "202611177994981",
+     "advertiserId": "10036877",
+     "advertiserType": "TRADE",
+     "make": "BMW",
+     "model": "1 Series",
+     "vehicleCategory": "car",
+     "year": 2017,
+     "condition": "used",
+     "price": 17489
+    },
+    "advertCardFeatures": {
+     "condition": "USED",
+     "numImages": 8,
+     "hasFinance": true,
+     "priceIndicator": "LOW",
+     "isManufacturedApproved": false,
+     "isFranchiseApproved": false
+    },
+    "distance": {
+     "distance": 11,
+     "distance_unit": null
+    }
+   }
+  },
+  {
+   "type": "NATURAL_LISTING",
+   "advertId": "202611137887719",
+   "title": "BMW 3 Series",
+   "subTitle": "2.0 320d M Sport Euro 5 (s/s) 4dr",
+   "attentionGrabber": "£35 TAX | 61 MPG | M SPORT |",
+   "price": "£5,495",
+   "formattedPrice": "£5,495",
+   "rrp": null,
+   "discount": null,
+   "condition": "used",
+   "mileageText": "116,911 miles",
+   "vehicleLocation": "Newcastle Under Lyme (138 miles)",
+   "locationType": "STANDARD",
+   "images": [
+    "https://m.atcdn.co.uk/a/media/{resize}/436dd9a4e21a4c6dac697ecd5d48a289.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/1c4aee5b84b64ceaaaa812374da4f3be.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/7cfe84a1ab8e4790995b4a5ad078acbd.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/d99de52a693343b2bf7905c9e186d6eb.jpg"
+   ],
+   "numberOfImages": 21,
+   "sellerType": "TRADE",
+   "dealerLink": "/dealers/staffordshire/newcastle-under-lyme/sre-motors-ltd-10033738?channel=cars",
+   "overallReviewRating": 4.7,
+   "dealerReview": {
+    "overallReviewRating": 4.7
+   },
+   "hasDigitalRetailing": true,
+   "preReg": false,
+   "position": 2,
+   "badges": [
+    {
+     "type": "PI_GOOD",
+     "displayText": "Good price"
+    },
+    {
+     "type": "MILEAGE",
+     "displayText": "116,911 miles"
+    },
+    {
+     "type": "REGISTERED_YEAR",
+     "displayText": "2013 (63 reg)"
+    }
+   ],
+   "finance": {
+    "monthlyPrice": {
+     "priceFormattedAndRounded": "£120"
+    },
+    "initialPayment": "£1,000",
+    "termMonths": "48 months",
+    "quoteSubType": "HP",
+    "financeListingProvider": "SELLER",
+    "representativeValues": [
+     {
+      "financeKey": "Finance type",
+      "financeValue": "HP"
+     },
+     {
+      "financeKey": "Monthly payments",
+      "financeValue": "£120"
+     },
+     {
+      "financeKey": "Term",
+      "financeValue": "48 months"
+     },
+     {
+      "financeKey": "Contract length",
+      "financeValue": "48 months"
+     },
+     {
+      "financeKey": "Annual mileage",
+      "financeValue": "20,000 miles"
+     },
+     {
+      "financeKey": "Car price",
+      "financeValue": "£5,495.00"
+     },
+     {
+      "financeKey": "Cash deposit",
+      "financeValue": "£1,000.00"
+     },
+     {
+      "financeKey": "Total amount of credit",
+      "financeValue": "£4,495.00"
+     },
+     {
+      "financeKey": "Total amount payable",
+      "financeValue": "£6,749.48"
+     },
+     {
+      "financeKey": "Representative APR",
+      "financeValue": "13.4%"
+     },
+     {
+      "financeKey": "Total charges payable",
+      "financeValue": "£1,254.48"
+     },
+     {
+      "financeKey": "Fixed rate of interest pa",
+      "financeValue": "13.4%"
+     },
+     {
+      "financeKey": "Admin fee",
+      "financeValue": "£1.00"
+     }
+    ],
+    "rawFinanceFields": {
+     "deposit": "1000",
+     "term": "48",
+     "annualMileage": "20000"
+    }
+   },
+   "trackingContext": {
+    "retailerContext": {
+     "id": "10033738"
+    },
+    "advertContext": {
+     "id": "202611137887719",
+     "advertiserId": "10033738",
+     "advertiserType": "TRADE",
+     "make": "BMW",
+     "model": "3 Series",
+     "vehicleCategory": "car",
+     "year": 2013,
+     "condition": "used",
+     "price": 5495
+    },
+    "advertCardFeatures": {
+     "condition": "USED",
+     "numImages": 21,
+     "hasFinance": true,
+     "priceIndicator": "GOOD",
+     "isManufacturedApproved": false,
+     "isFranchiseApproved": false
+    },
+    "distance": {
+     "distance": 138,
+     "distance_unit": null
+    }
+   }
+  },
+  {
+   "type": "NATURAL_LISTING",
+   "advertId": "202610106874487",
+   "title": "BMW 1 Series",
+   "subTitle": "1.5 116d ED Plus Euro 6 (s/s) 5dr",
+   "attentionGrabber": "EURO 6|LONG MOT|HPI CLEAR",
+   "price": "£4,995",
+   "formattedPrice": "£4,995",
+   "rrp": null,
+   "discount": null,
+   "condition": "used",
+   "mileageText": "84,700 miles",
+   "vehicleLocation": "Bow (5 miles)",
+   "locationType": "STANDARD",
+   "images": [
+    "https://m.atcdn.co.uk/a/media/{resize}/b64b8cac9ede401796b21dbcf5a3f7ff.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/4084d901ecd249898ea72cca26e9e39c.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/58bad4fcedde40cfa28179de9fbcd8bb.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/b5158ff4f4224da5af98bd63f2802526.jpg"
+   ],
+   "numberOfImages": 53,
+   "sellerType": "PRIVATE",
+   "dealerLink": null,
+   "overallReviewRating": null,
+   "dealerReview": null,
+   "hasDigitalRetailing": false,
+   "preReg": false,
+   "position": 3,
+   "badges": [
+    {
+     "type": "MILEAGE",
+     "displayText": "84,700 miles"
+    },
+    {
+     "type": "REGISTERED_YEAR",
+     "displayText": "2016 (66 reg)"
+    }
+   ],
+   "finance": {
+    "monthlyPrice": {
+     "priceFormattedAndRounded": "£114"
+    },
+    "initialPayment": "£1,000",
+    "termMonths": "48 months",
+    "quoteSubType": "HP",
+    "financeListingProvider": "ZUTO",
+    "representativeValues": [
+     {
+      "financeKey": "Finance type",
+      "financeValue": "HP"
+     },
+     {
+      "financeKey": "Monthly payments",
+      "financeValue": "£114"
+     },
+     {
+      "financeKey": "Term",
+      "financeValue": "48 months"
+     },
+     {
+      "financeKey": "Contract length",
+      "financeValue": "48 months"
+     },
+     {
+      "financeKey": "Annual mileage",
+      "financeValue": "20,000 miles"
+     },
+     {
+      "financeKey": "Car price",
+      "financeValue": "£4,995.00"
+     },
+     {
+      "financeKey": "Cash deposit",
+      "financeValue": "£1,000.00"
+     },
+     {
+      "financeKey": "Total amount of credit",
+      "financeValue": "£3,995.00"
+     },
+     {
+      "financeKey": "Total amount payable",
+      "financeValue": "£6,457.60"
+     },
+     {
+      "financeKey": "Representative APR",
+      "financeValue": "17.5%"
+     },
+     {
+      "financeKey": "Total charges payable",
+      "financeValue": "£1,462.60"
+     },
+     {
+      "financeKey": "Fixed rate of interest pa",
+      "financeValue": "17.5%"
+     }
+    ],
+    "rawFinanceFields": {
+     "deposit": "1000",
+     "term": "48",
+     "annualMileage": "20000"
+    }
+   },
+   "trackingContext": {
+    "retailerContext": {
+     "id": "null"
+    },
+    "advertContext": {
+     "id": "202610106874487",
+     "advertiserId": null,
+     "advertiserType": "PRIVATE",
+     "make": "BMW",
+     "model": "1 Series",
+     "vehicleCategory": "car",
+     "year": 2016,
+     "condition": "used",
+     "price": 4995
+    },
+    "advertCardFeatures": {
+     "condition": "USED",
+     "numImages": 53,
+     "hasFinance": true,
+     "priceIndicator": "NOANALYSIS",
+     "isManufacturedApproved": false,
+     "isFranchiseApproved": false
+    },
+    "distance": {
+     "distance": 5,
+     "distance_unit": null
+    }
+   }
+  },
+  {
+   "type": "NATURAL_LISTING",
+   "advertId": "202611017516850",
+   "title": "BMW 1 Series",
+   "subTitle": "1.5 118i Sport Euro 6 (s/s) 5dr",
+   "attentionGrabber": "CHEAPEST IN THE COUNTRY!!!",
+   "price": "£5,789",
+   "formattedPrice": "£5,789",
+   "rrp": null,
+   "discount": null,
+   "condition": "used",
+   "mileageText": "84,000 miles",
+   "vehicleLocation": "Hounslow (11 miles)",
+   "locationType": "STANDARD",
+   "images": [
+    "https://m.atcdn.co.uk/a/media/{resize}/4d2f0347a8c74174bc6b669ee2c5bd98.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/a202bd811e834786801a313a60a80428.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/95b29594bb084517828fe05538f8fd03.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/1065b1727339420f8813b62d9bd23d9c.jpg"
+   ],
+   "numberOfImages": 33,
+   "sellerType": "TRADE",
+   "dealerLink": "/dealers/middlesex/hounslow/bluehawk-automotive-limited-10036877?channel=cars",
+   "overallReviewRating": 4.2,
+   "dealerReview": {
+    "overallReviewRating": 4.2
+   },
+   "hasDigitalRetailing": false,
+   "preReg": false,
+   "position": 4,
+   "badges": [
+    {
+     "type": "PI_LOW",
+     "displayText": "Lower price"
+    },
+    {
+     "type": "MILEAGE",
+     "displayText": "84,000 miles"
+    },
+    {
+     "type": "REGISTERED_YEAR",
+     "displayText": "2018 (67 reg)"
+    }
+   ],
+   "finance": {
+    "monthlyPrice": {
+     "priceFormattedAndRounded": "£123"
+    },
+    "initialPayment": "£1,000",
+    "termMonths": "48 months",
+    "quoteSubType": "HP",
+    "financeListingProvider": "SELLER",
+    "representativeValues": [
+     {
+      "financeKey": "Finance type",
+      "financeValue": "HP"
+     },
+     {
+      "financeKey": "Monthly payments",
+      "financeValue": "£123"
+     },
+     {
+      "financeKey": "Term",
+      "financeValue": "48 months"
+     },
+     {
+      "financeKey": "Contract length",
+      "financeValue": "48 months"
+     },
+     {
+      "financeKey": "Annual mileage",
+      "financeValue": "20,000 miles"
+     },
+     {
+      "financeKey": "Car price",
+      "financeValue": "£5,789.00"
+     },
+     {
+      "financeKey": "Cash deposit",
+      "financeValue": "£1,000.00"
+     },
+     {
+      "financeKey": "Total amount of credit",
+      "financeValue": "£4,789.00"
+     },
+     {
+      "financeKey": "Total amount payable",
+      "financeValue": "£6,873.32"
+     },
+     {
+      "financeKey": "Representative APR",
+      "financeValue": "10.9%"
+     },
+     {
+      "financeKey": "Total charges payable",
+      "financeValue": "£1,084.32"
+     },
+     {
+      "financeKey": "Fixed rate of interest pa",
+      "financeValue": "10.9%"
+     },
+     {
+      "financeKey": "Option to purchase fee",
+      "financeValue": "£1.00"
+     }
+    ],
+    "rawFinanceFields": {
+     "deposit": "1000",
+     "term": "48",
+     "annualMileage": "20000"
+    }
+   },
+   "trackingContext": {
+    "retailerContext": {
+     "id": "10036877"
+    },
+    "advertContext": {
+     "id": "202611017516850",
+     "advertiserId": "10036877",
+     "advertiserType": "TRADE",
+     "make": "BMW",
+     "model": "1 Series",
+     "vehicleCategory": "car",
+     "year": 2018,
+     "condition": "used",
+     "price": 5789
+    },
+    "advertCardFeatures": {
+     "condition": "USED",
+     "numImages": 33,
+     "hasFinance": true,
+     "priceIndicator": "LOW",
+     "isManufacturedApproved": false,
+     "isFranchiseApproved": false
+    },
+    "distance": {
+     "distance": 11,
+     "distance_unit": null
+    }
+   }
+  },
+  {
+   "type": "NATURAL_LISTING",
+   "advertId": "202611127864883",
+   "title": "BMW 1 Series",
+   "subTitle": "2.0 116d M Sport Euro 5 (s/s) 5dr",
+   "attentionGrabber": "LOW MILEAGE+M PERFORMAMCE!",
+   "price": "£6,950",
+   "formattedPrice": "£6,950",
+   "rrp": null,
+   "discount": null,
+   "condition": "used",
+   "mileageText": "53,758 miles",
+   "vehicleLocation": "Enfield (12 miles)",
+   "locationType": "STANDARD",
+   "images": [
+    "https://m.atcdn.co.uk/a/media/{resize}/3b56ad3f4995469393de03334d34acbb.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/0135070b1a604fc5a8a17e0794913513.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/a246ab821627489a9f3bfd58367bd803.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/9682936bf55c4ccd8f34b022f69e518e.jpg"
+   ],
+   "numberOfImages": 46,
+   "sellerType": "TRADE",
+   "dealerLink": "/dealers/middlesex/enfield/js-prestige-and-performance-10035608?channel=cars",
+   "overallReviewRating": 5,
+   "dealerReview": {
+    "overallReviewRating": 5
+   },
+   "hasDigitalRetailing": false,
+   "preReg": false,
+   "position": 5,
+   "badges": [
+    {
+     "type": "PI_GOOD",
+     "displayText": "Good price"
+    },
+    {
+     "type": "MILEAGE",
+     "displayText": "53,758 miles"
+    },
+    {
+     "type": "REGISTERED_YEAR",
+     "displayText": "2014 (14 reg)"
+    }
+   ],
+   "finance": {
+    "monthlyPrice": {
+     "priceFormattedAndRounded": "£147"
+    },
+    "initialPayment": "£1,000",
+    "termMonths": "48 months",
+    "quoteSubType": "HP",
+    "financeListingProvider": "SELLER",
+    "representativeValues": [
+     {
+      "financeKey": "Finance type",
+      "financeValue": "HP"
+     },
+     {
+      "financeKey": "Monthly payments",
+      "financeValue": "£147"
+     },
+     {
+      "financeKey": "Term",
+      "financeValue": "48 months"
+     },
+     {
+      "financeKey": "Contract length",
+      "financeValue": "48 months"
+     },
+     {
+      "financeKey": "Annual mileage",
+      "financeValue": "20,000 miles"
+     },
+     {
+      "financeKey": "Car price",
+      "financeValue": "£6,950.00"
+     },
+     {
+      "financeKey": "Cash deposit",
+      "financeValue": "£1,000.00"
+     },
+     {
+      "financeKey": "Total amount of credit",
+      "financeValue": "£5,950.00"
+     },
+     {
+      "financeKey": "Total amount payable",
+      "financeValue": "£8,047.36"
+     },
+     {
+      "financeKey": "Representative APR",
+      "financeValue": "8.9%"
+     },
+     {
+      "financeKey": "Total charges payable",
+      "financeValue": "£1,097.36"
+     },
+     {
+      "financeKey": "Fixed rate of interest pa",
+      "financeValue": "8.9%"
+     }
+    ],
+    "rawFinanceFields": {
+     "deposit": "1000",
+     "term": "48",
+     "annualMileage": "20000"
+    }
+   },
+   "trackingContext": {
+    "retailerContext": {
+     "id": "10035608"
+    },
+    "advertContext": {
+     "id": "202611127864883",
+     "advertiserId": "10035608",
+     "advertiserType": "TRADE",
+     "make": "BMW",
+     "model": "1 Series",
+     "vehicleCategory": "car",
+     "year": 2014,
+     "condition": "used",
+     "price": 6950
+    },
+    "advertCardFeatures": {
+     "condition": "USED",
+     "numImages": 46,
+     "hasFinance": true,
+     "priceIndicator": "GOOD",
+     "isManufacturedApproved": false,
+     "isFranchiseApproved": false
+    },
+    "distance": {
+     "distance": 12,
+     "distance_unit": null
+    }
+   }
+  },
+  {
+   "type": "NATURAL_LISTING",
+   "advertId": "202611097746387",
+   "title": "BMW 3 Series",
+   "subTitle": "2.0 320i M Sport Auto Euro 6 (s/s) 4dr",
+   "attentionGrabber": "M PERFORMANCE BODYKIT|2 OWNERS",
+   "price": "£16,489",
+   "formattedPrice": "£16,489",
+   "rrp": null,
+   "discount": null,
+   "condition": "used",
+   "mileageText": "76,000 miles",
+   "vehicleLocation": "Hounslow (11 miles)",
+   "locationType": "STANDARD",
+   "images": [
+    "https://m.atcdn.co.uk/a/media/{resize}/d70c9eaa5bf04614bbbe925d5639015f.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/4422f9f4e37a4613b133a5ade55280b6.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/f2fdf703abcd407da0fdd1b0ac6b353f.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/cb51ce54eb27433eb3477104a8ababfc.jpg"
+   ],
+   "numberOfImages": 5,
+   "sellerType": "TRADE",
+   "dealerLink": "/dealers/middlesex/hounslow/bluehawk-automotive-limited-10036877?channel=cars",
+   "overallReviewRating": 4.2,
+   "dealerReview": {
+    "overallReviewRating": 4.2
+   },
+   "hasDigitalRetailing": false,
+   "preReg": false,
+   "position": 6,
+   "badges": [
+    {
+     "type": "PI_GOOD",
+     "displayText": "Good price"
+    },
+    {
+     "type": "MILEAGE",
+     "displayText": "76,000 miles"
+    },
+    {
+     "type": "REGISTERED_YEAR",
+     "displayText": "2019 (69 reg)"
+    }
+   ],
+   "finance": {
+    "monthlyPrice": {
+     "priceFormattedAndRounded": "£396"
+    },
+    "initialPayment": "£1,000",
+    "termMonths": "48 months",
+    "quoteSubType": "HP",
+    "financeListingProvider": "SELLER",
+    "representativeValues": [
+     {
+      "financeKey": "Finance type",
+      "financeValue": "HP"
+     },
+     {
+      "financeKey": "Monthly payments",
+      "financeValue": "£396"
+     },
+     {
+      "financeKey": "Term",
+      "financeValue": "48 months"
+     },
+     {
+      "financeKey": "Contract length",
+      "financeValue": "48 months"
+     },
+     {
+      "financeKey": "Annual mileage",
+      "financeValue": "20,000 miles"
+     },
+     {
+      "financeKey": "Car price",
+      "financeValue": "£16,489.00"
+     },
+     {
+      "financeKey": "Cash deposit",
+      "financeValue": "£1,000.00"
+     },
+     {
+      "financeKey": "Total amount of credit",
+      "financeValue": "£15,489.00"
+     },
+     {
+      "financeKey": "Total amount payable",
+      "financeValue": "£19,996.52"
+     },
+     {
+      "financeKey": "Representative APR",
+      "financeValue": "10.9%"
+     },
+     {
+      "financeKey": "Total charges payable",
+      "financeValue": "£3,507.52"
+     },
+     {
+      "financeKey": "Fixed rate of interest pa",
+      "financeValue": "10.9%"
+     },
+     {
+      "financeKey": "Option to purchase fee",
+      "financeValue": "£1.00"
+     }
+    ],
+    "rawFinanceFields": {
+     "deposit": "1000",
+     "term": "48",
+     "annualMileage": "20000"
+    }
+   },
+   "trackingContext": {
+    "retailerContext": {
+     "id": "10036877"
+    },
+    "advertContext": {
+     "id": "202611097746387",
+     "advertiserId": "10036877",
+     "advertiserType": "TRADE",
+     "make": "BMW",
+     "model": "3 Series",
+     "vehicleCategory": "car",
+     "year": 2019,
+     "condition": "used",
+     "price": 16489
+    },
+    "advertCardFeatures": {
+     "condition": "USED",
+     "numImages": 5,
+     "hasFinance": true,
+     "priceIndicator": "GOOD",
+     "isManufacturedApproved": false,
+     "isFranchiseApproved": false
+    },
+    "distance": {
+     "distance": 11,
+     "distance_unit": null
+    }
+   }
+  },
+  {
+   "type": "NATURAL_LISTING",
+   "advertId": "202611107781516",
+   "title": "BMW 3 Series",
+   "subTitle": "2.0 320i M Sport Euro 6 (s/s) 4dr",
+   "attentionGrabber": "M SPORT | WARRANTY | FINANCE",
+   "price": "£9,995",
+   "formattedPrice": "£9,995",
+   "rrp": null,
+   "discount": null,
+   "condition": "used",
+   "mileageText": "63,250 miles",
+   "vehicleLocation": "Rainham (14 miles)",
+   "locationType": "STANDARD",
+   "images": [
+    "https://m.atcdn.co.uk/a/media/{resize}/57a1af7fc5db4fbaa191758bf4c5db05.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/3cb293e695eb401a9e15efd1dec0f65b.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/39e51164c5e04da680606e7e21ec6fa3.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/17d8e3625a384d8f9aeed5d7ee518850.jpg"
+   ],
+   "numberOfImages": 29,
+   "sellerType": "TRADE",
+   "dealerLink": "/dealers/essex/rainham/status-motor-group-10044610?channel=cars",
+   "overallReviewRating": 3.9,
+   "dealerReview": {
+    "overallReviewRating": 3.9
+   },
+   "hasDigitalRetailing": false,
+   "preReg": false,
+   "position": 7,
+   "badges": [
+    {
+     "type": "PI_GOOD",
+     "displayText": "Good price"
+    },
+    {
+     "type": "MILEAGE",
+     "displayText": "63,250 miles"
+    },
+    {
+     "type": "REGISTERED_YEAR",
+     "displayText": "2018 (18 reg)"
+    }
+   ],
+   "finance": {
+    "monthlyPrice": {
+     "priceFormattedAndRounded": "£256"
+    },
+    "initialPayment": "£1,000",
+    "termMonths": "48 months",
+    "quoteSubType": "HP",
+    "financeListingProvider": "ZUTO",
+    "representativeValues": [
+     {
+      "financeKey": "Finance type",
+      "financeValue": "HP"
+     },
+     {
+      "financeKey": "Monthly payments",
+      "financeValue": "£256"
+     },
+     {
+      "financeKey": "Term",
+      "financeValue": "48 months"
+     },
+     {
+      "financeKey": "Contract length",
+      "financeValue": "48 months"
+     },
+     {
+      "financeKey": "Annual mileage",
+      "financeValue": "20,000 miles"
+     },
+     {
+      "financeKey": "Car price",
+      "financeValue": "£9,995.00"
+     },
+     {
+      "financeKey": "Cash deposit",
+      "financeValue": "£1,000.00"
+     },
+     {
+      "financeKey": "Total amount of credit",
+      "financeValue": "£8,995.00"
+     },
+     {
+      "financeKey": "Total amount payable",
+      "financeValue": "£13,250.08"
+     },
+     {
+      "financeKey": "Representative APR",
+      "financeValue": "17.3%"
+     },
+     {
+      "financeKey": "Total charges payable",
+      "financeValue": "£3,255.08"
+     },
+     {
+      "financeKey": "Fixed rate of interest pa",
+      "financeValue": "17.3%"
+     }
+    ],
+    "rawFinanceFields": {
+     "deposit": "1000",
+     "term": "48",
+     "annualMileage": "20000"
+    }
+   },
+   "trackingContext": {
+    "retailerContext": {
+     "id": "10044610"
+    },
+    "advertContext": {
+     "id": "202611107781516",
+     "advertiserId": "10044610",
+     "advertiserType": "TRADE",
+     "make": "BMW",
+     "model": "3 Series",
+     "vehicleCategory": "car",
+     "year": 2018,
+     "condition": "used",
+     "price": 9995
+    },
+    "advertCardFeatures": {
+     "condition": "USED",
+     "numImages": 29,
+     "hasFinance": true,
+     "priceIndicator": "GOOD",
+     "isManufacturedApproved": false,
+     "isFranchiseApproved": false
+    },
+    "distance": {
+     "distance": 14,
+     "distance_unit": null
+    }
+   }
+  },
+  {
+   "type": "NATURAL_LISTING",
+   "advertId": "202610257304962",
+   "title": "BMW 1 Series",
+   "subTitle": "1.5 116d M Sport Shadow Edition Auto Euro 6 (s/s) 5dr",
+   "attentionGrabber": "FBMWSH|HARMONKARD|HEATSEATS",
+   "price": "£10,989",
+   "formattedPrice": "£10,989",
+   "rrp": null,
+   "discount": null,
+   "condition": "used",
+   "mileageText": "78,000 miles",
+   "vehicleLocation": "Hounslow (11 miles)",
+   "locationType": "STANDARD",
+   "images": [
+    "https://m.atcdn.co.uk/a/media/{resize}/32db1643c6d74da6b96c419bc24d56be.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/11fd6e986a344f4b92c5319671c420dc.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/5ad9f93a0d184520bbd3efddd31393de.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/48b6152165274c9c9473785f325fd091.jpg"
+   ],
+   "numberOfImages": 30,
+   "sellerType": "TRADE",
+   "dealerLink": "/dealers/middlesex/hounslow/bluehawk-automotive-limited-10036877?channel=cars",
+   "overallReviewRating": 4.2,
+   "dealerReview": {
+    "overallReviewRating": 4.2
+   },
+   "hasDigitalRetailing": false,
+   "preReg": false,
+   "position": 8,
+   "badges": [
+    {
+     "type": "PI_GREAT",
+     "displayText": "Great price"
+    },
+    {
+     "type": "MILEAGE",
+     "displayText": "78,000 miles"
+    },
+    {
+     "type": "REGISTERED_YEAR",
+     "displayText": "2019 (19 reg)"
+    }
+   ],
+   "finance": {
+    "monthlyPrice": {
+     "priceFormattedAndRounded": "£256"
+    },
+    "initialPayment": "£1,000",
+    "termMonths": "48 months",
+    "quoteSubType": "HP",
+    "financeListingProvider": "SELLER",
+    "representativeValues": [
+     {
+      "financeKey": "Finance type",
+      "financeValue": "HP"
+     },
+     {
+      "financeKey": "Monthly payments",
+      "financeValue": "£256"
+     },
+     {
+      "financeKey": "Term",
+      "financeValue": "48 months"
+     },
+     {
+      "financeKey": "Contract length",
+      "financeValue": "48 months"
+     },
+     {
+      "financeKey": "Annual mileage",
+      "financeValue": "20,000 miles"
+     },
+     {
+      "financeKey": "Car price",
+      "financeValue": "£10,989.00"
+     },
+     {
+      "financeKey": "Cash deposit",
+      "financeValue": "£1,000.00"
+     },
+     {
+      "financeKey": "Total amount of credit",
+      "financeValue": "£9,989.00"
+     },
+     {
+      "financeKey": "Total amount payable",
+      "financeValue": "£13,251.08"
+     },
+     {
+      "financeKey": "Representative APR",
+      "financeValue": "10.9%"
+     },
+     {
+      "financeKey": "Total charges payable",
+      "financeValue": "£2,262.08"
+     },
+     {
+      "financeKey": "Fixed rate of interest pa",
+      "financeValue": "10.9%"
+     },
+     {
+      "financeKey": "Option to purchase fee",
+      "financeValue": "£1.00"
+     }
+    ],
+    "rawFinanceFields": {
+     "deposit": "1000",
+     "term": "48",
+     "annualMileage": "20000"
+    }
+   },
+   "trackingContext": {
+    "retailerContext": {
+     "id": "10036877"
+    },
+    "advertContext": {
+     "id": "202610257304962",
+     "advertiserId": "10036877",
+     "advertiserType": "TRADE",
+     "make": "BMW",
+     "model": "1 Series",
+     "vehicleCategory": "car",
+     "year": 2019,
+     "condition": "used",
+     "price": 10989
+    },
+    "advertCardFeatures": {
+     "condition": "USED",
+     "numImages": 30,
+     "hasFinance": true,
+     "priceIndicator": "GREAT",
+     "isManufacturedApproved": false,
+     "isFranchiseApproved": false
+    },
+    "distance": {
+     "distance": 11,
+     "distance_unit": null
+    }
+   }
+  },
+  {
+   "type": "NATURAL_LISTING",
+   "advertId": "202611188000900",
+   "title": "BMW 1 Series",
+   "subTitle": "1.5 116d ED Plus Euro 6 (s/s) 5dr",
+   "attentionGrabber": null,
+   "price": "£4,495",
+   "formattedPrice": "£4,495",
+   "rrp": null,
+   "discount": null,
+   "condition": "used",
+   "mileageText": "79,422 miles",
+   "vehicleLocation": "Borehamwood (11 miles)",
+   "locationType": "STANDARD",
+   "images": [
+    "https://m.atcdn.co.uk/a/media/{resize}/3ae87dceb0fb41f99529251992156f08.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/2a2c92d1aa6e418b932e2b764071c689.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/dbaeed2abb3d482489ccf8c3b33dd6cc.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/037b9afeff47443aa558f825f9990244.jpg"
+   ],
+   "numberOfImages": 19,
+   "sellerType": "TRADE",
+   "dealerLink": null,
+   "overallReviewRating": null,
+   "dealerReview": null,
+   "hasDigitalRetailing": false,
+   "preReg": false,
+   "position": 9,
+   "badges": [
+    {
+     "type": "PI_LOW",
+     "displayText": "Lower price"
+    },
+    {
+     "type": "MILEAGE",
+     "displayText": "79,422 miles"
+    },
+    {
+     "type": "REGISTERED_YEAR",
+     "displayText": "2016 (66 reg)"
+    }
+   ],
+   "finance": {
+    "monthlyPrice": {
+     "priceFormattedAndRounded": "£100"
+    },
+    "initialPayment": "£1,000",
+    "termMonths": "48 months",
+    "quoteSubType": "HP",
+    "financeListingProvider": "ZUTO",
+    "representativeValues": [
+     {
+      "financeKey": "Finance type",
+      "financeValue": "HP"
+     },
+     {
+      "financeKey": "Monthly payments",
+      "financeValue": "£100"
+     },
+     {
+      "financeKey": "Term",
+      "financeValue": "48 months"
+     },
+     {
+      "financeKey": "Contract length",
+      "financeValue": "48 months"
+     },
+     {
+      "financeKey": "Annual mileage",
+      "financeValue": "20,000 miles"
+     },
+     {
+      "financeKey": "Car price",
+      "financeValue": "£4,495.00"
+     },
+     {
+      "financeKey": "Cash deposit",
+      "financeValue": "£1,000.00"
+     },
+     {
+      "financeKey": "Total amount of credit",
+      "financeValue": "£3,495.00"
+     },
+     {
+      "financeKey": "Total amount payable",
+      "financeValue": "£5,774.56"
+     },
+     {
+      "financeKey": "Representative APR",
+      "financeValue": "17.5%"
+     },
+     {
+      "financeKey": "Total charges payable",
+      "financeValue": "£1,279.56"
+     },
+     {
+      "financeKey": "Fixed rate of interest pa",
+      "financeValue": "17.5%"
+     }
+    ],
+    "rawFinanceFields": {
+     "deposit": "1000",
+     "term": "48",
+     "annualMileage": "20000"
+    }
+   },
+   "trackingContext": {
+    "retailerContext": {
+     "id": "null"
+    },
+    "advertContext": {
+     "id": "202611188000900",
+     "advertiserId": null,
+     "advertiserType": "TRADE",
+     "make": "BMW",
+     "model": "1 Series",
+     "vehicleCategory": "car",
+     "year": 2016,
+     "condition": "used",
+     "price": 4495
+    },
+    "advertCardFeatures": {
+     "condition": "USED",
+     "numImages": 19,
+     "hasFinance": true,
+     "priceIndicator": "LOW",
+     "isManufacturedApproved": false,
+     "isFranchiseApproved": false
+    },
+    "distance": {
+     "distance": 11,
+     "distance_unit": null
+    }
+   }
+  },
+  {
+   "type": "NATURAL_LISTING",
+   "advertId": "202611137878831",
+   "title": "BMW 3 Series",
+   "subTitle": "1.5 318i Sport Auto Euro 6 (s/s) 4dr",
+   "attentionGrabber": "ULEZ  BLUETOOTH  HEATED SEATS",
+   "price": "£6,190",
+   "formattedPrice": "£6,190",
+   "rrp": null,
+   "discount": null,
+   "condition": "used",
+   "mileageText": "118,050 miles",
+   "vehicleLocation": "West Drayton (14 miles)",
+   "locationType": "STANDARD",
+   "images": [
+    "https://m.atcdn.co.uk/a/media/{resize}/bd9b817305634575a0b19ca94045b5c7.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/e82e644e2a33427c933bdf47e75e858f.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/289b306eada04b78a77c3f477e2a9231.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/970bd9bf31d348ee9fbc95d4de32ec32.jpg"
+   ],
+   "numberOfImages": 11,
+   "sellerType": "TRADE",
+   "dealerLink": "/dealers/middlesex/west-drayton/automatic-motors-ltd-10008535?channel=cars",
+   "overallReviewRating": 4.5,
+   "dealerReview": {
+    "overallReviewRating": 4.5
+   },
+   "hasDigitalRetailing": false,
+   "preReg": false,
+   "position": 10,
+   "badges": [
+    {
+     "type": "PI_LOW",
+     "displayText": "Lower price"
+    },
+    {
+     "type": "MILEAGE",
+     "displayText": "118,050 miles"
+    },
+    {
+     "type": "REGISTERED_YEAR",
+     "displayText": "2017 (66 reg)"
+    }
+   ],
+   "finance": {
+    "monthlyPrice": {
+     "priceFormattedAndRounded": "£133"
+    },
+    "initialPayment": "£1,000",
+    "termMonths": "48 months",
+    "quoteSubType": "HP",
+    "financeListingProvider": "SELLER",
+    "representativeValues": [
+     {
+      "financeKey": "Finance type",
+      "financeValue": "HP"
+     },
+     {
+      "financeKey": "Monthly payments",
+      "financeValue": "£133"
+     },
+     {
+      "financeKey": "Term",
+      "financeValue": "48 months"
+     },
+     {
+      "financeKey": "Contract length",
+      "financeValue": "48 months"
+     },
+     {
+      "financeKey": "Annual mileage",
+      "financeValue": "20,000 miles"
+     },
+     {
+      "financeKey": "Car price",
+      "financeValue": "£6,190.00"
+     },
+     {
+      "financeKey": "Cash deposit",
+      "financeValue": "£1,000.00"
+     },
+     {
+      "financeKey": "Total amount of credit",
+      "financeValue": "£5,190.00"
+     },
+     {
+      "financeKey": "Total amount payable",
+      "financeValue": "£7,365.32"
+     },
+     {
+      "financeKey": "Representative APR",
+      "financeValue": "10.9%"
+     },
+     {
+      "financeKey": "Total charges payable",
+      "financeValue": "£1,175.32"
+     },
+     {
+      "financeKey": "Fixed rate of interest pa",
+      "financeValue": "10.9%"
+     },
+     {
+      "financeKey": "Option to purchase fee",
+      "financeValue": "£1.00"
+     }
+    ],
+    "rawFinanceFields": {
+     "deposit": "1000",
+     "term": "48",
+     "annualMileage": "20000"
+    }
+   },
+   "trackingContext": {
+    "retailerContext": {
+     "id": "10008535"
+    },
+    "advertContext": {
+     "id": "202611137878831",
+     "advertiserId": "10008535",
+     "advertiserType": "TRADE",
+     "make": "BMW",
+     "model": "3 Series",
+     "vehicleCategory": "car",
+     "year": 2017,
+     "condition": "used",
+     "price": 6190
+    },
+    "advertCardFeatures": {
+     "condition": "USED",
+     "numImages": 11,
+     "hasFinance": true,
+     "priceIndicator": "LOW",
+     "isManufacturedApproved": false,
+     "isFranchiseApproved": false
+    },
+    "distance": {
+     "distance": 14,
+     "distance_unit": null
+    }
+   }
+  },
+  {
+   "type": "NATURAL_LISTING",
+   "advertId": "202611057658014",
+   "title": "BMW X1",
+   "subTitle": "M Sport Petrol 2.0 Automatic 4dr",
+   "attentionGrabber": "LOW MILES + RARE SPEC",
+   "price": "£6,990",
+   "formattedPrice": "£6,990",
+   "rrp": null,
+   "discount": null,
+   "condition": "used",
+   "mileageText": "47,500 miles",
+   "vehicleLocation": "Croydon (8 miles)",
+   "locationType": "STANDARD",
+   "images": [
+    "https://m.atcdn.co.uk/a/media/{resize}/ddb890d70e9b467b8fbc8c5e20a31d45.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/e8c2067fbe074193b51dd9b5157c685e.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/0dbdbfce02f24af5a5ce48f8ff49ccd3.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/9ca3b3591f1345d89362da9341716db5.jpg"
+   ],
+   "numberOfImages": 31,
+   "sellerType": "TRADE",
+   "dealerLink": "/dealers/surrey/croydon/dvp-car-sales-ltd-10008582?channel=cars",
+   "overallReviewRating": 3.9,
+   "dealerReview": {
+    "overallReviewRating": 3.9
+   },
+   "hasDigitalRetailing": true,
+   "preReg": false,
+   "position": 11,
+   "badges": [
+    {
+     "type": "MILEAGE",
+     "displayText": "47,500 miles"
+    },
+    {
+     "type": "REGISTERED_YEAR",
+     "displayText": "2012 (26 reg)"
+    }
+   ],
+   "finance": {
+    "monthlyPrice": {
+     "priceFormattedAndRounded": "£151"
+    },
+    "initialPayment": "£1,000",
+    "termMonths": "48 months",
+    "quoteSubType": "HP",
+    "financeListingProvider": "SELLER",
+    "representativeValues": [
+     {
+      "financeKey": "Finance type",
+      "financeValue": "HP"
+     },
+     {
+      "financeKey": "Monthly payments",
+      "financeValue": "£151"
+     },
+     {
+      "financeKey": "Term",
+      "financeValue": "48 months"
+     },
+     {
+      "financeKey": "Contract length",
+      "financeValue": "48 months"
+     },
+     {
+      "financeKey": "Annual mileage",
+      "financeValue": "20,000 miles"
+     },
+     {
+      "financeKey": "Car price",
+      "financeValue": "£6,990.00"
+     },
+     {
+      "financeKey": "Cash deposit",
+      "financeValue": "£1,000.00"
+     },
+     {
+      "financeKey": "Total amount of credit",
+      "financeValue": "£5,990.00"
+     },
+     {
+      "financeKey": "Total amount payable",
+      "financeValue": "£8,222.00"
+     },
+     {
+      "financeKey": "Representative APR",
+      "financeValue": "9.9%"
+     },
+     {
+      "financeKey": "Total charges payable",
+      "financeValue": "£1,232.00"
+     },
+     {
+      "financeKey": "Fixed rate of interest pa",
+      "financeValue": "9.9%"
+     },
+     {
+      "financeKey": "Option to purchase fee",
+      "financeValue": "£10.00"
+     }
+    ],
+    "rawFinanceFields": {
+     "deposit": "1000",
+     "term": "48",
+     "annualMileage": "20000"
+    }
+   },
+   "trackingContext": {
+    "retailerContext": {
+     "id": "10008582"
+    },
+    "advertContext": {
+     "id": "202611057658014",
+     "advertiserId": "10008582",
+     "advertiserType": "TRADE",
+     "make": "BMW",
+     "model": "X1",
+     "vehicleCategory": "car",
+     "year": 2012,
+     "condition": "used",
+     "price": 6990
+    },
+    "advertCardFeatures": {
+     "condition": "USED",
+     "numImages": 31,
+     "hasFinance": true,
+     "priceIndicator": "NOANALYSIS",
+     "isManufacturedApproved": false,
+     "isFranchiseApproved": false
+    },
+    "distance": {
+     "distance": 8,
+     "distance_unit": null
+    }
+   }
+  },
+  {
+   "type": "NATURAL_LISTING",
+   "advertId": "202611047609101",
+   "title": "BMW 4 Series Gran Coupe",
+   "subTitle": "2.0 420d M Sport Auto xDrive Euro 6 (s/s) 5dr",
+   "attentionGrabber": "M PFMCE KIT+XDRIVE+18'S+PRIV!",
+   "price": "£10,790",
+   "formattedPrice": "£10,790",
+   "rrp": null,
+   "discount": null,
+   "condition": "used",
+   "mileageText": "88,709 miles",
+   "vehicleLocation": "Wigan (173 miles)",
+   "locationType": "STANDARD",
+   "images": [
+    "https://m.atcdn.co.uk/a/media/{resize}/15306be3a20d44718508153870624f88.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/163927d3b8a2400dbbeefb1ca2dc430f.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/f8ee39f4162a4161aca3ee944ea1dcdb.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/ee74bc95b96a47c783383788865bcc66.jpg"
+   ],
+   "numberOfImages": 47,
+   "sellerType": "TRADE",
+   "dealerLink": "/dealers/lancashire/wigan/phantom-motor-company-618902?channel=cars",
+   "overallReviewRating": 4.5,
+   "dealerReview": {
+    "overallReviewRating": 4.5
+   },
+   "hasDigitalRetailing": true,
+   "preReg": false,
+   "position": 12,
+   "badges": [
+    {
+     "type": "PI_GOOD",
+     "displayText": "Good price"
+    },
+    {
+     "type": "MILEAGE",
+     "displayText": "88,709 miles"
+    },
+    {
+     "type": "REGISTERED_YEAR",
+     "displayText": "2016 (16 reg)"
+    }
+   ],
+   "finance": {
+    "monthlyPrice": {
+     "priceFormattedAndRounded": "£246"
+    },
+    "initialPayment": "£1,000",
+    "termMonths": "48 months",
+    "quoteSubType": "HP",
+    "financeListingProvider": "SELLER",
+    "representativeValues": [
+     {
+      "financeKey": "Finance type",
+      "financeValue": "HP"
+     },
+     {
+      "financeKey": "Monthly payments",
+      "financeValue": "£246"
+     },
+     {
+      "financeKey": "Term",
+      "financeValue": "48 months"
+     },
+     {
+      "financeKey": "Contract length",
+      "financeValue": "48 months"
+     },
+     {
+      "financeKey": "Annual mileage",
+      "financeValue": "20,000 miles"
+     },
+     {
+      "financeKey": "Car price",
+      "financeValue": "£10,790.00"
+     },
+     {
+      "financeKey": "Cash deposit",
+      "financeValue": "£1,000.00"
+     },
+     {
+      "financeKey": "Total amount of credit",
+      "financeValue": "£9,790.00"
+     },
+     {
+      "financeKey": "Total amount payable",
+      "financeValue": "£12,802.64"
+     },
+     {
+      "financeKey": "Representative APR",
+      "financeValue": "9.9%"
+     },
+     {
+      "financeKey": "Total charges payable",
+      "financeValue": "£2,012.64"
+     },
+     {
+      "financeKey": "Fixed rate of interest pa",
+      "financeValue": "9.9%"
+     },
+     {
+      "financeKey": "Option to purchase fee",
+      "financeValue": "£10.00"
+     }
+    ],
+    "rawFinanceFields": {
+     "deposit": "1000",
+     "term": "48",
+     "annualMileage": "20000"
+    }
+   },
+   "trackingContext": {
+    "retailerContext": {
+     "id": "618902"
+    },
+    "advertContext": {
+     "id": "202611047609101",
+     "advertiserId": "618902",
+     "advertiserType": "TRADE",
+     "make": "BMW",
+     "model": "4 Series Gran Coupe",
+     "vehicleCategory": "car",
+     "year": 2016,
+     "condition": "used",
+     "price": 10790
+    },
+    "advertCardFeatures": {
+     "condition": "USED",
+     "numImages": 47,
+     "hasFinance": true,
+     "priceIndicator": "GOOD",
+     "isManufacturedApproved": false,
+     "isFranchiseApproved": false
+    },
+    "distance": {
+     "distance": 173,
+     "distance_unit": null
+    }
+   }
+  },
+  {
+   "type": "NATURAL_LISTING",
+   "advertId": "202611188013409",
+   "title": "BMW 1 Series",
+   "subTitle": "2.0 116d Sport Euro 5 (s/s) 5dr",
+   "attentionGrabber": "*3 FORMER KEEPERS*",
+   "price": "£4,100",
+   "formattedPrice": "£4,100",
+   "rrp": null,
+   "discount": null,
+   "condition": "used",
+   "mileageText": "90,000 miles",
+   "vehicleLocation": "Southall (11 miles)",
+   "locationType": "STANDARD",
+   "images": [
+    "https://m.atcdn.co.uk/a/media/{resize}/7a62050f90bb4345bd34413834ba226b.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/ae9ba0571293424b9dfda38f52274f15.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/98a37e3ab4c0498192217244f43bb284.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/8d1aadaee24241fe8c7a0f91b8790f98.jpg"
+   ],
+   "numberOfImages": 35,
+   "sellerType": "TRADE",
+   "dealerLink": "/dealers/middlesex/southall/heathrow-trade-cars-limited-10003419?channel=cars",
+   "overallReviewRating": 4,
+   "dealerReview": {
+    "overallReviewRating": 4
+   },
+   "hasDigitalRetailing": true,
+   "preReg": false,
+   "position": 13,
+   "badges": [
+    {
+     "type": "PI_GREAT",
+     "displayText": "Great price"
+    },
+    {
+     "type": "MILEAGE",
+     "displayText": "90,000 miles"
+    },
+    {
+     "type": "REGISTERED_YEAR",
+     "displayText": "2014 (64 reg)"
+    }
+   ],
+   "finance": {
+    "monthlyPrice": {
+     "priceFormattedAndRounded": "£77"
+    },
+    "initialPayment": "£1,000",
+    "termMonths": "48 months",
+    "quoteSubType": "HP",
+    "financeListingProvider": "SELLER",
+    "representativeValues": [
+     {
+      "financeKey": "Finance type",
+      "financeValue": "HP"
+     },
+     {
+      "financeKey": "Monthly payments",
+      "financeValue": "£77"
+     },
+     {
+      "financeKey": "Term",
+      "financeValue": "48 months"
+     },
+     {
+      "financeKey": "Contract length",
+      "financeValue": "48 months"
+     },
+     {
+      "financeKey": "Annual mileage",
+      "financeValue": "20,000 miles"
+     },
+     {
+      "financeKey": "Car price",
+      "financeValue": "£4,100.00"
+     },
+     {
+      "financeKey": "Cash deposit",
+      "financeValue": "£1,000.00"
+     },
+     {
+      "financeKey": "Total amount of credit",
+      "financeValue": "£3,100.00"
+     },
+     {
+      "financeKey": "Total amount payable",
+      "financeValue": "£4,671.52"
+     },
+     {
+      "financeKey": "Representative APR",
+      "financeValue": "8.9%"
+     },
+     {
+      "financeKey": "Total charges payable",
+      "financeValue": "£571.52"
+     },
+     {
+      "financeKey": "Fixed rate of interest pa",
+      "financeValue": "8.9%"
+     }
+    ],
+    "rawFinanceFields": {
+     "deposit": "1000",
+     "term": "48",
+     "annualMileage": "20000"
+    }
+   },
+   "trackingContext": {
+    "retailerContext": {
+     "id": "10003419"
+    },
+    "advertContext": {
+     "id": "202611188013409",
+     "advertiserId": "10003419",
+     "advertiserType": "TRADE",
+     "make": "BMW",
+     "model": "1 Series",
+     "vehicleCategory": "car",
+     "year": 2014,
+     "condition": "used",
+     "price": 4100
+    },
+    "advertCardFeatures": {
+     "condition": "USED",
+     "numImages": 35,
+     "hasFinance": true,
+     "priceIndicator": "GREAT",
+     "isManufacturedApproved": false,
+     "isFranchiseApproved": false
+    },
+    "distance": {
+     "distance": 11,
+     "distance_unit": null
+    }
+   }
+  },
+  {
+   "type": "NATURAL_LISTING",
+   "advertId": "202610277366834",
+   "title": "BMW 1 Series",
+   "subTitle": "1.5 118i M Sport Shadow Edition Euro 6 (s/s) 5dr",
+   "attentionGrabber": null,
+   "price": "£9,190",
+   "formattedPrice": "£9,190",
+   "rrp": null,
+   "discount": null,
+   "condition": "used",
+   "mileageText": "81,000 miles",
+   "vehicleLocation": "Wandsworth (4 miles)",
+   "locationType": "STANDARD",
+   "images": [
+    "https://m.atcdn.co.uk/a/media/{resize}/aaf9e597905741908e7dc035025786bd.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/7131dee3f3954c649b4b306477cc4e0a.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/dde6bb64be18464a8b072d252fb12e26.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/47447af6414d41b89bcdd6dd5aeb0c59.jpg"
+   ],
+   "numberOfImages": 48,
+   "sellerType": "TRADE",
+   "dealerLink": "/dealers/surrey/wandsworth/chelsea-motor-company-10039928?channel=cars",
+   "overallReviewRating": 4.9,
+   "dealerReview": {
+    "overallReviewRating": 4.9
+   },
+   "hasDigitalRetailing": false,
+   "preReg": false,
+   "position": 14,
+   "badges": [
+    {
+     "type": "PI_GOOD",
+     "displayText": "Good price"
+    },
+    {
+     "type": "MILEAGE",
+     "displayText": "81,000 miles"
+    },
+    {
+     "type": "REGISTERED_YEAR",
+     "displayText": "2017 (67 reg)"
+    }
+   ],
+   "finance": {
+    "monthlyPrice": {
+     "priceFormattedAndRounded": "£206"
+    },
+    "initialPayment": "£1,000",
+    "termMonths": "48 months",
+    "quoteSubType": "HP",
+    "financeListingProvider": "SELLER",
+    "representativeValues": [
+     {
+      "financeKey": "Finance type",
+      "financeValue": "HP"
+     },
+     {
+      "financeKey": "Monthly payments",
+      "financeValue": "£206"
+     },
+     {
+      "financeKey": "Term",
+      "financeValue": "48 months"
+     },
+     {
+      "financeKey": "Contract length",
+      "financeValue": "48 months"
+     },
+     {
+      "financeKey": "Annual mileage",
+      "financeValue": "20,000 miles"
+     },
+     {
+      "financeKey": "Car price",
+      "financeValue": "£9,190.00"
+     },
+     {
+      "financeKey": "Cash deposit",
+      "financeValue": "£1,000.00"
+     },
+     {
+      "financeKey": "Total amount of credit",
+      "financeValue": "£8,190.00"
+     },
+     {
+      "financeKey": "Total amount payable",
+      "financeValue": "£10,872.16"
+     },
+     {
+      "financeKey": "Representative APR",
+      "financeValue": "9.9%"
+     },
+     {
+      "financeKey": "Total charges payable",
+      "financeValue": "£1,682.16"
+     },
+     {
+      "financeKey": "Fixed rate of interest pa",
+      "financeValue": "5.13%"
+     }
+    ],
+    "rawFinanceFields": {
+     "deposit": "1000",
+     "term": "48",
+     "annualMileage": "20000"
+    }
+   },
+   "trackingContext": {
+    "retailerContext": {
+     "id": "10039928"
+    },
+    "advertContext": {
+     "id": "202610277366834",
+     "advertiserId": "10039928",
+     "advertiserType": "TRADE",
+     "make": "BMW",
+     "model": "1 Series",
+     "vehicleCategory": "car",
+     "year": 2017,
+     "condition": "used",
+     "price": 9190
+    },
+    "advertCardFeatures": {
+     "condition": "USED",
+     "numImages": 48,
+     "hasFinance": true,
+     "priceIndicator": "GOOD",
+     "isManufacturedApproved": false,
+     "isFranchiseApproved": false
+    },
+    "distance": {
+     "distance": 4,
+     "distance_unit": null
+    }
+   }
+  },
+  {
+   "type": "NATURAL_LISTING",
+   "advertId": "202610207159984",
+   "title": "BMW 5 Series",
+   "subTitle": "2.0 520d M Sport Auto Euro 6 (s/s) 4dr",
+   "attentionGrabber": null,
+   "price": "£4,900",
+   "formattedPrice": "£4,900",
+   "rrp": null,
+   "discount": null,
+   "condition": "used",
+   "mileageText": "101,000 miles",
+   "vehicleLocation": "Brentwood (20 miles)",
+   "locationType": "STANDARD",
+   "images": [
+    "https://m.atcdn.co.uk/a/media/{resize}/d47dd5893e4940038a927af506459d4b.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/b2880ccc47f548c29e6aabc1469d0ef3.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/2d00b3c0e85346ee83a08882e7aa4bc0.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/7aec4a524ed14da59d29cf768b385c09.jpg"
+   ],
+   "numberOfImages": 15,
+   "sellerType": "TRADE",
+   "dealerLink": null,
+   "overallReviewRating": null,
+   "dealerReview": null,
+   "hasDigitalRetailing": false,
+   "preReg": false,
+   "position": 15,
+   "badges": [
+    {
+     "type": "PI_LOW",
+     "displayText": "Lower price"
+    },
+    {
+     "type": "MILEAGE",
+     "displayText": "101,000 miles"
+    },
+    {
+     "type": "REGISTERED_YEAR",
+     "displayText": "2016 (66 reg)"
+    }
+   ],
+   "finance": {
+    "monthlyPrice": {
+     "priceFormattedAndRounded": "£111"
+    },
+    "initialPayment": "£1,000",
+    "termMonths": "48 months",
+    "quoteSubType": "HP",
+    "financeListingProvider": "ZUTO",
+    "representativeValues": [
+     {
+      "financeKey": "Finance type",
+      "financeValue": "HP"
+     },
+     {
+      "financeKey": "Monthly payments",
+      "financeValue": "£111"
+     },
+     {
+      "financeKey": "Term",
+      "financeValue": "48 months"
+     },
+     {
+      "financeKey": "Contract length",
+      "financeValue": "48 months"
+     },
+     {
+      "financeKey": "Annual mileage",
+      "financeValue": "20,000 miles"
+     },
+     {
+      "financeKey": "Car price",
+      "financeValue": "£4,900.00"
+     },
+     {
+      "financeKey": "Cash deposit",
+      "financeValue": "£1,000.00"
+     },
+     {
+      "financeKey": "Total amount of credit",
+      "financeValue": "£3,900.00"
+     },
+     {
+      "financeKey": "Total amount payable",
+      "financeValue": "£6,328.00"
+     },
+     {
+      "financeKey": "Representative APR",
+      "financeValue": "17.5%"
+     },
+     {
+      "financeKey": "Total charges payable",
+      "financeValue": "£1,428.00"
+     },
+     {
+      "financeKey": "Fixed rate of interest pa",
+      "financeValue": "17.5%"
+     }
+    ],
+    "rawFinanceFields": {
+     "deposit": "1000",
+     "term": "48",
+     "annualMileage": "20000"
+    }
+   },
+   "trackingContext": {
+    "retailerContext": {
+     "id": "null"
+    },
+    "advertContext": {
+     "id": "202610207159984",
+     "advertiserId": null,
+     "advertiserType": "TRADE",
+     "make": "BMW",
+     "model": "5 Series",
+     "vehicleCategory": "car",
+     "year": 2016,
+     "condition": "used",
+     "price": 4900
+    },
+    "advertCardFeatures": {
+     "condition": "USED",
+     "numImages": 15,
+     "hasFinance": true,
+     "priceIndicator": "LOW",
+     "isManufacturedApproved": false,
+     "isFranchiseApproved": false
+    },
+    "distance": {
+     "distance": 20,
+     "distance_unit": null
+    }
+   }
+  },
+  {
+   "type": "NATURAL_LISTING",
+   "advertId": "202611177999590",
+   "title": "BMW 3 Series",
+   "subTitle": "2.0 330e 12kWh M Sport Auto Euro 6 (s/s) 4dr",
+   "attentionGrabber": "TECH/HARMON KARDON/MSPORT PLUS",
+   "price": "£17,995",
+   "formattedPrice": "£17,995",
+   "rrp": null,
+   "discount": null,
+   "condition": "used",
+   "mileageText": "65,000 miles",
+   "vehicleLocation": "Watford (15 miles)",
+   "locationType": "STANDARD",
+   "images": [
+    "https://m.atcdn.co.uk/a/media/{resize}/0b4ae1bcc2a44b54aa5501bd0ec86e30.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/d31d86d5a717419f888131b3962f9072.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/2d44adc019d34b0c872e47926202600f.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/c119a1be6a1743c1b152d8afd2cb0859.jpg"
+   ],
+   "numberOfImages": 24,
+   "sellerType": "TRADE",
+   "dealerLink": "/dealers/hertfordshire/watford/ah-specialist-cars-ltd-10037800?channel=cars",
+   "overallReviewRating": 4.8,
+   "dealerReview": {
+    "overallReviewRating": 4.8
+   },
+   "hasDigitalRetailing": true,
+   "preReg": false,
+   "position": 16,
+   "badges": [
+    {
+     "type": "PI_FAIR",
+     "displayText": "Fair price"
+    },
+    {
+     "type": "MILEAGE",
+     "displayText": "65,000 miles"
+    },
+    {
+     "type": "REGISTERED_YEAR",
+     "displayText": "2020 (20 reg)"
+    }
+   ],
+   "finance": {
+    "monthlyPrice": {
+     "priceFormattedAndRounded": "£330"
+    },
+    "initialPayment": "£1,000",
+    "termMonths": "48 months",
+    "quoteSubType": "PCP",
+    "financeListingProvider": "ZUTO",
+    "representativeValues": [
+     {
+      "financeKey": "Finance type",
+      "financeValue": "PCP"
+     },
+     {
+      "financeKey": "Monthly payments",
+      "financeValue": "£330"
+     },
+     {
+      "financeKey": "Term",
+      "financeValue": "48 months"
+     },
+     {
+      "financeKey": "Contract length",
+      "financeValue": "48 months"
+     },
+     {
+      "financeKey": "Annual mileage",
+      "financeValue": "8,000 miles"
+     },
+     {
+      "financeKey": "Car price",
+      "financeValue": "£17,995.00"
+     },
+     {
+      "financeKey": "Cash deposit",
+      "financeValue": "£1,000.00"
+     },
+     {
+      "financeKey": "Total amount of credit",
+      "financeValue": "£16,995.00"
+     },
+     {
+      "financeKey": "Total amount payable",
+      "financeValue": "£22,795.21"
+     },
+     {
+      "financeKey": "Representative APR",
+      "financeValue": "10.5%"
+     },
+     {
+      "financeKey": "Total charges payable",
+      "financeValue": "£4,800.21"
+     },
+     {
+      "financeKey": "Fixed rate of interest pa",
+      "financeValue": "10.5%"
+     },
+     {
+      "financeKey": "Excess mileage rate",
+      "financeValue": "5.47p/mile"
+     },
+     {
+      "financeKey": "Optional final payment",
+      "financeValue": "£6,312.00"
+     }
+    ],
+    "rawFinanceFields": {
+     "deposit": "1000",
+     "term": "48",
+     "annualMileage": "8000"
+    }
+   },
+   "trackingContext": {
+    "retailerContext": {
+     "id": "10037800"
+    },
+    "advertContext": {
+     "id": "202611177999590",
+     "advertiserId": "10037800",
+     "advertiserType": "TRADE",
+     "make": "BMW",
+     "model": "3 Series",
+     "vehicleCategory": "car",
+     "year": 2020,
+     "condition": "used",
+     "price": 17995
+    },
+    "advertCardFeatures": {
+     "condition": "USED",
+     "numImages": 24,
+     "hasFinance": true,
+     "priceIndicator": "FAIR",
+     "isManufacturedApproved": false,
+     "isFranchiseApproved": false
+    },
+    "distance": {
+     "distance": 15,
+     "distance_unit": null
+    }
+   }
+  },
+  {
+   "type": "NATURAL_LISTING",
+   "advertId": "202611117821981",
+   "title": "BMW 1 Series",
+   "subTitle": "2.0 120i GPF M Sport Shadow Edition Auto Euro 6 (s/s) 5dr",
+   "attentionGrabber": "HARMAN KARDON | HEATED SEATS",
+   "price": "£17,400",
+   "formattedPrice": "£17,400",
+   "rrp": null,
+   "discount": null,
+   "condition": "used",
+   "mileageText": "32,699 miles",
+   "vehicleLocation": "New Southgate (9 miles)",
+   "locationType": "STANDARD",
+   "images": [
+    "https://m.atcdn.co.uk/a/media/{resize}/5733c46585e144bf979ddeb9e1ff1718.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/836589f7b30047cf9ffb3a1fb0ea61eb.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/9e7a3455a6594342b4042df19b1d6b11.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/e922ee6a22fc4502b16369a1287ff4d6.jpg"
+   ],
+   "numberOfImages": 38,
+   "sellerType": "TRADE",
+   "dealerLink": "/dealers/barnet/new-southgate/car-planet-barnet-10040891?channel=cars",
+   "overallReviewRating": 4.6,
+   "dealerReview": {
+    "overallReviewRating": 4.6
+   },
+   "hasDigitalRetailing": false,
+   "preReg": false,
+   "position": 17,
+   "badges": [
+    {
+     "type": "PI_GOOD",
+     "displayText": "Good price"
+    },
+    {
+     "type": "MILEAGE",
+     "displayText": "32,699 miles"
+    },
+    {
+     "type": "REGISTERED_YEAR",
+     "displayText": "2019 (68 reg)"
+    }
+   ],
+   "finance": {
+    "monthlyPrice": {
+     "priceFormattedAndRounded": "£441"
+    },
+    "initialPayment": "£1,000",
+    "termMonths": "48 months",
+    "quoteSubType": "CS",
+    "financeListingProvider": "SELLER",
+    "representativeValues": [
+     {
+      "financeKey": "Finance type",
+      "financeValue": "CS"
+     },
+     {
+      "financeKey": "Monthly payments",
+      "financeValue": "£441"
+     },
+     {
+      "financeKey": "Term",
+      "financeValue": "48 months"
+     },
+     {
+      "financeKey": "Contract length",
+      "financeValue": "48 months"
+     },
+     {
+      "financeKey": "Annual mileage",
+      "financeValue": "20,000 miles"
+     },
+     {
+      "financeKey": "Car price",
+      "financeValue": "£17,400.00"
+     },
+     {
+      "financeKey": "Cash deposit",
+      "financeValue": "£1,000.00"
+     },
+     {
+      "financeKey": "Total amount of credit",
+      "financeValue": "£16,400.00"
+     },
+     {
+      "financeKey": "Total amount payable",
+      "financeValue": "£22,153.04"
+     },
+     {
+      "financeKey": "Representative APR",
+      "financeValue": "13.9%"
+     },
+     {
+      "financeKey": "Total charges payable",
+      "financeValue": "£4,753.04"
+     },
+     {
+      "financeKey": "Fixed rate of interest pa",
+      "financeValue": "7.23%"
+     },
+     {
+      "financeKey": "Admin fee",
+      "financeValue": "£0.00"
+     },
+     {
+      "financeKey": "Option to purchase fee",
+      "financeValue": "£10.00"
+     }
+    ],
+    "rawFinanceFields": {
+     "deposit": "1000",
+     "term": "48",
+     "annualMileage": "20000"
+    }
+   },
+   "trackingContext": {
+    "retailerContext": {
+     "id": "10040891"
+    },
+    "advertContext": {
+     "id": "202611117821981",
+     "advertiserId": "10040891",
+     "advertiserType": "TRADE",
+     "make": "BMW",
+     "model": "1 Series",
+     "vehicleCategory": "car",
+     "year": 2019,
+     "condition": "used",
+     "price": 17400
+    },
+    "advertCardFeatures": {
+     "condition": "USED",
+     "numImages": 38,
+     "hasFinance": true,
+     "priceIndicator": "GOOD",
+     "isManufacturedApproved": false,
+     "isFranchiseApproved": false
+    },
+    "distance": {
+     "distance": 9,
+     "distance_unit": null
+    }
+   }
+  },
+  {
+   "type": "NATURAL_LISTING",
+   "advertId": "202609286474954",
+   "title": "BMW 1 Series",
+   "subTitle": "1.5 118i M Sport Shadow Edition Euro 6 (s/s) 5dr",
+   "attentionGrabber": "Home Delivery Available*",
+   "price": "£10,750",
+   "formattedPrice": "£10,750",
+   "rrp": null,
+   "discount": null,
+   "condition": "used",
+   "mileageText": "63,000 miles",
+   "vehicleLocation": "Cobham (17 miles)",
+   "locationType": "STANDARD",
+   "images": [
+    "https://m.atcdn.co.uk/a/media/{resize}/c1067b8171a54b66830679ec6a556571.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/b2ef90a05fae4c37ac5b19a8345a4be0.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/bfba184678ed400ea804329c3ac14f09.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/a2caf33e7c4a4c6bab4102de5c6d9363.jpg"
+   ],
+   "numberOfImages": 55,
+   "sellerType": "TRADE",
+   "dealerLink": "/dealers/surrey/cobham/cobham-automotive-10023378?channel=cars",
+   "overallReviewRating": 4.4,
+   "dealerReview": {
+    "overallReviewRating": 4.4
+   },
+   "hasDigitalRetailing": true,
+   "preReg": false,
+   "position": 18,
+   "badges": [
+    {
+     "type": "PI_GOOD",
+     "displayText": "Good price"
+    },
+    {
+     "type": "MILEAGE",
+     "displayText": "63,000 miles"
+    },
+    {
+     "type": "REGISTERED_YEAR",
+     "displayText": "2018 (18 reg)"
+    }
+   ],
+   "finance": {
+    "monthlyPrice": {
+     "priceFormattedAndRounded": "£245"
+    },
+    "initialPayment": "£1,000",
+    "termMonths": "48 months",
+    "quoteSubType": "HP",
+    "financeListingProvider": "SELLER",
+    "representativeValues": [
+     {
+      "financeKey": "Finance type",
+      "financeValue": "HP"
+     },
+     {
+      "financeKey": "Monthly payments",
+      "financeValue": "£245"
+     },
+     {
+      "financeKey": "Term",
+      "financeValue": "48 months"
+     },
+     {
+      "financeKey": "Contract length",
+      "financeValue": "48 months"
+     },
+     {
+      "financeKey": "Annual mileage",
+      "financeValue": "20,000 miles"
+     },
+     {
+      "financeKey": "Car price",
+      "financeValue": "£10,750.00"
+     },
+     {
+      "financeKey": "Cash deposit",
+      "financeValue": "£1,000.00"
+     },
+     {
+      "financeKey": "Total amount of credit",
+      "financeValue": "£9,750.00"
+     },
+     {
+      "financeKey": "Total amount payable",
+      "financeValue": "£12,754.16"
+     },
+     {
+      "financeKey": "Representative APR",
+      "financeValue": "9.9%"
+     },
+     {
+      "financeKey": "Total charges payable",
+      "financeValue": "£2,004.16"
+     },
+     {
+      "financeKey": "Fixed rate of interest pa",
+      "financeValue": "9.9%"
+     },
+     {
+      "financeKey": "Option to purchase fee",
+      "financeValue": "£10.00"
+     }
+    ],
+    "rawFinanceFields": {
+     "deposit": "1000",
+     "term": "48",
+     "annualMileage": "20000"
+    }
+   },
+   "trackingContext": {
+    "retailerContext": {
+     "id": "10023378"
+    },
+    "advertContext": {
+     "id": "202609286474954",
+     "advertiserId": "10023378",
+     "advertiserType": "TRADE",
+     "make": "BMW",
+     "model": "1 Series",
+     "vehicleCategory": "car",
+     "year": 2018,
+     "condition": "used",
+     "price": 10750
+    },
+    "advertCardFeatures": {
+     "condition": "USED",
+     "numImages": 55,
+     "hasFinance": true,
+     "priceIndicator": "GOOD",
+     "isManufacturedApproved": false,
+     "isFranchiseApproved": false
+    },
+    "distance": {
+     "distance": 17,
+     "distance_unit": null
+    }
+   }
+  },
+  {
+   "type": "NATURAL_LISTING",
+   "advertId": "202611188004231",
+   "title": "BMW 3 Series",
+   "subTitle": "2.0 320i M Sport Auto Euro 6 (s/s) 4dr",
+   "attentionGrabber": "Sun Protection Pack,Leather Se",
+   "price": "£20,320",
+   "formattedPrice": "£20,320",
+   "rrp": null,
+   "discount": null,
+   "condition": "used",
+   "mileageText": "41,044 miles",
+   "vehicleLocation": "Tooting (6 miles)",
+   "locationType": "STANDARD",
+   "images": [
+    "https://m.atcdn.co.uk/a/media/{resize}/0ab11278f9b44938bd60138c631b3bb4.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/c7864d9094d341588ea6bdcd84c05be4.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/e3a71fdb344e4f65ad436a7c62763c2a.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/322b6b50f22543a9b316db88c009fb27.jpg"
+   ],
+   "numberOfImages": 27,
+   "sellerType": "TRADE",
+   "dealerLink": "/dealers/surrey/tooting/big-motoring-world-wimbledon-10036493?channel=cars",
+   "overallReviewRating": 4.8,
+   "dealerReview": {
+    "overallReviewRating": 4.8
+   },
+   "hasDigitalRetailing": false,
+   "preReg": false,
+   "position": 19,
+   "badges": [
+    {
+     "type": "PI_GOOD",
+     "displayText": "Good price"
+    },
+    {
+     "type": "MILEAGE",
+     "displayText": "41,044 miles"
+    },
+    {
+     "type": "REGISTERED_YEAR",
+     "displayText": "2021 (71 reg)"
+    }
+   ],
+   "finance": {
+    "monthlyPrice": {
+     "priceFormattedAndRounded": "£378"
+    },
+    "initialPayment": "£1,000",
+    "termMonths": "48 months",
+    "quoteSubType": "PCP",
+    "financeListingProvider": "SELLER",
+    "representativeValues": [
+     {
+      "financeKey": "Finance type",
+      "financeValue": "PCP"
+     },
+     {
+      "financeKey": "Monthly payments",
+      "financeValue": "£378"
+     },
+     {
+      "financeKey": "Term",
+      "financeValue": "48 months"
+     },
+     {
+      "financeKey": "Contract length",
+      "financeValue": "49 months"
+     },
+     {
+      "financeKey": "Annual mileage",
+      "financeValue": "8,000 miles"
+     },
+     {
+      "financeKey": "Car price",
+      "financeValue": "£20,320.00"
+     },
+     {
+      "financeKey": "Cash deposit",
+      "financeValue": "£1,000.00"
+     },
+     {
+      "financeKey": "Total amount of credit",
+      "financeValue": "£19,320.00"
+     },
+     {
+      "financeKey": "Total amount payable",
+      "financeValue": "£27,387.18"
+     },
+     {
+      "financeKey": "Representative APR",
+      "financeValue": "12.9%"
+     },
+     {
+      "financeKey": "Total charges payable",
+      "financeValue": "£7,067.18"
+     },
+     {
+      "financeKey": "Fixed rate of interest pa",
+      "financeValue": "12.9%"
+     },
+     {
+      "financeKey": "Option to purchase fee",
+      "financeValue": "£1.00"
+     },
+     {
+      "financeKey": "Excess mileage rate",
+      "financeValue": "10.00p/mile"
+     },
+     {
+      "financeKey": "Optional final payment",
+      "financeValue": "£8,269.10"
+     }
+    ],
+    "rawFinanceFields": {
+     "deposit": "1000",
+     "term": "48",
+     "annualMileage": "8000"
+    }
+   },
+   "trackingContext": {
+    "retailerContext": {
+     "id": "10036493"
+    },
+    "advertContext": {
+     "id": "202611188004231",
+     "advertiserId": "10036493",
+     "advertiserType": "TRADE",
+     "make": "BMW",
+     "model": "3 Series",
+     "vehicleCategory": "car",
+     "year": 2021,
+     "condition": "used",
+     "price": 20320
+    },
+    "advertCardFeatures": {
+     "condition": "USED",
+     "numImages": 27,
+     "hasFinance": true,
+     "priceIndicator": "GOOD",
+     "isManufacturedApproved": false,
+     "isFranchiseApproved": false
+    },
+    "distance": {
+     "distance": 6,
+     "distance_unit": null
+    }
+   }
+  },
+  {
+   "type": "NATURAL_LISTING",
+   "advertId": "202610317494973",
+   "title": "BMW 1 Series",
+   "subTitle": "2.0 116d Sport Euro 5 (s/s) 3dr",
+   "attentionGrabber": "£35 TAX | 65 MPG | NEW IN |",
+   "price": "£3,695",
+   "formattedPrice": "£3,695",
+   "rrp": null,
+   "discount": null,
+   "condition": "used",
+   "mileageText": "95,915 miles",
+   "vehicleLocation": "Newcastle Under Lyme (138 miles)",
+   "locationType": "STANDARD",
+   "images": [
+    "https://m.atcdn.co.uk/a/media/{resize}/7c953cab73574ad984b86f5e08498a28.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/0dbc0fdad1ec4ec0af993af383bc3547.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/a0ac8af249e448f295717aa52a99c38e.jpg",
+    "https://m.atcdn.co.uk/a/media/{resize}/d3ca425f086b4e609415ac2331e720a2.jpg"
+   ],
+   "numberOfImages": 19,
+   "sellerType": "TRADE",
+   "dealerLink": "/dealers/staffordshire/newcastle-under-lyme/sre-motors-ltd-10033738?channel=cars",
+   "overallReviewRating": 4.7,
+   "dealerReview": {
+    "overallReviewRating": 4.7
+   },
+   "hasDigitalRetailing": true,
+   "preReg": false,
+   "position": 20,
+   "badges": [
+    {
+     "type": "PI_FAIR",
+     "displayText": "Fair price"
+    },
+    {
+     "type": "MILEAGE",
+     "displayText": "95,915 miles"
+    },
+    {
+     "type": "REGISTERED_YEAR",
+     "displayText": "2013 (13 reg)"
+    }
+   ],
+   "finance": {
+    "monthlyPrice": {
+     "priceFormattedAndRounded": "£72"
+    },
+    "initialPayment": "£1,000",
+    "termMonths": "48 months",
+    "quoteSubType": "HP",
+    "financeListingProvider": "SELLER",
+    "representativeValues": [
+     {
+      "financeKey": "Finance type",
+      "financeValue": "HP"
+     },
+     {
+      "financeKey": "Monthly payments",
+      "financeValue": "£72"
+     },
+     {
+      "financeKey": "Term",
+      "financeValue": "48 months"
+     },
+     {
+      "financeKey": "Contract length",
+      "financeValue": "48 months"
+     },
+     {
+      "financeKey": "Annual mileage",
+      "financeValue": "20,000 miles"
+     },
+     {
+      "financeKey": "Car price",
+      "financeValue": "£3,695.00"
+     },
+     {
+      "financeKey": "Cash deposit",
+      "financeValue": "£1,000.00"
+     },
+     {
+      "financeKey": "Total amount of credit",
+      "financeValue": "£2,695.00"
+     },
+     {
+      "financeKey": "Total amount payable",
+      "financeValue": "£4,446.92"
+     },
+     {
+      "financeKey": "Representative APR",
+      "financeValue": "13.4%"
+     },
+     {
+      "financeKey": "Total charges payable",
+      "financeValue": "£751.92"
+     },
+     {
+      "financeKey": "Fixed rate of interest pa",
+      "financeValue": "13.4%"
+     },
+     {
+      "financeKey": "Admin fee",
+      "financeValue": "£1.00"
+     }
+    ],
+    "rawFinanceFields": {
+     "deposit": "1000",
+     "term": "48",
+     "annualMileage": "20000"
+    }
+   },
+   "trackingContext": {
+    "retailerContext": {
+     "id": "10033738"
+    },
+    "advertContext": {
+     "id": "202610317494973",
+     "advertiserId": "10033738",
+     "advertiserType": "TRADE",
+     "make": "BMW",
+     "model": "1 Series",
+     "vehicleCategory": "car",
+     "year": 2013,
+     "condition": "used",
+     "price": 3695
+    },
+    "advertCardFeatures": {
+     "condition": "USED",
+     "numImages": 19,
+     "hasFinance": true,
+     "priceIndicator": "FAIR",
+     "isManufacturedApproved": false,
+     "isFranchiseApproved": false
+    },
+    "distance": {
+     "distance": 138,
+     "distance_unit": null
+    }
+   }
+  }
+ ],
+ "page": {
+  "number": 1,
+  "count": 1469,
+  "results": {
+   "count": 29362
+  }
+ }
+}

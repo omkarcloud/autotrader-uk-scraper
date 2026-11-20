@@ -1,0 +1,464 @@
+{
+ "AdvertCore": {
+  "id": "202610076769720",
+  "title": "BMW 3 Series 2.0 318Ci 318 Sport Convertible 2dr Petrol Auto (203 g/km, 143 bhp)",
+  "summary": "2 door Automatic Petrol Convertible",
+  "advertText": null,
+  "attentionGrabber": null,
+  "description": "The car drives fine as these BMW does not break down so easily they continue to drive with all these problems. The car has MOT until next year June 2026. \n\nCrash on the car led to \n-scratches on the driver side door, \n-damage on the driver sides corner of rear bumper and surrounding area\n-damaged driver side mirror but holding on\n-problems with drivers lock also key remote not working \n-rear right indicator light needs replacement, the signal light works but is faint\n\nInternal issues\n-engine oil leaking which is common issue with these cars \n-Car shakes \n-Eml sign and engine management sign comes on \n-Car goes to limp mode randomly but still drives \n-tear on the internal side of the soft top hood\n\nThese are all the problems that I am aware of. Anything else I don't know I am not a mechanic so you come at your own risk at your own expense.\nSerious buyers only no monkeys.\n\nCall or leave a message on 07777484945",
+  "heading": {
+   "title": "BMW 3 Series",
+   "subtitle": "2.0 318Ci 318 Sport Convertible 2dr Petrol Auto (203 g/km, 143 bhp)"
+  },
+  "condition": "Used",
+  "stockType": "physical-stock",
+  "isAuction": false,
+  "preReg": false,
+  "isPremium": false,
+  "year": 2003,
+  "plate": "53",
+  "dateOfRegistration": "2003-09-29",
+  "colour": "Blue",
+  "owners": 5,
+  "keys": null,
+  "excludePreviousOwners": false,
+  "serviceHistory": null,
+  "lastServiceDate": null,
+  "lastServiceOdometerReadingMiles": null,
+  "motExpiry": "2027-06-09T00:00:00Z",
+  "motInsurance": null,
+  "twelveMonthsMotIncluded": false,
+  "warrantyMonthsOnPurchase": null,
+  "hoursUsed": null,
+  "dueAtSeller": null,
+  "mileage": {
+   "mileage": 103000,
+   "unit": "MILE"
+  },
+  "mileageDeviation": null,
+  "price": 1200,
+  "priceCurrency": "£",
+  "priceExcludingFees": 1200,
+  "priceOnApplication": false,
+  "plusVatIndicated": false,
+  "vatStatus": null,
+  "rrp": null,
+  "saving": null,
+  "adminFee": null,
+  "noAdminFees": false,
+  "adminFeeInfoDescription": null,
+  "priceIndicatorRating": "NOANALYSIS",
+  "priceIndicatorRatingLabel": "",
+  "priceDeviation": null,
+  "valueRating": null,
+  "manufacturerApproved": false,
+  "insuranceWriteOffCategory": null,
+  "vehicleCheckStatus": "PASSED",
+  "tradeLifecycleStatus": "FORECOURT",
+  "hasClickAndCollect": false,
+  "isPartExAvailable": false,
+  "isFinanceAvailable": false,
+  "isFinanceFullApplicationAvailable": false,
+  "hasFinanceInformation": false,
+  "financeProvider": null,
+  "financeDefaults": null,
+  "homeDeliveryRegionCodes": null,
+  "combinedFeatures": [],
+  "vehicleCondition": null
+ },
+ "AdvertSeller": {
+  "id": "202610076769720",
+  "sellerName": null,
+  "sellerType": "Private",
+  "sellerLocation": "STEPNEY",
+  "sellerLocationCounty": "TOWER HAMLETS",
+  "retailerId": null,
+  "advertiserSegment": "",
+  "sellerLocationDistance": {
+   "value": 4,
+   "unit": "M"
+  },
+  "sellerContact": {
+   "phoneNumberOne": "(020) 80337009",
+   "phoneNumberTwo": null,
+   "protectedNumber": true,
+   "byEmail": false
+  },
+  "sellerRating": null,
+  "locationArea": null,
+  "privateAdvertiser": {
+   "contact": {
+    "protectedNumber": true
+   },
+   "location": {
+    "town": "STEPNEY",
+    "county": "TOWER HAMLETS",
+    "region": null,
+    "country": null
+   }
+  },
+  "dealer": null
+ },
+ "AdvertMedia": {
+  "id": "202610076769720",
+  "imageList": {
+   "size": 17,
+   "images": [
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/ffd4885940034a9a942cc496f295a9a4.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/a2f6f511ee434cf28068f6b19786a00b.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/446408cbe38f41d6b3822690ce519ef3.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/411be25946ea4de48bcc2ed5eb4eb03d.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/d496a45cbb634047b797ce50119801da.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/8962cc9de8c34c899a0d46f12ffcbc10.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/e538b5ce55c64a8e95dc0c1ca738c410.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/4660feb25a714df8a9637b7b3e626a26.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/dd2b0fb0b3dd4e9eb9c4caf737c8e63b.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/02fc06e3daca45b7a205a7731ac34e3f.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/3c51ea0b3c95477fa30a8816b17702a6.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/b509608099fa44218ee24e6ca3f39d2c.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/6b4edc9f30564b44b46cd069fa42c060.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/2b703e6affb546fab85c9e6319454791.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/3dc848d3ab434774aee7b9cb27362ed1.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/cbe3536ea7bc4695acd49a5cab5d7c44.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/6811d800daaf43d0b7faf1a80b234568.jpg",
+     "angle": null,
+     "paint": null
+    }
+   ]
+  },
+  "video": null,
+  "spin": null,
+  "generation": {
+   "generationId": "f51928eb2b4c268b04ff8b180af4481e",
+   "name": "Convertible (1999 - 2007)",
+   "bodyType": "Convertible",
+   "make": "BMW",
+   "model": "3 Series",
+   "review": {
+    "expertReviewSummary": null
+   }
+  },
+  "capabilities": null,
+  "reservation": {
+   "eligibility": "NOT_ELIGIBLE",
+   "status": null
+  },
+  "vehicleCheckSummary": {
+   "type": "BASIC",
+   "title": "5 checks passed",
+   "performed": null,
+   "passes": 4,
+   "fails": 0,
+   "warnings": 0,
+   "writeOffCategory": null,
+   "checks": [
+    {
+     "key": "STOLEN",
+     "name": null,
+     "description": null,
+     "failed": false,
+     "warning": false,
+     "info": null
+    },
+    {
+     "key": "SCRAPPED",
+     "name": null,
+     "description": null,
+     "failed": false,
+     "warning": false,
+     "info": null
+    },
+    {
+     "key": "WRITE_OFF_CATEGORY",
+     "name": null,
+     "description": null,
+     "failed": false,
+     "warning": false,
+     "info": null
+    },
+    {
+     "key": "IMPORTED",
+     "name": null,
+     "description": null,
+     "failed": false,
+     "warning": false,
+     "info": null
+    },
+    {
+     "key": "EXPORTED",
+     "name": null,
+     "description": null,
+     "failed": false,
+     "warning": false,
+     "info": null
+    }
+   ]
+  },
+  "finance": null,
+  "collectionLocations": null
+ },
+ "AdvertSpec": {
+  "id": "202610076769720",
+  "specification": {
+   "make": "BMW",
+   "model": "3 Series",
+   "trim": "318 Sport",
+   "derivative": "2.0 318Ci 318 Sport Auto 2dr",
+   "derivativeId": "eaab29463360ae8f66ead04e512a6a29",
+   "generationId": "f51928eb2b4c268b04ff8b180af4481e",
+   "vehicleCategory": "Car",
+   "bodyType": "Convertible",
+   "rawBodyType": "Convertible",
+   "style": null,
+   "subStyle": null,
+   "fuel": "Petrol",
+   "transmission": "Automatic",
+   "driveTrain": "Rear Wheel Drive",
+   "oemDrivetrain": null,
+   "driverPosition": "Unlisted",
+   "doors": 2,
+   "seats": 4,
+   "numberOfGears": null,
+   "emissionClass": "Euro 3",
+   "ulezCompliant": false,
+   "isCrossover": false,
+   "operatingType": null,
+   "interiorDescription": null,
+   "wheelbase": null,
+   "cabType": "Unlisted",
+   "axleConfig": null,
+   "berth": null,
+   "bedrooms": null,
+   "bedroomLayout": null,
+   "endLayout": null,
+   "trailerAxleNumber": null,
+   "bikeLicenceType": null,
+   "brakeType": null,
+   "frameSizeCM": null,
+   "frameStyle": null,
+   "motorMake": null,
+   "engine": {
+    "sizeLitres": 2,
+    "sizeCC": 1995,
+    "manufacturerEngineSize": 2,
+    "power": {
+     "enginePower": 143,
+     "unit": "BHP"
+    }
+   },
+   "co2Emissions": {
+    "co2Emission": 203,
+    "unit": "g/km"
+   },
+   "annualTax": {
+    "standardRate": 445
+   },
+   "topSpeed": {
+    "topSpeed": 128
+   },
+   "range": null,
+   "battery": null
+  }
+ },
+ "AdvertSize": {
+  "id": "202610076769720",
+  "specification": {
+   "exteriorHeight": {
+    "height": 1372,
+    "unit": "mm"
+   },
+   "exteriorLength": {
+    "length": 4488,
+    "unit": "mm"
+   },
+   "exteriorWidth": {
+    "width": 1947,
+    "unit": "mm"
+   },
+   "capacityHeight": {
+    "height": null,
+    "unit": null
+   },
+   "capacityLength": {
+    "length": null,
+    "unit": null
+   },
+   "capacityWidth": {
+    "width": null,
+    "unit": null
+   },
+   "capacityWeight": {
+    "weight": null,
+    "unit": null
+   },
+   "grossVehicleWeight": {
+    "weight": null,
+    "unit": null
+   },
+   "minimumKerbWeight": {
+    "weight": 1615,
+    "unit": "kg"
+   },
+   "liftingCapacity": {
+    "weight": null,
+    "unit": null
+   },
+   "maxReach": {
+    "length": null,
+    "unit": null
+   },
+   "operatingWidth": {
+    "width": null,
+    "unit": null
+   },
+   "techData": {
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "numberOfDoors": "2",
+    "numberOfSeats": "4",
+    "cylinders": "4",
+    "valves": "16",
+    "enginePower": "143 bhp",
+    "engineTorque": "147.52 lbs/ft",
+    "topSpeed": "128 mph",
+    "zeroToSixtyMph": "11.3 seconds",
+    "zeroToSixtyTwoMph": null,
+    "co2Emissions": "203 g/km",
+    "insuranceGroup": "31E",
+    "fuelConsumptionCombined": "33.6 mpg",
+    "fuelConsumptionExtraUrban": "42.8 mpg",
+    "fuelConsumptionUrban": "24.4 mpg",
+    "fuelTankCapacity": "63 litres",
+    "bootspaceSeatsUp": null,
+    "luggageCapacitySeatsDown": null,
+    "vehicleHeight": "1372 mm",
+    "vehicleLength": "4488 mm",
+    "vehicleWidth": "1947 mm",
+    "vehicleWidthInclMirrors": null,
+    "wheelbase": "2725 mm",
+    "minimumKerbWeight": "1615 kg",
+    "grossVehicleWeight": null,
+    "maxLoadingWeight": null
+   }
+  }
+ },
+ "AdvertFeatures": {
+  "id": "202610076769720",
+  "specification": {
+   "standardFeatures": [
+    {
+     "description": "Air-Conditioning (Automatic)",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Alarm",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Alloy Wheels (17in)",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Computer",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Cruise Control",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Electric Windows (Front/Rear)",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "In Car Entertainment (Radio/Cassette)",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Parking Aid (Front)",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Seats Electric (Driver/Passenger)",
+     "category": "Standard",
+     "type": null
+    }
+   ],
+   "optionalFeatures": null
+  }
+ }
+}

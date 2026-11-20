@@ -1,0 +1,1288 @@
+{
+ "AdvertCore": {
+  "id": "202611137887719",
+  "title": "BMW 3 SERIES 2.0 320d M Sport Saloon 4dr Diesel Manual Euro 5 (s/s) (184 ps)",
+  "summary": "4 door Manual Diesel Saloon",
+  "advertText": null,
+  "attentionGrabber": "£35 TAX | 61 MPG | M SPORT |",
+  "description": "BMW 320d 2.0 diesel finished in metallic Estoril blue with 116,911 miles, is now available at SRE Motors. The vehicle is in great condition and has been well maintained by the previous owner. The vehicle has had a full vehicle inspection, it will also come with a 9 month minimum MOT, 3 months warranty and 12 months breakdown cover.\n\nThis 2013 BMW 3 Series 320d M Sport is finished in Estoril Blue and comes equipped with a 2.0 litre diesel engine. The vehicle is currently roadworthy with an MOT valid until February 2027. Inside, the cabin features enhanced Bluetooth telephone preparation with a USB audio interface, allowing for seamless connectivity, alongside a DAB digital radio for entertainment. Practicality is supported by 60-40 split folding rear seats, and parking is made easier with front and rear park distance control, which includes both front and rear parking sensors.  This model stands out for its efficiency and utility, offering a fuel economy of 61 mpg and low CO2 emissions, which helps to reduce running costs. The vehicle also provides a large boot space, making it a practical choice for those who require extra room for luggage or equipment. By combining these economical performance figures with versatile storage options and modern convenience features, this BMW 3 Series offers a balanced driving experience suitable for a variety of needs.\n\nContact us today to arrange a viewing, arrange finance, reserve this vehicle or for anymore information We offer low rate finance, nationwide delivery, extended warranty and accept part exchange.",
+  "heading": {
+   "title": "BMW 3 SERIES",
+   "subtitle": "2.0 320d M Sport Saloon 4dr Diesel Manual Euro 5 (s/s) (184 ps)"
+  },
+  "condition": "Used",
+  "stockType": "physical-stock",
+  "isAuction": false,
+  "preReg": false,
+  "isPremium": false,
+  "year": 2013,
+  "plate": "63",
+  "dateOfRegistration": "2013-11-25",
+  "colour": "Blue",
+  "owners": 5,
+  "keys": 1,
+  "excludePreviousOwners": true,
+  "serviceHistory": null,
+  "lastServiceDate": null,
+  "lastServiceOdometerReadingMiles": null,
+  "motExpiry": "2027-02-14T00:00:00Z",
+  "motInsurance": null,
+  "twelveMonthsMotIncluded": false,
+  "warrantyMonthsOnPurchase": null,
+  "hoursUsed": null,
+  "dueAtSeller": null,
+  "mileage": {
+   "mileage": 116911,
+   "unit": "MILE"
+  },
+  "mileageDeviation": 13719,
+  "price": 5495,
+  "priceCurrency": "£",
+  "priceExcludingFees": 5495,
+  "priceOnApplication": false,
+  "plusVatIndicated": false,
+  "vatStatus": null,
+  "rrp": 30630,
+  "saving": 25135,
+  "adminFee": null,
+  "noAdminFees": true,
+  "adminFeeInfoDescription": null,
+  "priceIndicatorRating": "GOOD",
+  "priceIndicatorRatingLabel": "Good price",
+  "priceDeviation": 136,
+  "valueRating": null,
+  "manufacturerApproved": false,
+  "insuranceWriteOffCategory": null,
+  "vehicleCheckStatus": "PASSED",
+  "tradeLifecycleStatus": "FORECOURT",
+  "hasClickAndCollect": true,
+  "isPartExAvailable": true,
+  "isFinanceAvailable": true,
+  "isFinanceFullApplicationAvailable": false,
+  "hasFinanceInformation": true,
+  "financeProvider": "DEALER",
+  "financeDefaults": {
+   "term": "48",
+   "mileage": "10000",
+   "depositAmount": "1000"
+  },
+  "homeDeliveryRegionCodes": [
+   "AB",
+   "AL",
+   "B",
+   "BA",
+   "BB",
+   "BD",
+   "BH",
+   "BL",
+   "BN",
+   "BR",
+   "BS",
+   "BT",
+   "CA",
+   "CB",
+   "CF",
+   "CH",
+   "CM",
+   "CO",
+   "CR",
+   "CT",
+   "CV",
+   "CW",
+   "DA",
+   "DD",
+   "DE",
+   "DG",
+   "DH",
+   "DL",
+   "DN",
+   "DT",
+   "DY",
+   "E",
+   "EC",
+   "EH",
+   "EN",
+   "EX",
+   "FK",
+   "FY",
+   "G",
+   "GL",
+   "GU",
+   "GY",
+   "HA",
+   "HD",
+   "HG",
+   "HP",
+   "HR",
+   "HS",
+   "HU",
+   "HX",
+   "IG",
+   "IM",
+   "IP",
+   "ISLANDS",
+   "IV",
+   "JE",
+   "KA",
+   "KT",
+   "KW",
+   "KY",
+   "L",
+   "LA",
+   "LD",
+   "LE",
+   "LL",
+   "LN",
+   "LS",
+   "LU",
+   "M",
+   "ME",
+   "MK",
+   "ML",
+   "N",
+   "NE",
+   "NG",
+   "NN",
+   "NP",
+   "NR",
+   "NW",
+   "OL",
+   "OX",
+   "PA",
+   "PE",
+   "PH",
+   "PL",
+   "PO",
+   "PR",
+   "RG",
+   "RH",
+   "RM",
+   "S",
+   "SA",
+   "SCILLY_ISLES",
+   "SE",
+   "SG",
+   "SK",
+   "SL",
+   "SM",
+   "SN",
+   "SO",
+   "SP",
+   "SR",
+   "SS",
+   "ST",
+   "SW",
+   "SY",
+   "TA",
+   "TD",
+   "TF",
+   "TN",
+   "TQ",
+   "TR",
+   "TS",
+   "TW",
+   "UB",
+   "W",
+   "WA",
+   "WC",
+   "WD",
+   "WF",
+   "WN",
+   "WR",
+   "WS",
+   "WV",
+   "YO",
+   "ZE"
+  ],
+  "combinedFeatures": [],
+  "vehicleCondition": null
+ },
+ "AdvertSeller": {
+  "id": "202611137887719",
+  "sellerName": "SRE Motors Ltd",
+  "sellerType": "Trade",
+  "sellerLocation": "NEWCASTLE-UNDER-LYME",
+  "sellerLocationCounty": "STAFFORDSHIRE",
+  "retailerId": "10033738",
+  "advertiserSegment": "Independent",
+  "sellerLocationDistance": {
+   "value": 138,
+   "unit": "M"
+  },
+  "sellerContact": {
+   "phoneNumberOne": "(07822) 001591",
+   "phoneNumberTwo": null,
+   "protectedNumber": null,
+   "byEmail": true
+  },
+  "sellerRating": {
+   "rating": 4.7,
+   "reviewCount": null
+  },
+  "locationArea": null,
+  "privateAdvertiser": null,
+  "dealer": {
+   "dealerId": "10033738",
+   "name": "SRE Motors Ltd",
+   "legalName": "SRE Motors Ltd",
+   "description": "",
+   "distance": null,
+   "fca": "1024055",
+   "fcaPermission": "Broker",
+   "location": {
+    "addressOne": "Swift House, Liverpool Road",
+    "addressTwo": null,
+    "town": "Newcastle-Under-Lyme",
+    "county": "Staffordshire",
+    "region": "West Midlands",
+    "country": "GB",
+    "postcode": "ST5 9JJ",
+    "latLong": "53.0210597,-2.2313701"
+   },
+   "media": {
+    "email": "yes",
+    "emailAddress": "tlroyqep@mailparser.io",
+    "phoneNumber1": "(07822) 001591",
+    "phoneNumber2": null,
+    "protectedNumber": false,
+    "dealerWebsite": {
+     "href": "https://www.sremotors.com"
+    }
+   },
+   "reviews": {
+    "numberOfReviews": "39",
+    "overallReviewRating": "4.7"
+   },
+   "marketing": {
+    "strapline": "We offer low rate finance, nationwide delivery, extended warranty and accept part exchange.",
+    "profile": null
+   },
+   "servicesOffered": {
+    "hasHomeDelivery": true,
+    "hasClickAndCollect": false,
+    "hasVideoWalkAround": true,
+    "hasSafeSelling": false,
+    "hasDealerProfilePage": true,
+    "franchises": null
+   },
+   "atAwards": [],
+   "assignedNumber": {
+    "number": "+447451283859"
+   }
+  }
+ },
+ "AdvertMedia": {
+  "id": "202611137887719",
+  "imageList": {
+   "size": 21,
+   "images": [
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/436dd9a4e21a4c6dac697ecd5d48a289.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/1c4aee5b84b64ceaaaa812374da4f3be.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/7cfe84a1ab8e4790995b4a5ad078acbd.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/d99de52a693343b2bf7905c9e186d6eb.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/e2ce1fc0595147efae35505fa2131be6.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/77169fec9565455d88cf89104ae8377e.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/deef212c8a084738a6dc54f15c96e062.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/c0ab13ed50024dc2b273094b1b2fdc83.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/f249194687664a0a82e2a5669e6c730c.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/5ce73d30aeb24676889b295eddaa7f40.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/fc9b9cc7eb8447999ea21e55a275a25d.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/6442870f1f3f415abf4657f258ac562d.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/012abf1702c24292b2d47d0d4a097341.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/04f8c0bf6ef7484eb39b2cf5de024f37.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/369a7fbf753a4f33adbfbe26774a1d15.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/ecd8bafdd1bf4f02990b055871fa29e4.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/cc262e4407f24070846e3575d4e842a0.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/cc6aab60bfc54fd1a98ecbc84821bfa7.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/1f730a7f83c3451fab616c45f02f63ad.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/31eaa1c0ee1f4d16a3b1d7501826b4db.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/f94c9b6cb944438cbbec12b303ab1b34.jpg",
+     "angle": null,
+     "paint": null
+    }
+   ]
+  },
+  "video": null,
+  "spin": null,
+  "generation": {
+   "generationId": "6e1cf47f7c03b2048932dc44c079ab4b",
+   "name": "Saloon (2011 - 2015)",
+   "bodyType": "Saloon",
+   "make": "BMW",
+   "model": "3 Series",
+   "review": {
+    "expertReviewSummary": {
+     "rating": 4.6,
+     "reviewUrl": "https://www.autotrader.co.uk/content/car-reviews/bmw-3-series-saloon-2012-expert-review"
+    }
+   }
+  },
+  "capabilities": {
+   "digitalRetailing": {
+    "enabled": true
+   },
+   "sellerPromise": null
+  },
+  "reservation": {
+   "eligibility": "ELIGIBLE",
+   "status": null
+  },
+  "vehicleCheckSummary": {
+   "type": "FULL",
+   "title": "All checks passed",
+   "performed": "2026-11-18",
+   "passes": 10,
+   "fails": 0,
+   "warnings": 0,
+   "writeOffCategory": null,
+   "checks": [
+    {
+     "key": "STOLEN",
+     "name": null,
+     "description": null,
+     "failed": false,
+     "warning": false,
+     "info": null
+    },
+    {
+     "key": "SCRAPPED",
+     "name": null,
+     "description": null,
+     "failed": false,
+     "warning": false,
+     "info": null
+    },
+    {
+     "key": "WRITE_OFF_CATEGORY",
+     "name": null,
+     "description": null,
+     "failed": false,
+     "warning": false,
+     "info": null
+    },
+    {
+     "key": "IMPORTED",
+     "name": null,
+     "description": null,
+     "failed": false,
+     "warning": false,
+     "info": null
+    },
+    {
+     "key": "EXPORTED",
+     "name": null,
+     "description": null,
+     "failed": false,
+     "warning": false,
+     "info": null
+    },
+    {
+     "key": "HIGH_RISK",
+     "name": null,
+     "description": null,
+     "failed": false,
+     "warning": false,
+     "info": null
+    },
+    {
+     "key": "MILEAGE_DISCREPANCY",
+     "name": null,
+     "description": null,
+     "failed": false,
+     "warning": false,
+     "info": null
+    },
+    {
+     "key": "COLOUR_CHANGED",
+     "name": null,
+     "description": null,
+     "failed": false,
+     "warning": false,
+     "info": null
+    },
+    {
+     "key": "PRIVATE_FINANCE",
+     "name": null,
+     "description": null,
+     "failed": false,
+     "warning": false,
+     "info": null
+    },
+    {
+     "key": "TRADE_FINANCE",
+     "name": null,
+     "description": null,
+     "failed": false,
+     "warning": false,
+     "info": null
+    },
+    {
+     "key": "REGISTRATION_CHANGED",
+     "name": null,
+     "description": null,
+     "failed": false,
+     "warning": true,
+     "info": null
+    }
+   ]
+  },
+  "finance": null,
+  "collectionLocations": null
+ },
+ "AdvertSpec": {
+  "id": "202611137887719",
+  "specification": {
+   "make": "BMW",
+   "model": "3 Series",
+   "trim": "M Sport",
+   "derivative": "2.0 320d M Sport Euro 5 (s/s) 4dr",
+   "derivativeId": "2669372f21674523bc589a6bc054ed1d",
+   "generationId": "6e1cf47f7c03b2048932dc44c079ab4b",
+   "vehicleCategory": "Car",
+   "bodyType": "Saloon",
+   "rawBodyType": "Saloon",
+   "style": null,
+   "subStyle": null,
+   "fuel": "Diesel",
+   "transmission": "Manual",
+   "driveTrain": "Rear Wheel Drive",
+   "oemDrivetrain": null,
+   "driverPosition": "Unlisted",
+   "doors": 4,
+   "seats": 5,
+   "numberOfGears": null,
+   "emissionClass": "Euro 5",
+   "ulezCompliant": false,
+   "isCrossover": false,
+   "operatingType": null,
+   "interiorDescription": null,
+   "wheelbase": "STD",
+   "cabType": "Unlisted",
+   "axleConfig": null,
+   "berth": 0,
+   "bedrooms": 0,
+   "bedroomLayout": null,
+   "endLayout": null,
+   "trailerAxleNumber": null,
+   "bikeLicenceType": null,
+   "brakeType": null,
+   "frameSizeCM": null,
+   "frameStyle": null,
+   "motorMake": null,
+   "engine": {
+    "sizeLitres": 2,
+    "sizeCC": 1995,
+    "manufacturerEngineSize": 2,
+    "power": {
+     "enginePower": 181,
+     "unit": "BHP"
+    }
+   },
+   "co2Emissions": {
+    "co2Emission": 120,
+    "unit": "g/km"
+   },
+   "annualTax": {
+    "standardRate": 35
+   },
+   "topSpeed": {
+    "topSpeed": 146
+   },
+   "range": null,
+   "battery": null
+  }
+ },
+ "AdvertSize": {
+  "id": "202611137887719",
+  "specification": {
+   "exteriorHeight": {
+    "height": 1441,
+    "unit": "mm"
+   },
+   "exteriorLength": {
+    "length": 4624,
+    "unit": "mm"
+   },
+   "exteriorWidth": {
+    "width": 1811,
+    "unit": "mm"
+   },
+   "capacityHeight": {
+    "height": null,
+    "unit": null
+   },
+   "capacityLength": {
+    "length": null,
+    "unit": null
+   },
+   "capacityWidth": {
+    "width": null,
+    "unit": null
+   },
+   "capacityWeight": {
+    "weight": null,
+    "unit": null
+   },
+   "grossVehicleWeight": {
+    "weight": 1970,
+    "unit": "kg"
+   },
+   "minimumKerbWeight": {
+    "weight": 1420,
+    "unit": "kg"
+   },
+   "liftingCapacity": {
+    "weight": null,
+    "unit": null
+   },
+   "maxReach": {
+    "length": null,
+    "unit": null
+   },
+   "operatingWidth": {
+    "width": null,
+    "unit": null
+   },
+   "techData": {
+    "bodyStyle": "Saloon",
+    "fuelType": "Diesel",
+    "transmission": "Manual 6Spd",
+    "numberOfDoors": "4",
+    "numberOfSeats": "5",
+    "cylinders": "4",
+    "valves": "16",
+    "enginePower": "181 bhp",
+    "engineTorque": "280.00 lbs/ft",
+    "topSpeed": "146 mph",
+    "zeroToSixtyMph": null,
+    "zeroToSixtyTwoMph": "7.50 seconds",
+    "co2Emissions": "120 g/km",
+    "insuranceGroup": "32D",
+    "fuelConsumptionCombined": "61.40 mpg",
+    "fuelConsumptionExtraUrban": "74.30 mpg",
+    "fuelConsumptionUrban": "48.70 mpg",
+    "fuelTankCapacity": "57.00 litres",
+    "bootspaceSeatsUp": "480 litres",
+    "luggageCapacitySeatsDown": null,
+    "vehicleHeight": "1429 mm",
+    "vehicleLength": "4624 mm",
+    "vehicleWidth": "2031 mm",
+    "vehicleWidthInclMirrors": null,
+    "wheelbase": "2810 mm",
+    "minimumKerbWeight": "1420 kg",
+    "grossVehicleWeight": "1970 kg",
+    "maxLoadingWeight": null
+   }
+  }
+ },
+ "AdvertFeatures": {
+  "id": "202611137887719",
+  "specification": {
+   "standardFeatures": [
+    {
+     "description": "12V Power Socket in Front Centre Console and Passenger Footwell",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "18in Alloy Wheels - Light M Star Spoke - 400M",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "6.5in Colour Display Screen",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "ABS - Anti Lock Braking System",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "ASC - Automatic Stability Control",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Air Conditioning - Automatic with Two-Zone Control",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Air Microfilter",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Airbags - Driver",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Airbags - First and Second Seat Row ITS Head",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Airbags - Front Side",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Airbags - Passenger",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Airbags - Passenger Deactivation",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Alarm System Thatcham 1 with Remote Control",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Ambient Lighting - Switchable BMW Classic Orange - White",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Armrest - Front Centre",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Armrest - Front and Rear Integrated into Door Trim",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Armrest - Front with Storage Compartment",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Armrest - Rear Centre",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Automatically Dimming Rear View Mirror",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "BMW Professional Radio - Single CD and MP3",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Battery Safety Cut Off",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Belt Force Limiters - Front",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Bluetooth Hands Free with USB Audio Interface",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Bottle Holders - Front Door Storage Compartments",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Brake Assist",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Brake Drying",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Brake Pad Wear Indicator - Front and Rear",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Brake Pre-Tensioning",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Bumper System Front and Rear - Replaceable Deformation Elements for Impacts Up to 9mph",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "CBC - Cornering Brake Control",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "CD Changer Preparation",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Central Locking Switch",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Check Control Warning System",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Child Proof Locking System - Rear Doors",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Child Seat ISOFIX Attachment - Rear x2",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Coded Belt Buckles Rear",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Crash Sensor - Activating Central Locking-Hazard Warning Lights-Fuel Cut Off",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Cruise Control with Brake Function",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Cup Holders - Front",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Cup Holders - Rear Armrest",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "DAB Digital Radio",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "DBC - Dynamic Brake Control",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "DSC - Dynamic Stability Control Plus",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "DTC - Dynamic Traction Control",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Daytime Running Lights",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Display - 8.8in Colour Screen",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Door Mirrors - Electric and Heated and Aspheric",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Door Mirrors - Integrated Indicator Side Repeaters",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Door Sill Finishers - M Designation",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Drive Performance Control - ECO PRO - Comfort - Sport - Sport Plus",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Dynamic Brake Lights",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "EBD - Electronic Brake-Force Distribution",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Electric Windows - Front and Rear with Open-Close Fingertip Control",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Electronic Differential Lock",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Engine Immobiliser",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Exhaust Tailpipe - Single-Chrome",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Extended Lighting",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Exterior Parts in Body Colour - Bumpers - Door Handles - Mirror Caps - Roof Mouldings",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Exterior Trim - High-Gloss Shadowline",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "First Aid Kit",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Floor Mats - Velour",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Follow Me Home Headlight Function",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Front Fog Lights",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Grab Handles - in Roof Lining x4",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Handbrake Lever - Gear Lever Knob and Gaiters in Leather",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Headlights - Automatic Activation",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Headlights - Beam Throw Control",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Headlining - Anthracite",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Heat Protection Glazing with Green Tint",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Heated Windscreen Washer Jets",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "High Level Third Brake Light",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Hill Start Assist",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Incorrect Fuelling Protection System",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Interior Lighting",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Interior Trim - Aluminium Hexagon",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Kidney Grille - Chrome Extra-Wide High-Gloss Black Vertical Slats",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "LED Tailights",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Lights-On Warning",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Luggage Compartment - Lashing Eyes x4",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Luggage Compartment - Light",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "M Aerodynamic Bodystyling",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "M Sport Instrument Cluster",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "M Sport Package",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "M Sport Suspension",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Mobility Tyre Sealing System",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Multifunction Controls for Steering Wheel",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Non Smokers Package",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "OBC - On-Board Computer",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "OBD - On Board Diagnosis",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "PDC - Park Distance Control - Rear",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Personal Profile",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Power Steering - Electric",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Pyrotechnic Belt Tensioners - Front",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Rain Sensor with Automatic Headlight Activation",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Remote Control Including Integrated Key - 2",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Run Flat Tyres",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Seat Belt Security Check for Driver",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Seats - Front - Manual Height Adjustment",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Side Impact Protection",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Sport Seats - Front",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Steering Column with Manual Reach and Rake Adjustment",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Steering Wheel - M Sport Leather Multifunction",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Storage Compartment - Rear Centre Console and Front-Rear Door Trim",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Sun Visors with Illuminated Vanity Mirrors and Ticket Holder",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Sun Visors with Vanity Mirrors and Ticket Holder",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Suspension - Front Aluminium",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "TPWS - Tyre Pressure Warning System",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Tool Kit Located in Luggage Compartment",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Trim Finisher - Estoril Blue - Matt",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "USB and 3.5mm Auxiliary Input in Centre Console for Auxiliary Playing Devices",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Warning Triangle",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Welcome Lighting",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Windscreen Wipers - Two-Speed with Adjustable Intervals",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "iDrive Controller with Shortcut Buttons",
+     "category": "Standard",
+     "type": null
+    }
+   ],
+   "optionalFeatures": [
+    {
+     "description": "Dakota Leather - Black",
+     "category": "Optional",
+     "type": null
+    },
+    {
+     "description": "Enhanced Bluetooth Telephone Preparation with USB Audio Interface",
+     "category": "Optional",
+     "type": null
+    },
+    {
+     "description": "Estoril Blue",
+     "category": "Optional",
+     "type": null
+    },
+    {
+     "description": "Extended Storage",
+     "category": "Optional",
+     "type": null
+    },
+    {
+     "description": "Head Restraints - Rear and Folding",
+     "category": "Optional",
+     "type": null
+    },
+    {
+     "description": "Interior Comfort Package",
+     "category": "Optional",
+     "type": null
+    },
+    {
+     "description": "PDC - Park Distance Control - Front and Rear",
+     "category": "Optional",
+     "type": null
+    },
+    {
+     "description": "Seats - 60-40 Split Folding Rear",
+     "category": "Optional",
+     "type": null
+    },
+    {
+     "description": "Seats - Front Heated",
+     "category": "Optional",
+     "type": null
+    },
+    {
+     "description": "Sun Protection Glazing",
+     "category": "Optional",
+     "type": null
+    }
+   ]
+  }
+ }
+}

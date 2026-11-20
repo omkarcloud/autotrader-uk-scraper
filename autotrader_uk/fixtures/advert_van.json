@@ -1,0 +1,730 @@
+{
+ "AdvertCore": {
+  "id": "202611117813303",
+  "title": "Ford Transit 2.2 TDCi 280 Duratorq FWD L1 H2 3dr",
+  "summary": "3 door Manual Diesel Panel Van",
+  "advertText": null,
+  "attentionGrabber": null,
+  "description": "This 2007 Ford Transit is a practical and reliable commercial vehicle, featuring the 2.2 TDCi 280 Duratorq engine. As a front wheel drive model, this Transit is configured in the L1 H2 body style, offering a balance of load space and accessibility suitable for a variety of transport needs. The vehicle is powered by a 2.2 litre diesel engine, which is well regarded for its efficiency and performance in working environments.\n\nThe TDCi 280 variant is designed to provide a robust solution for those requiring a dependable workhorse. By combining the efficient 2.2 litre diesel engine with the front wheel drive layout, this Transit offers a driving experience that is both stable and responsive, even when carrying a load. The L1 H2 dimensions ensure that the vehicle remains manoeuvrable in tighter spaces while still providing the necessary height and length for cargo, making it a versatile choice for businesses or individuals needing a capable and functional van.",
+  "heading": {
+   "title": "Ford Transit",
+   "subtitle": "2.2 TDCi 280 Duratorq FWD L1 H2 3dr"
+  },
+  "condition": "Used",
+  "stockType": "physical-stock",
+  "isAuction": false,
+  "preReg": false,
+  "isPremium": false,
+  "year": 2007,
+  "plate": "07",
+  "dateOfRegistration": "2007-05-31",
+  "colour": "Silver",
+  "owners": 11,
+  "keys": null,
+  "excludePreviousOwners": false,
+  "serviceHistory": "Part service history",
+  "lastServiceDate": "2026-11-03T00:00:00Z",
+  "lastServiceOdometerReadingMiles": null,
+  "motExpiry": null,
+  "motInsurance": null,
+  "twelveMonthsMotIncluded": false,
+  "warrantyMonthsOnPurchase": null,
+  "hoursUsed": null,
+  "dueAtSeller": null,
+  "mileage": {
+   "mileage": 132712,
+   "unit": "MILE"
+  },
+  "mileageDeviation": null,
+  "price": 1000,
+  "priceCurrency": "£",
+  "priceExcludingFees": 1000,
+  "priceOnApplication": false,
+  "plusVatIndicated": false,
+  "vatStatus": "INC_VAT",
+  "rrp": null,
+  "saving": null,
+  "adminFee": null,
+  "noAdminFees": true,
+  "adminFeeInfoDescription": null,
+  "priceIndicatorRating": "NOANALYSIS",
+  "priceIndicatorRatingLabel": "",
+  "priceDeviation": null,
+  "valueRating": null,
+  "manufacturerApproved": false,
+  "insuranceWriteOffCategory": null,
+  "vehicleCheckStatus": "PASSED",
+  "tradeLifecycleStatus": "FORECOURT",
+  "hasClickAndCollect": true,
+  "isPartExAvailable": true,
+  "isFinanceAvailable": false,
+  "isFinanceFullApplicationAvailable": false,
+  "hasFinanceInformation": false,
+  "financeProvider": null,
+  "financeDefaults": null,
+  "homeDeliveryRegionCodes": [
+   "AB",
+   "AL",
+   "B",
+   "BA",
+   "BB",
+   "BD",
+   "BH",
+   "BL",
+   "BN",
+   "BR",
+   "BS",
+   "BT",
+   "CA",
+   "CB",
+   "CF",
+   "CH",
+   "CM",
+   "CO",
+   "CR",
+   "CT",
+   "CV",
+   "CW",
+   "DA",
+   "DD",
+   "DE",
+   "DG",
+   "DH",
+   "DL",
+   "DN",
+   "DT",
+   "DY",
+   "E",
+   "EC",
+   "EH",
+   "EN",
+   "EX",
+   "FK",
+   "FY",
+   "G",
+   "GL",
+   "GU",
+   "GY",
+   "HA",
+   "HD",
+   "HG",
+   "HP",
+   "HR",
+   "HS",
+   "HU",
+   "HX",
+   "IG",
+   "IM",
+   "IP",
+   "ISLANDS",
+   "IV",
+   "JE",
+   "KA",
+   "KT",
+   "KW",
+   "KY",
+   "L",
+   "LA",
+   "LD",
+   "LE",
+   "LL",
+   "LN",
+   "LS",
+   "LU",
+   "M",
+   "ME",
+   "MK",
+   "ML",
+   "N",
+   "NE",
+   "NG",
+   "NN",
+   "NP",
+   "NR",
+   "NW",
+   "OL",
+   "OX",
+   "PA",
+   "PE",
+   "PH",
+   "PL",
+   "PO",
+   "PR",
+   "RG",
+   "RH",
+   "RM",
+   "S",
+   "SA",
+   "SCILLY_ISLES",
+   "SE",
+   "SG",
+   "SK",
+   "SL",
+   "SM",
+   "SN",
+   "SO",
+   "SP",
+   "SR",
+   "SS",
+   "ST",
+   "SW",
+   "SY",
+   "TA",
+   "TD",
+   "TF",
+   "TN",
+   "TQ",
+   "TR",
+   "TS",
+   "TW",
+   "UB",
+   "W",
+   "WA",
+   "WC",
+   "WD",
+   "WF",
+   "WN",
+   "WR",
+   "WS",
+   "WV",
+   "YO",
+   "ZE"
+  ],
+  "combinedFeatures": [],
+  "vehicleCondition": {
+   "tyreCondition": 85,
+   "interiorCondition": 50,
+   "bodyCondition": 50
+  }
+ },
+ "AdvertSeller": {
+  "id": "202611117813303",
+  "sellerName": "Drive Away Same Day Motors",
+  "sellerType": "Trade",
+  "sellerLocation": "ROTHERHAM",
+  "sellerLocationCounty": "SOUTH YORKSHIRE",
+  "retailerId": "10039906",
+  "advertiserSegment": "Independent",
+  "sellerLocationDistance": {
+   "value": 144,
+   "unit": "M"
+  },
+  "sellerContact": {
+   "phoneNumberOne": "(01709) 619904",
+   "phoneNumberTwo": "(07441) 906661",
+   "protectedNumber": null,
+   "byEmail": true
+  },
+  "sellerRating": {
+   "rating": 3.4,
+   "reviewCount": null
+  },
+  "locationArea": null,
+  "privateAdvertiser": null,
+  "dealer": {
+   "dealerId": "10039906",
+   "name": "Drive Away Same Day Motors",
+   "legalName": "Mitchell Josef Hunter T/A Drive Away Same Day Motors",
+   "description": "",
+   "distance": null,
+   "fca": null,
+   "fcaPermission": null,
+   "location": {
+    "addressOne": "Unit 2, Rotherham Road",
+    "addressTwo": "Parkgate",
+    "town": "Rotherham",
+    "county": "South Yorkshire",
+    "region": "Yorkshire And The Humber",
+    "country": "GB",
+    "postcode": "S62 6EA",
+    "latLong": "53.4463698,-1.3464632"
+   },
+   "media": {
+    "email": "yes",
+    "emailAddress": "fivestardoncaster39@gmail.com",
+    "phoneNumber1": "(01709) 619904",
+    "phoneNumber2": "(07441) 906661",
+    "protectedNumber": false,
+    "dealerWebsite": null
+   },
+   "reviews": {
+    "numberOfReviews": "13",
+    "overallReviewRating": "3.4"
+   },
+   "marketing": {
+    "strapline": null,
+    "profile": null
+   },
+   "servicesOffered": {
+    "hasHomeDelivery": true,
+    "hasClickAndCollect": false,
+    "hasVideoWalkAround": false,
+    "hasSafeSelling": false,
+    "hasDealerProfilePage": true,
+    "franchises": null
+   },
+   "atAwards": [],
+   "assignedNumber": null
+  }
+ },
+ "AdvertMedia": {
+  "id": "202611117813303",
+  "imageList": {
+   "size": 9,
+   "images": [
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/841120f8611843b2be7472a108003029.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/401eba7cda2b43ceb97b2bfb56f0c7be.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/190d530d27884d019142e2832167e9df.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/7e2254f6d9d845d2a721ba70ee2b2141.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/d985de4328914691a012108d56af7b23.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/6ed26591282b4b30a75d64685a010466.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/986415ae8fa240ed80d0d2a110f413ef.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/296f6588f33b47dc8cad40bc9b5a3f51.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/7cd1a3f0ba98434bb1a76eca27974aab.jpg",
+     "angle": null,
+     "paint": null
+    }
+   ]
+  },
+  "video": null,
+  "spin": null,
+  "generation": {
+   "generationId": "a27dffe162019a9eb75d2431e438ed7e",
+   "name": "Panel Van LCV (2000 - 2017)",
+   "bodyType": "Panel Van",
+   "make": "Ford",
+   "model": "Transit",
+   "review": {
+    "expertReviewSummary": null
+   }
+  },
+  "capabilities": {
+   "digitalRetailing": {
+    "enabled": true
+   },
+   "sellerPromise": null
+  },
+  "reservation": {
+   "eligibility": "ELIGIBLE",
+   "status": null
+  },
+  "vehicleCheckSummary": {
+   "type": "FULL",
+   "title": "All checks passed",
+   "performed": "2026-11-17",
+   "passes": 10,
+   "fails": 0,
+   "warnings": 0,
+   "writeOffCategory": null,
+   "checks": [
+    {
+     "key": "STOLEN",
+     "name": null,
+     "description": null,
+     "failed": false,
+     "warning": false,
+     "info": null
+    },
+    {
+     "key": "SCRAPPED",
+     "name": null,
+     "description": null,
+     "failed": false,
+     "warning": false,
+     "info": null
+    },
+    {
+     "key": "WRITE_OFF_CATEGORY",
+     "name": null,
+     "description": null,
+     "failed": false,
+     "warning": false,
+     "info": null
+    },
+    {
+     "key": "IMPORTED",
+     "name": null,
+     "description": null,
+     "failed": false,
+     "warning": false,
+     "info": null
+    },
+    {
+     "key": "EXPORTED",
+     "name": null,
+     "description": null,
+     "failed": false,
+     "warning": false,
+     "info": null
+    },
+    {
+     "key": "HIGH_RISK",
+     "name": null,
+     "description": null,
+     "failed": false,
+     "warning": false,
+     "info": null
+    },
+    {
+     "key": "MILEAGE_DISCREPANCY",
+     "name": null,
+     "description": null,
+     "failed": false,
+     "warning": false,
+     "info": null
+    },
+    {
+     "key": "COLOUR_CHANGED",
+     "name": null,
+     "description": null,
+     "failed": false,
+     "warning": false,
+     "info": null
+    },
+    {
+     "key": "PRIVATE_FINANCE",
+     "name": null,
+     "description": null,
+     "failed": false,
+     "warning": false,
+     "info": null
+    },
+    {
+     "key": "TRADE_FINANCE",
+     "name": null,
+     "description": null,
+     "failed": false,
+     "warning": false,
+     "info": null
+    },
+    {
+     "key": "REGISTRATION_CHANGED",
+     "name": null,
+     "description": null,
+     "failed": false,
+     "warning": true,
+     "info": null
+    }
+   ]
+  },
+  "finance": null,
+  "collectionLocations": null
+ },
+ "AdvertSpec": {
+  "id": "202611117813303",
+  "specification": {
+   "make": "Ford",
+   "model": "Transit",
+   "trim": null,
+   "derivative": "2.2 TDCi 280 Duratorq FWD L1 H2 3dr",
+   "derivativeId": "ed201e6df79be40abc40123fa876dde9",
+   "generationId": "a27dffe162019a9eb75d2431e438ed7e",
+   "vehicleCategory": "Van",
+   "bodyType": "Panel Van",
+   "rawBodyType": "Panel Van",
+   "style": null,
+   "subStyle": null,
+   "fuel": "Diesel",
+   "transmission": "Manual",
+   "driveTrain": "Front Wheel Drive",
+   "oemDrivetrain": "FWD",
+   "driverPosition": "Unlisted",
+   "doors": 3,
+   "seats": 3,
+   "numberOfGears": null,
+   "emissionClass": "Euro 4",
+   "ulezCompliant": false,
+   "isCrossover": false,
+   "operatingType": null,
+   "interiorDescription": null,
+   "wheelbase": "SWB",
+   "cabType": "Single Cab",
+   "axleConfig": null,
+   "berth": null,
+   "bedrooms": null,
+   "bedroomLayout": null,
+   "endLayout": null,
+   "trailerAxleNumber": null,
+   "bikeLicenceType": null,
+   "brakeType": null,
+   "frameSizeCM": null,
+   "frameStyle": null,
+   "motorMake": null,
+   "engine": {
+    "sizeLitres": 2.2,
+    "sizeCC": 2198,
+    "manufacturerEngineSize": 2.2,
+    "power": {
+     "enginePower": 108,
+     "unit": "BHP"
+    }
+   },
+   "co2Emissions": {
+    "co2Emission": 201,
+    "unit": "g/km"
+   },
+   "annualTax": {
+    "standardRate": null
+   },
+   "topSpeed": {
+    "topSpeed": null
+   },
+   "range": null,
+   "battery": null
+  }
+ },
+ "AdvertSize": {
+  "id": "202611117813303",
+  "specification": {
+   "exteriorHeight": {
+    "height": 2304,
+    "unit": "mm"
+   },
+   "exteriorLength": {
+    "length": 4863,
+    "unit": "mm"
+   },
+   "exteriorWidth": {
+    "width": 1974,
+    "unit": "mm"
+   },
+   "capacityHeight": {
+    "height": null,
+    "unit": null
+   },
+   "capacityLength": {
+    "length": null,
+    "unit": null
+   },
+   "capacityWidth": {
+    "width": null,
+    "unit": null
+   },
+   "capacityWeight": {
+    "weight": null,
+    "unit": null
+   },
+   "grossVehicleWeight": {
+    "weight": null,
+    "unit": null
+   },
+   "minimumKerbWeight": {
+    "weight": 1605,
+    "unit": "kg"
+   },
+   "liftingCapacity": {
+    "weight": null,
+    "unit": null
+   },
+   "maxReach": {
+    "length": null,
+    "unit": null
+   },
+   "operatingWidth": {
+    "width": null,
+    "unit": null
+   },
+   "techData": {
+    "bodyStyle": "Panel Van",
+    "fuelType": "Diesel",
+    "transmission": "Manual",
+    "numberOfDoors": "3",
+    "numberOfSeats": "3",
+    "cylinders": "4",
+    "valves": "16",
+    "enginePower": "108 bhp",
+    "engineTorque": "210.22 lbs/ft",
+    "topSpeed": null,
+    "zeroToSixtyMph": null,
+    "zeroToSixtyTwoMph": null,
+    "co2Emissions": "201 g/km",
+    "insuranceGroup": null,
+    "fuelConsumptionCombined": "37.2 mpg",
+    "fuelConsumptionExtraUrban": "42.8 mpg",
+    "fuelConsumptionUrban": "30.4 mpg",
+    "fuelTankCapacity": "80 litres",
+    "bootspaceSeatsUp": null,
+    "luggageCapacitySeatsDown": null,
+    "vehicleHeight": "2304 mm",
+    "vehicleLength": "4863 mm",
+    "vehicleWidth": "1974 mm",
+    "vehicleWidthInclMirrors": "2360 mm",
+    "wheelbase": null,
+    "minimumKerbWeight": "1605 kg",
+    "grossVehicleWeight": null,
+    "maxLoadingWeight": null
+   }
+  }
+ },
+ "AdvertFeatures": {
+  "id": "202611117813303",
+  "specification": {
+   "standardFeatures": [
+    {
+     "description": "Air Bag Driver",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Anti-Lock Brakes",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Armrest",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Bulkhead",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Bumpers",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Central Door Locking",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Clock",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Computer (Driver Information System)",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Cup Holder",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Doors - Winged",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Extra Storage",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Head Restraints",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Immobiliser",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "In Car Entertainment (Radio/CD)",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Mirrors External",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Power Socket",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Power-Assisted Steering",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Seat Height Adjustment",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Speakers",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Steel Wheels",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Sun Visor",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Tachometer",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Towing Equipment (General)",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Trip Computer",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Upholstery Cloth",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Windscreen Wiper",
+     "category": "Standard",
+     "type": null
+    }
+   ],
+   "optionalFeatures": null
+  }
+ }
+}

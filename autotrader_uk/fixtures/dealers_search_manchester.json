@@ -1,0 +1,1436 @@
+{
+ "size": 20,
+ "totalElements": 560,
+ "dealers": [
+  {
+   "dealerId": "10023544",
+   "name": "Bespoke20",
+   "legalName": "Bespoke20 Limited",
+   "description": "",
+   "distance": 1,
+   "fca": "973957",
+   "fcaPermission": "Broker",
+   "chargesAdminFee": false,
+   "location": {
+    "addressOne": null,
+    "addressTwo": null,
+    "town": "Manchester",
+    "county": "Lancashire",
+    "region": "North West",
+    "country": "GB",
+    "postcode": null,
+    "latLong": null
+   },
+   "marketing": {
+    "profile": null,
+    "productPageBrandingImage": "https://m.atcdn.co.uk/dealer-logo/at2/adbranding/10023544/images/fpa_logo.gif",
+    "strapline": "Suppliers of the worlds finest Automobiles* VIEWING BY APPOINTMENT  * ALL ENQUIRIES WELCOME 9AM-9PM "
+   },
+   "media": {
+    "email": "yes",
+    "emailAddress": "info@bespoke20.co.uk",
+    "phoneNumber1": "(0161) 506 5732",
+    "phoneNumber2": null,
+    "protectedNumber": false,
+    "dealerWebsite": {
+     "href": "https://www.bespoke20.co.uk/"
+    }
+   },
+   "reviews": {
+    "overallReviewRating": "5.0",
+    "numberOfReviews": "77"
+   },
+   "atAwards": [
+    {
+     "year": "2026",
+     "category": "HIGHLY_RATED"
+    }
+   ],
+   "servicesOffered": {
+    "hasDealerProfilePage": true,
+    "hasHomeDelivery": false,
+    "hasClickAndCollect": false,
+    "hasVideoWalkAround": false,
+    "franchises": null
+   },
+   "stockLevels": {
+    "matchingStockCount": "13",
+    "atStockCounts": {
+     "car": 13,
+     "bike": null,
+     "van": null,
+     "motorhome": null,
+     "caravan": null,
+     "truck": null,
+     "plant": null,
+     "agricultural": null,
+     "stock_car": 52,
+     "stock_bike": null,
+     "stock_van": 1,
+     "stock_caravan": null,
+     "stock_motorhome": null,
+     "stock_truck": null,
+     "stock_plant": null,
+     "stock_agricultural": null
+    }
+   }
+  },
+  {
+   "dealerId": "1037055",
+   "name": "Ancoats Car Sales Limited",
+   "legalName": "Ancoats Car Sales Limited",
+   "description": "",
+   "distance": 1,
+   "fca": "700145",
+   "fcaPermission": "Broker",
+   "chargesAdminFee": false,
+   "location": {
+    "addressOne": "184-188 OLDHAM ROAD",
+    "addressTwo": "ANCOATS",
+    "town": "Manchester",
+    "county": "Lancashire",
+    "region": "North West",
+    "country": "GB",
+    "postcode": "M4 6BQ",
+    "latLong": "53.487515,-2.2260194"
+   },
+   "marketing": {
+    "profile": null,
+    "productPageBrandingImage": "https://m.atcdn.co.uk/dealer-logo/at2/adbranding/1037055/images/fpa_logo.gif",
+    "strapline": "OPEN TIL 9:45-6:30 BASED IN MANCHESTER 184 OLDHAM RD M4 6BQ"
+   },
+   "media": {
+    "email": "yes",
+    "emailAddress": "VGMNXEHR@mailparser.io",
+    "phoneNumber1": "(0161) 937 1647",
+    "phoneNumber2": null,
+    "protectedNumber": false,
+    "dealerWebsite": {
+     "href": "http://www.ancoatscarsales.co.uk/"
+    }
+   },
+   "reviews": {
+    "overallReviewRating": "2.0",
+    "numberOfReviews": "310"
+   },
+   "atAwards": [
+    {
+     "year": "2021",
+     "category": "HIGHLY_RATED"
+    },
+    {
+     "year": "2023",
+     "category": "HIGHLY_RATED"
+    }
+   ],
+   "servicesOffered": {
+    "hasDealerProfilePage": true,
+    "hasHomeDelivery": true,
+    "hasClickAndCollect": false,
+    "hasVideoWalkAround": true,
+    "franchises": null
+   },
+   "stockLevels": {
+    "matchingStockCount": "61",
+    "atStockCounts": {
+     "car": 61,
+     "bike": null,
+     "van": null,
+     "motorhome": null,
+     "caravan": null,
+     "truck": null,
+     "plant": null,
+     "agricultural": null,
+     "stock_car": 71,
+     "stock_bike": null,
+     "stock_van": null,
+     "stock_caravan": null,
+     "stock_motorhome": null,
+     "stock_truck": null,
+     "stock_plant": null,
+     "stock_agricultural": null
+    }
+   }
+  },
+  {
+   "dealerId": "10044274",
+   "name": "Carcraft Select",
+   "legalName": "CARCRAFT IP CO LIMITED T/A Carcraft Select",
+   "description": "",
+   "distance": 1,
+   "fca": "976908",
+   "fcaPermission": "Appointed Representative",
+   "chargesAdminFee": false,
+   "location": {
+    "addressOne": "The Loading Bay, Albion Works, 12-18 Pollard Street",
+    "addressTwo": null,
+    "town": "Manchester",
+    "county": "Manchester",
+    "region": "North West",
+    "country": "GB",
+    "postcode": "M4 7AJ",
+    "latLong": "53.4799836,-2.2207208"
+   },
+   "marketing": {
+    "profile": null,
+    "productPageBrandingImage": "https://m.atcdn.co.uk/dealer-logo/at2/adbranding/10044274/images/fpa_logo.gif",
+    "strapline": null
+   },
+   "media": {
+    "email": "yes",
+    "emailAddress": "george.farmer@carfinance247.co.uk",
+    "phoneNumber1": "(07360) 539968",
+    "phoneNumber2": null,
+    "protectedNumber": false,
+    "dealerWebsite": {
+     "href": "http://www.carcraft-select.co.uk"
+    }
+   },
+   "reviews": {
+    "overallReviewRating": "0.0",
+    "numberOfReviews": "6"
+   },
+   "atAwards": [],
+   "servicesOffered": {
+    "hasDealerProfilePage": true,
+    "hasHomeDelivery": true,
+    "hasClickAndCollect": false,
+    "hasVideoWalkAround": true,
+    "franchises": null
+   },
+   "stockLevels": {
+    "matchingStockCount": "34",
+    "atStockCounts": {
+     "car": 34,
+     "bike": null,
+     "van": 1,
+     "motorhome": 1,
+     "caravan": null,
+     "truck": null,
+     "plant": null,
+     "agricultural": null,
+     "stock_car": 34,
+     "stock_bike": null,
+     "stock_van": 1,
+     "stock_caravan": null,
+     "stock_motorhome": 1,
+     "stock_truck": null,
+     "stock_plant": null,
+     "stock_agricultural": null
+    }
+   }
+  },
+  {
+   "dealerId": "10042245",
+   "name": "MS Motorworks",
+   "legalName": "MS Motorworks Ltd",
+   "description": "",
+   "distance": 1,
+   "fca": null,
+   "fcaPermission": null,
+   "chargesAdminFee": false,
+   "location": {
+    "addressOne": "Unit 2",
+    "addressTwo": "1 Honey Street",
+    "town": "Manchester",
+    "county": "Lancashire",
+    "region": "North West",
+    "country": "GB",
+    "postcode": "M8 8RG",
+    "latLong": "53.4934209,-2.235034"
+   },
+   "marketing": {
+    "profile": null,
+    "productPageBrandingImage": null,
+    "strapline": null
+   },
+   "media": {
+    "email": "yes",
+    "emailAddress": "msgoodstradingltd@hotmail.com",
+    "phoneNumber1": "(0161) 937 6908",
+    "phoneNumber2": "(07441) 936620",
+    "protectedNumber": false,
+    "dealerWebsite": null
+   },
+   "reviews": {
+    "overallReviewRating": "5.0",
+    "numberOfReviews": "24"
+   },
+   "atAwards": [
+    {
+     "year": "2025",
+     "category": "HIGHLY_RATED"
+    },
+    {
+     "year": "2026",
+     "category": "HIGHLY_RATED"
+    }
+   ],
+   "servicesOffered": {
+    "hasDealerProfilePage": true,
+    "hasHomeDelivery": false,
+    "hasClickAndCollect": false,
+    "hasVideoWalkAround": false,
+    "franchises": null
+   },
+   "stockLevels": {
+    "matchingStockCount": "6",
+    "atStockCounts": {
+     "car": 6,
+     "bike": null,
+     "van": null,
+     "motorhome": null,
+     "caravan": null,
+     "truck": null,
+     "plant": null,
+     "agricultural": null,
+     "stock_car": 6,
+     "stock_bike": null,
+     "stock_van": null,
+     "stock_caravan": null,
+     "stock_motorhome": null,
+     "stock_truck": null,
+     "stock_plant": null,
+     "stock_agricultural": null
+    }
+   }
+  },
+  {
+   "dealerId": "10045165",
+   "name": "Paveway Car Sales Ltd",
+   "legalName": "Paveway Car Sales Ltd",
+   "description": "",
+   "distance": 1,
+   "fca": null,
+   "fcaPermission": null,
+   "chargesAdminFee": false,
+   "location": {
+    "addressOne": "Unit 1, 3025 Holt town,",
+    "addressTwo": null,
+    "town": "Manchester",
+    "county": "Lancashire",
+    "region": "North West",
+    "country": "GB",
+    "postcode": "M40 7FQ",
+    "latLong": "53.483364,-2.21337"
+   },
+   "marketing": {
+    "profile": null,
+    "productPageBrandingImage": "https://m.atcdn.co.uk/dealer-logo/at2/adbranding/10045165/images/fpa_logo.gif",
+    "strapline": null
+   },
+   "media": {
+    "email": "yes",
+    "emailAddress": "sales@pavewaycarsales.co.uk",
+    "phoneNumber1": "(0161) 937 8347",
+    "phoneNumber2": null,
+    "protectedNumber": false,
+    "dealerWebsite": {
+     "href": "https://pavewaycarsales.co.uk/"
+    }
+   },
+   "reviews": {
+    "overallReviewRating": "4.8",
+    "numberOfReviews": "29"
+   },
+   "atAwards": [
+    {
+     "year": "2026",
+     "category": "HIGHLY_RATED"
+    }
+   ],
+   "servicesOffered": {
+    "hasDealerProfilePage": true,
+    "hasHomeDelivery": true,
+    "hasClickAndCollect": false,
+    "hasVideoWalkAround": false,
+    "franchises": null
+   },
+   "stockLevels": {
+    "matchingStockCount": "15",
+    "atStockCounts": {
+     "car": 15,
+     "bike": null,
+     "van": null,
+     "motorhome": null,
+     "caravan": null,
+     "truck": null,
+     "plant": null,
+     "agricultural": null,
+     "stock_car": 21,
+     "stock_bike": null,
+     "stock_van": null,
+     "stock_caravan": null,
+     "stock_motorhome": null,
+     "stock_truck": null,
+     "stock_plant": null,
+     "stock_agricultural": null
+    }
+   }
+  },
+  {
+   "dealerId": "10028166",
+   "name": "drivara auto sales",
+   "legalName": "Mr Oladipupo Folaranmi t/a drivara auto sales",
+   "description": "",
+   "distance": 1,
+   "fca": null,
+   "fcaPermission": null,
+   "chargesAdminFee": false,
+   "location": {
+    "addressOne": "111 Cheetham Hill Road",
+    "addressTwo": null,
+    "town": "Manchester",
+    "county": "Lancashire",
+    "region": "North West",
+    "country": "GB",
+    "postcode": "M8 8PY",
+    "latLong": "53.4933658,-2.2401734"
+   },
+   "marketing": {
+    "profile": null,
+    "productPageBrandingImage": "https://m.atcdn.co.uk/dealer-logo/at2/adbranding/10028166/images/fpa_logo.gif",
+    "strapline": null
+   },
+   "media": {
+    "email": "yes",
+    "emailAddress": "drivaraautos@gmail.com",
+    "phoneNumber1": "(0161) 506 3769",
+    "phoneNumber2": "(07537) 165294",
+    "protectedNumber": false,
+    "dealerWebsite": null
+   },
+   "reviews": {
+    "overallReviewRating": "4.3",
+    "numberOfReviews": "98"
+   },
+   "atAwards": [],
+   "servicesOffered": {
+    "hasDealerProfilePage": true,
+    "hasHomeDelivery": false,
+    "hasClickAndCollect": false,
+    "hasVideoWalkAround": true,
+    "franchises": null
+   },
+   "stockLevels": {
+    "matchingStockCount": "23",
+    "atStockCounts": {
+     "car": 23,
+     "bike": null,
+     "van": null,
+     "motorhome": null,
+     "caravan": null,
+     "truck": null,
+     "plant": null,
+     "agricultural": null,
+     "stock_car": 34,
+     "stock_bike": null,
+     "stock_van": null,
+     "stock_caravan": null,
+     "stock_motorhome": null,
+     "stock_truck": null,
+     "stock_plant": null,
+     "stock_agricultural": null
+    }
+   }
+  },
+  {
+   "dealerId": "10005969",
+   "name": "Cars Of Manchester",
+   "legalName": "Abdul Cowker t/a Cars Of Manchester",
+   "description": "",
+   "distance": 1,
+   "fca": null,
+   "fcaPermission": null,
+   "chargesAdminFee": false,
+   "location": {
+    "addressOne": "Unit 5, Collingham Street",
+    "addressTwo": "Cheetham Hill",
+    "town": "Manchester",
+    "county": "Lancashire",
+    "region": "North West",
+    "country": "GB",
+    "postcode": "M8 8RQ",
+    "latLong": "53.4953394,-2.2330549"
+   },
+   "marketing": {
+    "profile": null,
+    "productPageBrandingImage": "https://m.atcdn.co.uk/dealer-logo/at2/adbranding/10005969/images/fpa_logo.gif",
+    "strapline": "All cars come with pre-delivery inspection"
+   },
+   "media": {
+    "email": "yes",
+    "emailAddress": "wazmotors1@gmail.com",
+    "phoneNumber1": "(07588) 772062",
+    "phoneNumber2": null,
+    "protectedNumber": false,
+    "dealerWebsite": {
+     "href": "http://carsofmanchester.co.uk"
+    }
+   },
+   "reviews": {
+    "overallReviewRating": "4.8",
+    "numberOfReviews": "410"
+   },
+   "atAwards": [
+    {
+     "year": "2018",
+     "category": "HIGHLY_RATED"
+    },
+    {
+     "year": "2020",
+     "category": "HIGHLY_RATED"
+    },
+    {
+     "year": "2021",
+     "category": "HIGHLY_RATED"
+    },
+    {
+     "year": "2024",
+     "category": "HIGHLY_RATED"
+    },
+    {
+     "year": "2025",
+     "category": "HIGHLY_RATED"
+    }
+   ],
+   "servicesOffered": {
+    "hasDealerProfilePage": true,
+    "hasHomeDelivery": true,
+    "hasClickAndCollect": false,
+    "hasVideoWalkAround": false,
+    "franchises": null
+   },
+   "stockLevels": {
+    "matchingStockCount": "44",
+    "atStockCounts": {
+     "car": 44,
+     "bike": null,
+     "van": null,
+     "motorhome": null,
+     "caravan": null,
+     "truck": null,
+     "plant": null,
+     "agricultural": null,
+     "stock_car": 58,
+     "stock_bike": null,
+     "stock_van": 1,
+     "stock_caravan": null,
+     "stock_motorhome": null,
+     "stock_truck": null,
+     "stock_plant": null,
+     "stock_agricultural": null
+    }
+   }
+  },
+  {
+   "dealerId": "10050976",
+   "name": "INTIMATE CARS TRADING",
+   "legalName": "INTIMATE CARS TRADING LTD t/a INTIMATE CARS TRADING",
+   "description": "",
+   "distance": 1,
+   "fca": null,
+   "fcaPermission": null,
+   "chargesAdminFee": false,
+   "location": {
+    "addressOne": "Stocks Street",
+    "addressTwo": "166-168 Stocks Road",
+    "town": "Manchester",
+    "county": "Lancashire",
+    "region": "North West",
+    "country": "GB",
+    "postcode": "M8 8GG",
+    "latLong": "53.4950785,-2.2377261"
+   },
+   "marketing": {
+    "profile": null,
+    "productPageBrandingImage": null,
+    "strapline": null
+   },
+   "media": {
+    "email": "yes",
+    "emailAddress": "iintimatecartrading@gmail.com",
+    "phoneNumber1": "(07537) 164900",
+    "phoneNumber2": null,
+    "protectedNumber": false,
+    "dealerWebsite": null
+   },
+   "reviews": {
+    "overallReviewRating": "5.0",
+    "numberOfReviews": "1"
+   },
+   "atAwards": [],
+   "servicesOffered": {
+    "hasDealerProfilePage": true,
+    "hasHomeDelivery": false,
+    "hasClickAndCollect": false,
+    "hasVideoWalkAround": false,
+    "franchises": null
+   },
+   "stockLevels": {
+    "matchingStockCount": "7",
+    "atStockCounts": {
+     "car": 7,
+     "bike": null,
+     "van": null,
+     "motorhome": null,
+     "caravan": null,
+     "truck": null,
+     "plant": null,
+     "agricultural": null,
+     "stock_car": 7,
+     "stock_bike": null,
+     "stock_van": null,
+     "stock_caravan": null,
+     "stock_motorhome": null,
+     "stock_truck": null,
+     "stock_plant": null,
+     "stock_agricultural": null
+    }
+   }
+  },
+  {
+   "dealerId": "10043615",
+   "name": "Motors Deals Ltd",
+   "legalName": "Motors Deals Ltd",
+   "description": "",
+   "distance": 1,
+   "fca": "995436",
+   "fcaPermission": "Broker",
+   "chargesAdminFee": false,
+   "location": {
+    "addressOne": "Chancellor Lane",
+    "addressTwo": null,
+    "town": "Manchester",
+    "county": "Lancashire",
+    "region": "North West",
+    "country": "GB",
+    "postcode": "M12 6JZ",
+    "latLong": "53.4735834,-2.2161078"
+   },
+   "marketing": {
+    "profile": null,
+    "productPageBrandingImage": "https://m.atcdn.co.uk/dealer-logo/at2/adbranding/10043615/images/fpa_logo.gif",
+    "strapline": null
+   },
+   "media": {
+    "email": "yes",
+    "emailAddress": "motorsdeals@outlook.com",
+    "phoneNumber1": "(07441) 945574",
+    "phoneNumber2": "(07456) 414218",
+    "protectedNumber": false,
+    "dealerWebsite": {
+     "href": "http://motorsdealsmanchester.co.uk"
+    }
+   },
+   "reviews": {
+    "overallReviewRating": "4.8",
+    "numberOfReviews": "46"
+   },
+   "atAwards": [],
+   "servicesOffered": {
+    "hasDealerProfilePage": true,
+    "hasHomeDelivery": false,
+    "hasClickAndCollect": false,
+    "hasVideoWalkAround": false,
+    "franchises": null
+   },
+   "stockLevels": {
+    "matchingStockCount": "66",
+    "atStockCounts": {
+     "car": 66,
+     "bike": null,
+     "van": 8,
+     "motorhome": null,
+     "caravan": null,
+     "truck": 1,
+     "plant": null,
+     "agricultural": null,
+     "stock_car": 125,
+     "stock_bike": null,
+     "stock_van": 15,
+     "stock_caravan": null,
+     "stock_motorhome": null,
+     "stock_truck": 1,
+     "stock_plant": null,
+     "stock_agricultural": null
+    }
+   }
+  },
+  {
+   "dealerId": "25285",
+   "name": "Brayley Nissan Manchester",
+   "legalName": "Brayleys Cars Limited T/A Brayley Nissan Manchester",
+   "description": "",
+   "distance": 1,
+   "fca": "921434",
+   "fcaPermission": "Appointed Representative",
+   "chargesAdminFee": false,
+   "location": {
+    "addressOne": "CHANCELLOR LANE",
+    "addressTwo": null,
+    "town": "Manchester",
+    "county": "Lancashire",
+    "region": "North West",
+    "country": "GB",
+    "postcode": "M12 6JZ",
+    "latLong": "53.4731505,-2.2169041"
+   },
+   "marketing": {
+    "profile": null,
+    "productPageBrandingImage": "https://m.atcdn.co.uk/dealer-logo/at2/adbranding/25285/images/fpa_logo.gif",
+    "strapline": "WESTWAY NISSAN MANCHESTER , THE COUNTRY`S  LEADING NISSAN GARAGE "
+   },
+   "media": {
+    "email": "yes",
+    "emailAddress": "manchester-nissan.salesmanagers@brayleys.co.uk",
+    "phoneNumber1": "(0161) 937 6240",
+    "phoneNumber2": null,
+    "protectedNumber": false,
+    "dealerWebsite": {
+     "href": "https://www.brayleys.co.uk/nissan"
+    }
+   },
+   "reviews": {
+    "overallReviewRating": "4.0",
+    "numberOfReviews": "209"
+   },
+   "atAwards": [
+    {
+     "year": "2018",
+     "category": "HIGHLY_RATED"
+    },
+    {
+     "year": "2019",
+     "category": "HIGHLY_RATED"
+    },
+    {
+     "year": "2020",
+     "category": "HIGHLY_RATED"
+    },
+    {
+     "year": "2021",
+     "category": "FINALIST"
+    },
+    {
+     "year": "2021",
+     "category": "FINALIST"
+    },
+    {
+     "year": "2021",
+     "category": "FINALIST"
+    },
+    {
+     "year": "2026",
+     "category": "FINALIST"
+    },
+    {
+     "year": "2026",
+     "category": "WINNER"
+    }
+   ],
+   "servicesOffered": {
+    "hasDealerProfilePage": true,
+    "hasHomeDelivery": true,
+    "hasClickAndCollect": false,
+    "hasVideoWalkAround": true,
+    "franchises": [
+     "NISSAN"
+    ]
+   },
+   "stockLevels": {
+    "matchingStockCount": "53",
+    "atStockCounts": {
+     "car": 53,
+     "bike": null,
+     "van": 4,
+     "motorhome": null,
+     "caravan": null,
+     "truck": null,
+     "plant": null,
+     "agricultural": null,
+     "stock_car": 78,
+     "stock_bike": null,
+     "stock_van": 4,
+     "stock_caravan": null,
+     "stock_motorhome": null,
+     "stock_truck": null,
+     "stock_plant": null,
+     "stock_agricultural": null
+    }
+   }
+  },
+  {
+   "dealerId": "10050204",
+   "name": "VANCAR AUTOS LIMITED",
+   "legalName": "VANCAR AUTOS LIMITED",
+   "description": "",
+   "distance": 1,
+   "fca": null,
+   "fcaPermission": null,
+   "chargesAdminFee": false,
+   "location": {
+    "addressOne": "Yard 1 Midland Street",
+    "addressTwo": null,
+    "town": "Manchester",
+    "county": "Lancashire",
+    "region": "North West",
+    "country": "GB",
+    "postcode": "M12 6LB",
+    "latLong": "53.4738833,-2.2142864"
+   },
+   "marketing": {
+    "profile": null,
+    "productPageBrandingImage": null,
+    "strapline": null
+   },
+   "media": {
+    "email": "yes",
+    "emailAddress": "info@kainmotors.co.uk",
+    "phoneNumber1": "(07441) 996710",
+    "phoneNumber2": null,
+    "protectedNumber": false,
+    "dealerWebsite": {
+     "href": "https://www.vancarautos.co.uk"
+    }
+   },
+   "reviews": {
+    "overallReviewRating": "5.0",
+    "numberOfReviews": "9"
+   },
+   "atAwards": [],
+   "servicesOffered": {
+    "hasDealerProfilePage": true,
+    "hasHomeDelivery": true,
+    "hasClickAndCollect": false,
+    "hasVideoWalkAround": false,
+    "franchises": null
+   },
+   "stockLevels": {
+    "matchingStockCount": "38",
+    "atStockCounts": {
+     "car": 38,
+     "bike": null,
+     "van": 4,
+     "motorhome": null,
+     "caravan": null,
+     "truck": null,
+     "plant": null,
+     "agricultural": null,
+     "stock_car": 51,
+     "stock_bike": null,
+     "stock_van": 5,
+     "stock_caravan": null,
+     "stock_motorhome": null,
+     "stock_truck": null,
+     "stock_plant": null,
+     "stock_agricultural": null
+    }
+   }
+  },
+  {
+   "dealerId": "10000000",
+   "name": "Bob's Motors Trading Name 1",
+   "legalName": "Auto Trader MTD",
+   "description": "",
+   "distance": 1,
+   "fca": "12345",
+   "fcaPermission": "Broker",
+   "chargesAdminFee": false,
+   "location": {
+    "addressOne": "3 Tony Wilson Place",
+    "addressTwo": null,
+    "town": "Manchester",
+    "county": "Manchester",
+    "region": "North West",
+    "country": "GB",
+    "postcode": "M15 4FN",
+    "latLong": "53.4729315,-2.2465973"
+   },
+   "marketing": {
+    "profile": null,
+    "productPageBrandingImage": null,
+    "strapline": null
+   },
+   "media": {
+    "email": null,
+    "emailAddress": null,
+    "phoneNumber1": "(01925) 84754",
+    "phoneNumber2": null,
+    "protectedNumber": false,
+    "dealerWebsite": {
+     "href": "http://www.liveurl.co.uk"
+    }
+   },
+   "reviews": {
+    "overallReviewRating": null,
+    "numberOfReviews": null
+   },
+   "atAwards": [],
+   "servicesOffered": {
+    "hasDealerProfilePage": true,
+    "hasHomeDelivery": false,
+    "hasClickAndCollect": false,
+    "hasVideoWalkAround": false,
+    "franchises": null
+   },
+   "stockLevels": {
+    "matchingStockCount": "0",
+    "atStockCounts": {
+     "car": null,
+     "bike": null,
+     "van": null,
+     "motorhome": null,
+     "caravan": null,
+     "truck": null,
+     "plant": null,
+     "agricultural": null,
+     "stock_car": null,
+     "stock_bike": null,
+     "stock_van": null,
+     "stock_caravan": null,
+     "stock_motorhome": null,
+     "stock_truck": null,
+     "stock_plant": null,
+     "stock_agricultural": null
+    }
+   }
+  },
+  {
+   "dealerId": "10051739",
+   "name": "AGM",
+   "legalName": "Ali Group of Motors Ltd t/a AGM",
+   "description": "",
+   "distance": 1,
+   "fca": null,
+   "fcaPermission": null,
+   "chargesAdminFee": false,
+   "location": {
+    "addressOne": "1-2 Raynes Way, Broughton Street",
+    "addressTwo": null,
+    "town": "Manchester",
+    "county": "Lancashire",
+    "region": "North West",
+    "country": "GB",
+    "postcode": "M8 8NN",
+    "latLong": "53.4963917,-2.2417581"
+   },
+   "marketing": {
+    "profile": null,
+    "productPageBrandingImage": null,
+    "strapline": null
+   },
+   "media": {
+    "email": "yes",
+    "emailAddress": "aligroupofmotors@gmail.com",
+    "phoneNumber1": "(07537) 123329",
+    "phoneNumber2": null,
+    "protectedNumber": false,
+    "dealerWebsite": null
+   },
+   "reviews": {
+    "overallReviewRating": "4.9",
+    "numberOfReviews": "15"
+   },
+   "atAwards": [],
+   "servicesOffered": {
+    "hasDealerProfilePage": true,
+    "hasHomeDelivery": false,
+    "hasClickAndCollect": false,
+    "hasVideoWalkAround": false,
+    "franchises": null
+   },
+   "stockLevels": {
+    "matchingStockCount": "49",
+    "atStockCounts": {
+     "car": 49,
+     "bike": null,
+     "van": 1,
+     "motorhome": null,
+     "caravan": null,
+     "truck": null,
+     "plant": null,
+     "agricultural": null,
+     "stock_car": 49,
+     "stock_bike": null,
+     "stock_van": 1,
+     "stock_caravan": null,
+     "stock_motorhome": null,
+     "stock_truck": null,
+     "stock_plant": null,
+     "stock_agricultural": null
+    }
+   }
+  },
+  {
+   "dealerId": "10030894",
+   "name": "Motorpoint Manchester",
+   "legalName": "Motorpoint Limited T/A Motorpoint Manchester",
+   "description": "",
+   "distance": 2,
+   "fca": "684004",
+   "fcaPermission": "Broker",
+   "chargesAdminFee": true,
+   "location": {
+    "addressOne": "83 Ashton Old Road",
+    "addressTwo": null,
+    "town": "Manchester",
+    "county": "Lancashire",
+    "region": "North West",
+    "country": "GB",
+    "postcode": "M12 6LP",
+    "latLong": "53.4740575,-2.212389"
+   },
+   "marketing": {
+    "profile": null,
+    "productPageBrandingImage": "https://m.atcdn.co.uk/dealer-logo/at2/adbranding/10030894/images/fpa_logo.gif",
+    "strapline": null
+   },
+   "media": {
+    "email": "yes",
+    "emailAddress": "enquiries.email@motorpoint.co.uk",
+    "phoneNumber1": "(0161) 506 0905",
+    "phoneNumber2": null,
+    "protectedNumber": false,
+    "dealerWebsite": {
+     "href": "https://www.motorpoint.co.uk/used-cars/branch/manchester"
+    }
+   },
+   "reviews": {
+    "overallReviewRating": "4.9",
+    "numberOfReviews": "283"
+   },
+   "atAwards": [],
+   "servicesOffered": {
+    "hasDealerProfilePage": true,
+    "hasHomeDelivery": false,
+    "hasClickAndCollect": false,
+    "hasVideoWalkAround": false,
+    "franchises": null
+   },
+   "stockLevels": {
+    "matchingStockCount": "93",
+    "atStockCounts": {
+     "car": 93,
+     "bike": null,
+     "van": 2,
+     "motorhome": null,
+     "caravan": null,
+     "truck": null,
+     "plant": null,
+     "agricultural": null,
+     "stock_car": 170,
+     "stock_bike": null,
+     "stock_van": 2,
+     "stock_caravan": null,
+     "stock_motorhome": null,
+     "stock_truck": null,
+     "stock_plant": null,
+     "stock_agricultural": null
+    }
+   }
+  },
+  {
+   "dealerId": "10007940",
+   "name": "Test BMW Dealer - do not use",
+   "legalName": "Test BMW Dealer - do not use",
+   "description": "",
+   "distance": 2,
+   "fca": null,
+   "fcaPermission": null,
+   "chargesAdminFee": false,
+   "location": {
+    "addressOne": "1 TONY WILSON PLACE",
+    "addressTwo": null,
+    "town": "Manchester",
+    "county": "Manchester",
+    "region": "North West",
+    "country": "GB",
+    "postcode": "M15 4FN",
+    "latLong": "53.4722,-2.24703"
+   },
+   "marketing": {
+    "profile": null,
+    "productPageBrandingImage": null,
+    "strapline": null
+   },
+   "media": {
+    "email": null,
+    "emailAddress": null,
+    "phoneNumber1": "(0000000000) ",
+    "phoneNumber2": null,
+    "protectedNumber": false,
+    "dealerWebsite": null
+   },
+   "reviews": {
+    "overallReviewRating": null,
+    "numberOfReviews": null
+   },
+   "atAwards": [],
+   "servicesOffered": {
+    "hasDealerProfilePage": true,
+    "hasHomeDelivery": false,
+    "hasClickAndCollect": false,
+    "hasVideoWalkAround": false,
+    "franchises": null
+   },
+   "stockLevels": {
+    "matchingStockCount": "0",
+    "atStockCounts": {
+     "car": null,
+     "bike": null,
+     "van": null,
+     "motorhome": null,
+     "caravan": null,
+     "truck": null,
+     "plant": null,
+     "agricultural": null,
+     "stock_car": null,
+     "stock_bike": null,
+     "stock_van": null,
+     "stock_caravan": null,
+     "stock_motorhome": null,
+     "stock_truck": null,
+     "stock_plant": null,
+     "stock_agricultural": null
+    }
+   }
+  },
+  {
+   "dealerId": "10040455",
+   "name": "Test Manufacturer DO NOT USE",
+   "legalName": "Test Manufacturer DO NOT USE",
+   "description": "",
+   "distance": 2,
+   "fca": "123",
+   "fcaPermission": "Lender",
+   "chargesAdminFee": false,
+   "location": {
+    "addressOne": null,
+    "addressTwo": null,
+    "town": null,
+    "county": null,
+    "region": null,
+    "country": null,
+    "postcode": null,
+    "latLong": null
+   },
+   "marketing": {
+    "profile": null,
+    "productPageBrandingImage": null,
+    "strapline": null
+   },
+   "media": {
+    "email": null,
+    "emailAddress": null,
+    "phoneNumber1": "(0161) 1029384",
+    "phoneNumber2": "(0161) 1029384",
+    "protectedNumber": false,
+    "dealerWebsite": null
+   },
+   "reviews": {
+    "overallReviewRating": null,
+    "numberOfReviews": null
+   },
+   "atAwards": [],
+   "servicesOffered": {
+    "hasDealerProfilePage": true,
+    "hasHomeDelivery": false,
+    "hasClickAndCollect": false,
+    "hasVideoWalkAround": false,
+    "franchises": null
+   },
+   "stockLevels": {
+    "matchingStockCount": "0",
+    "atStockCounts": {
+     "car": null,
+     "bike": null,
+     "van": null,
+     "motorhome": null,
+     "caravan": null,
+     "truck": null,
+     "plant": null,
+     "agricultural": null,
+     "stock_car": null,
+     "stock_bike": null,
+     "stock_van": null,
+     "stock_caravan": null,
+     "stock_motorhome": null,
+     "stock_truck": null,
+     "stock_plant": null,
+     "stock_agricultural": null
+    }
+   }
+  },
+  {
+   "dealerId": "10039762",
+   "name": "TEST Manufacturer Do Not Use",
+   "legalName": "TEST Manufacturer Do Not Use",
+   "description": "",
+   "distance": 2,
+   "fca": "123456",
+   "fcaPermission": "Lender",
+   "chargesAdminFee": false,
+   "location": {
+    "addressOne": null,
+    "addressTwo": null,
+    "town": null,
+    "county": null,
+    "region": null,
+    "country": null,
+    "postcode": null,
+    "latLong": null
+   },
+   "marketing": {
+    "profile": null,
+    "productPageBrandingImage": null,
+    "strapline": null
+   },
+   "media": {
+    "email": null,
+    "emailAddress": null,
+    "phoneNumber1": "(92718372788) ",
+    "phoneNumber2": "(92718372788) ",
+    "protectedNumber": false,
+    "dealerWebsite": null
+   },
+   "reviews": {
+    "overallReviewRating": null,
+    "numberOfReviews": null
+   },
+   "atAwards": [],
+   "servicesOffered": {
+    "hasDealerProfilePage": true,
+    "hasHomeDelivery": false,
+    "hasClickAndCollect": false,
+    "hasVideoWalkAround": false,
+    "franchises": [
+     "MERCEDES-BENZ"
+    ]
+   },
+   "stockLevels": {
+    "matchingStockCount": "0",
+    "atStockCounts": {
+     "car": null,
+     "bike": null,
+     "van": null,
+     "motorhome": null,
+     "caravan": null,
+     "truck": null,
+     "plant": null,
+     "agricultural": null,
+     "stock_car": null,
+     "stock_bike": null,
+     "stock_van": null,
+     "stock_caravan": null,
+     "stock_motorhome": null,
+     "stock_truck": null,
+     "stock_plant": null,
+     "stock_agricultural": null
+    }
+   }
+  },
+  {
+   "dealerId": "10015235",
+   "name": "F11 Car Sales Manchester",
+   "legalName": "Charlie Manchester Limited",
+   "description": "",
+   "distance": 2,
+   "fca": null,
+   "fcaPermission": null,
+   "chargesAdminFee": false,
+   "location": {
+    "addressOne": "16-18, Hyde Road",
+    "addressTwo": null,
+    "town": "Manchester",
+    "county": "Lancashire",
+    "region": "North West",
+    "country": "GB",
+    "postcode": "M12 6BW",
+    "latLong": "53.4697057,-2.2209502"
+   },
+   "marketing": {
+    "profile": null,
+    "productPageBrandingImage": "https://m.atcdn.co.uk/dealer-logo/at2/adbranding/10015235/images/fpa_logo.gif",
+    "strapline": null
+   },
+   "media": {
+    "email": "yes",
+    "emailAddress": "utkhan777@hotmail.com",
+    "phoneNumber1": "(07537) 145709",
+    "phoneNumber2": null,
+    "protectedNumber": false,
+    "dealerWebsite": {
+     "href": "https://www.f11carsalesmanchester.co.uk/"
+    }
+   },
+   "reviews": {
+    "overallReviewRating": "5.0",
+    "numberOfReviews": "101"
+   },
+   "atAwards": [],
+   "servicesOffered": {
+    "hasDealerProfilePage": true,
+    "hasHomeDelivery": true,
+    "hasClickAndCollect": false,
+    "hasVideoWalkAround": false,
+    "franchises": null
+   },
+   "stockLevels": {
+    "matchingStockCount": "42",
+    "atStockCounts": {
+     "car": 42,
+     "bike": null,
+     "van": null,
+     "motorhome": null,
+     "caravan": null,
+     "truck": null,
+     "plant": null,
+     "agricultural": null,
+     "stock_car": 57,
+     "stock_bike": null,
+     "stock_van": null,
+     "stock_caravan": null,
+     "stock_motorhome": null,
+     "stock_truck": null,
+     "stock_plant": null,
+     "stock_agricultural": null
+    }
+   }
+  },
+  {
+   "dealerId": "10048932",
+   "name": "Ace Car Solutions LTD",
+   "legalName": "Ace Car Solutions LTD",
+   "description": "",
+   "distance": 2,
+   "fca": null,
+   "fcaPermission": null,
+   "chargesAdminFee": false,
+   "location": {
+    "addressOne": "Ace Car Solutions",
+    "addressTwo": "23 Hyde Road",
+    "town": "Manchester",
+    "county": "Lancashire",
+    "region": "North West",
+    "country": "GB",
+    "postcode": "M12 6BQ",
+    "latLong": "53.4698817,-2.2202619"
+   },
+   "marketing": {
+    "profile": null,
+    "productPageBrandingImage": null,
+    "strapline": null
+   },
+   "media": {
+    "email": "yes",
+    "emailAddress": "acecarsolutions@hotmail.com",
+    "phoneNumber1": "(07418) 690318",
+    "phoneNumber2": null,
+    "protectedNumber": false,
+    "dealerWebsite": null
+   },
+   "reviews": {
+    "overallReviewRating": "5.0",
+    "numberOfReviews": "23"
+   },
+   "atAwards": [],
+   "servicesOffered": {
+    "hasDealerProfilePage": true,
+    "hasHomeDelivery": false,
+    "hasClickAndCollect": false,
+    "hasVideoWalkAround": false,
+    "franchises": null
+   },
+   "stockLevels": {
+    "matchingStockCount": "9",
+    "atStockCounts": {
+     "car": 9,
+     "bike": null,
+     "van": null,
+     "motorhome": null,
+     "caravan": null,
+     "truck": null,
+     "plant": null,
+     "agricultural": null,
+     "stock_car": 14,
+     "stock_bike": null,
+     "stock_van": null,
+     "stock_caravan": null,
+     "stock_motorhome": null,
+     "stock_truck": null,
+     "stock_plant": null,
+     "stock_agricultural": null
+    }
+   }
+  },
+  {
+   "dealerId": "10025888",
+   "name": "Clear Car Group LTD",
+   "legalName": "Clear Car Group LTD",
+   "description": "",
+   "distance": 2,
+   "fca": "838829",
+   "fcaPermission": "Broker",
+   "chargesAdminFee": false,
+   "location": {
+    "addressOne": "5 Dalberg Street",
+    "addressTwo": null,
+    "town": "Manchester",
+    "county": "Lancashire",
+    "region": "North West",
+    "country": "GB",
+    "postcode": "M12 6BN",
+    "latLong": "53.4695498,-2.2198987"
+   },
+   "marketing": {
+    "profile": null,
+    "productPageBrandingImage": "https://m.atcdn.co.uk/dealer-logo/at2/adbranding/10025888/images/fpa_logo.gif",
+    "strapline": null
+   },
+   "media": {
+    "email": "yes",
+    "emailAddress": "sales@clearcargroup.co.uk",
+    "phoneNumber1": "(0161) 937 2453",
+    "phoneNumber2": null,
+    "protectedNumber": false,
+    "dealerWebsite": {
+     "href": "https://www.clearcargroup.co.uk/"
+    }
+   },
+   "reviews": {
+    "overallReviewRating": "0.0",
+    "numberOfReviews": "12"
+   },
+   "atAwards": [],
+   "servicesOffered": {
+    "hasDealerProfilePage": true,
+    "hasHomeDelivery": true,
+    "hasClickAndCollect": false,
+    "hasVideoWalkAround": true,
+    "franchises": null
+   },
+   "stockLevels": {
+    "matchingStockCount": "37",
+    "atStockCounts": {
+     "car": 37,
+     "bike": null,
+     "van": 1,
+     "motorhome": null,
+     "caravan": null,
+     "truck": null,
+     "plant": null,
+     "agricultural": null,
+     "stock_car": 37,
+     "stock_bike": null,
+     "stock_van": 1,
+     "stock_caravan": null,
+     "stock_motorhome": null,
+     "stock_truck": null,
+     "stock_plant": null,
+     "stock_agricultural": null
+    }
+   }
+  }
+ ]
+}

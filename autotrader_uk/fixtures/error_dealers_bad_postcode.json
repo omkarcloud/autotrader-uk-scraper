@@ -1,0 +1,37 @@
+[
+ {
+  "errors": [
+   {
+    "message": "Bad Request",
+    "locations": [
+     {
+      "line": 3,
+      "column": 62
+     }
+    ],
+    "path": [
+     "search",
+     "dealers",
+     "dealerList"
+    ],
+    "extensions": {
+     "code": "INTERNAL_SERVER_ERROR",
+     "exception": {
+      "name": "HttpError",
+      "type": "HttpError",
+      "request": {
+       "requestUrl": "http://app.search-one-read.svc.cluster.local/api/v1/retailer?retailer_type=used_car&postcode=ZZ99%209ZZ&size=20&page=1"
+      },
+      "response": {
+       "statusCode": 400,
+       "error": "Bad Request",
+       "body": "{\"status\":\"400 BAD_REQUEST\",\"errors\":[\"GeospatialId error: cannot locate id: ZZ99 9ZZ\"],\"parametersInError\":[\"postcode\"],\"_links\":{\"self\":{\"href\":\"http://app.search-one-read.svc.cluster.local/api/v1/retailer?retailer_type=used_car&postcode=ZZ99%209ZZ&size=20&page=1\"}}}"
+      },
+      "statusCode": 400
+     }
+    }
+   }
+  ],
+  "data": null
+ }
+]

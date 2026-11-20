@@ -1,0 +1,1414 @@
+{
+ "AdvertCore": {
+  "id": "202611177981513",
+  "title": "Tesla Model S 85D (Dual Motor) Auto 4WD 5dr",
+  "summary": "5 door Automatic Electric Hatchback",
+  "advertText": null,
+  "attentionGrabber": "FREE CHARGING/PANO/REVC/£20TAX",
+  "description": "FINANCE & PCP AVAILABLE, COMPLEMENTARY WARRANTY INCLUDED, GOOD CONDITION, WE TAKE PART EXCHANGE! Tesla Model S 85D (Dual Motor) Auto 4WD 5dr. HPI Clear, 12 Months MOT Included With No Advisories, 1 Owner, EURO6 ULEZ Compliant, £20 Annual Road TAX, Tesla Free Unlimited Fast Charging - Tesla Fast Chargers Only, Panoramic Double Glass Sunroof Sliding/Tilting, Keyless Entry, Adaptive Cruise Control, Speed Limiting Function, Reverse Camera, Parking Sensors - Front And Rear, Automatic Emergency Braking, Blind Spot Warning, Lane Departure Warning, Obstacle Aware Acceleration, Speed Limit Display, 4 Wheel Drive, Power Steering - Speed Sensitive, Electric Parking Brake, Accleration Modes Chill/Standard, Steering Mode Comfort/Standard/Sport, Regenerative Braking Modes Low/Standard, Slip Start For Snow/Sand/Mud, Electronic Stability Control, Anti-lock Braking System, Tyre Pressure Monitoring System, Headlights - Automatic, Headlights - Xenon, Daytime Running Lights - LED, Auto High Beam, Rear Taillights - LED, Wipers - Rain Sensing, Electric Opening/Closing Tailgate, Electric Windows, Electric Mirrors, Powerfolding Mirrors, Electric Steering Column, Electric Front Seats, Front Heated Seats, Automatic Dual Zone Climate Control, Air Conditioning, Front And Rear Screen Demister, 17inch Touchscreen Media Interface, Drivers Virtual Display, Bluetooth, Radio, DAB, Arcade Mode, Toybox Mode, Telephone Connection, Multifunctional Steering Wheel, Full Leather Seats In Black, Alcantara And Leather Design Dashboard, Carbon Design Interior Trims, Aluminium Design Door Trims, Exterior Badging, Privacy Glass, 19inch Alloy Wheels.\n\nALL VEHICLES ARE FULLY INSPECTED PRIOR TO SALE. Wish to make this purchase hassle free with ease? Feel free to enquire about our competitive Financial packages. We can assist you in securing finance for your New car with ease- regardless of your credit status/history. We include a COMPLEMENTARY WARRANTY on all our vehicles.  Visit our website for more information on our vehicles - www.acecarsltd.co.uk",
+  "heading": {
+   "title": "Tesla Model S",
+   "subtitle": "85D (Dual Motor) Auto 4WD 5dr"
+  },
+  "condition": "Used",
+  "stockType": "physical-stock",
+  "isAuction": false,
+  "preReg": false,
+  "isPremium": false,
+  "year": 2016,
+  "plate": "16",
+  "dateOfRegistration": "2016-03-01",
+  "colour": "Blue",
+  "owners": 1,
+  "keys": null,
+  "excludePreviousOwners": false,
+  "serviceHistory": "Full service history",
+  "lastServiceDate": null,
+  "lastServiceOdometerReadingMiles": null,
+  "motExpiry": null,
+  "motInsurance": null,
+  "twelveMonthsMotIncluded": false,
+  "warrantyMonthsOnPurchase": null,
+  "hoursUsed": null,
+  "dueAtSeller": null,
+  "mileage": {
+   "mileage": 81184,
+   "unit": "MILE"
+  },
+  "mileageDeviation": -1119,
+  "price": 13495,
+  "priceCurrency": "£",
+  "priceExcludingFees": 13495,
+  "priceOnApplication": false,
+  "plusVatIndicated": false,
+  "vatStatus": null,
+  "rrp": null,
+  "saving": null,
+  "adminFee": null,
+  "noAdminFees": true,
+  "adminFeeInfoDescription": null,
+  "priceIndicatorRating": "GREAT",
+  "priceIndicatorRatingLabel": "Great price",
+  "priceDeviation": -287,
+  "valueRating": null,
+  "manufacturerApproved": false,
+  "insuranceWriteOffCategory": null,
+  "vehicleCheckStatus": "PASSED",
+  "tradeLifecycleStatus": "FORECOURT",
+  "hasClickAndCollect": true,
+  "isPartExAvailable": true,
+  "isFinanceAvailable": true,
+  "isFinanceFullApplicationAvailable": false,
+  "hasFinanceInformation": true,
+  "financeProvider": "DEALER",
+  "financeDefaults": {
+   "term": "48",
+   "mileage": "10000",
+   "depositAmount": "1000"
+  },
+  "homeDeliveryRegionCodes": [
+   "AL",
+   "B",
+   "BA",
+   "BB",
+   "BD",
+   "BH",
+   "BL",
+   "BN",
+   "BR",
+   "BS",
+   "BT",
+   "CA",
+   "CB",
+   "CF",
+   "CH",
+   "CM",
+   "CO",
+   "CR",
+   "CV",
+   "CW",
+   "DA",
+   "DD",
+   "DE",
+   "DG",
+   "DH",
+   "DL",
+   "DN",
+   "DT",
+   "DY",
+   "E",
+   "EC",
+   "EH",
+   "EN",
+   "EX",
+   "FK",
+   "FY",
+   "G",
+   "GL",
+   "GU",
+   "HA",
+   "HD",
+   "HG",
+   "HP",
+   "HR",
+   "HU",
+   "HX",
+   "IG",
+   "IM",
+   "IP",
+   "KA",
+   "KT",
+   "KY",
+   "L",
+   "LA",
+   "LD",
+   "LE",
+   "LL",
+   "LN",
+   "LS",
+   "LU",
+   "M",
+   "ME",
+   "MK",
+   "ML",
+   "N",
+   "NE",
+   "NG",
+   "NN",
+   "NP",
+   "NR",
+   "NW",
+   "OL",
+   "OX",
+   "PA",
+   "PE",
+   "PH",
+   "PO",
+   "PR",
+   "RG",
+   "RH",
+   "RM",
+   "S",
+   "SA",
+   "SE",
+   "SG",
+   "SK",
+   "SL",
+   "SM",
+   "SN",
+   "SO",
+   "SP",
+   "SR",
+   "SS",
+   "ST",
+   "SW",
+   "SY",
+   "TA",
+   "TD",
+   "TF",
+   "TN",
+   "TS",
+   "TW",
+   "UB",
+   "W",
+   "WA",
+   "WC",
+   "WD",
+   "WF",
+   "WN",
+   "WR",
+   "WS",
+   "WV",
+   "YO"
+  ],
+  "combinedFeatures": [],
+  "vehicleCondition": {
+   "tyreCondition": 95,
+   "interiorCondition": 95,
+   "bodyCondition": 95
+  }
+ },
+ "AdvertSeller": {
+  "id": "202611177981513",
+  "sellerName": "Ace Car Sales",
+  "sellerType": "Trade",
+  "sellerLocation": "HEYWOOD",
+  "sellerLocationCounty": "LANCASHIRE",
+  "retailerId": "10004089",
+  "advertiserSegment": "Independent",
+  "sellerLocationDistance": {
+   "value": 170,
+   "unit": "M"
+  },
+  "sellerContact": {
+   "phoneNumberOne": "(07537) 122411",
+   "phoneNumberTwo": null,
+   "protectedNumber": null,
+   "byEmail": true
+  },
+  "sellerRating": {
+   "rating": 4.6,
+   "reviewCount": null
+  },
+  "locationArea": null,
+  "privateAdvertiser": null,
+  "dealer": {
+   "dealerId": "10004089",
+   "name": "Ace Car Sales",
+   "legalName": "Ace Cars Ltd T/A Ace Car Sales",
+   "description": "",
+   "distance": null,
+   "fca": "749501",
+   "fcaPermission": "Broker",
+   "location": {
+    "addressOne": "Ace Car Sales ,1 Moor Street",
+    "addressTwo": null,
+    "town": "Heywood",
+    "county": "Lancashire",
+    "region": "North West",
+    "country": "GB",
+    "postcode": "OL10 3DD",
+    "latLong": "53.5935212,-2.2348007"
+   },
+   "media": {
+    "email": "yes",
+    "emailAddress": "acecarltd@yahoo.com",
+    "phoneNumber1": "(07537) 122411",
+    "phoneNumber2": null,
+    "protectedNumber": false,
+    "dealerWebsite": {
+     "href": "https://www.acecarsltd.co.uk"
+    }
+   },
+   "reviews": {
+    "numberOfReviews": "448",
+    "overallReviewRating": "4.6"
+   },
+   "marketing": {
+    "strapline": "Over 135 AutoTrader & 60 Google reviews, be our next happy customer today! www.acecarsalesbury.co.uk",
+    "profile": null
+   },
+   "servicesOffered": {
+    "hasHomeDelivery": true,
+    "hasClickAndCollect": false,
+    "hasVideoWalkAround": true,
+    "hasSafeSelling": false,
+    "hasDealerProfilePage": true,
+    "franchises": null
+   },
+   "atAwards": [
+    {
+     "category": "HIGHLY_RATED",
+     "year": "2018"
+    },
+    {
+     "category": "HIGHLY_RATED",
+     "year": "2019"
+    },
+    {
+     "category": "HIGHLY_RATED",
+     "year": "2020"
+    }
+   ],
+   "assignedNumber": {
+    "number": "+447441449126"
+   }
+  }
+ },
+ "AdvertMedia": {
+  "id": "202611177981513",
+  "imageList": {
+   "size": 85,
+   "images": [
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/eb7e54484d1d489aa1f8acf6ce55de61.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/43c4ba2f4f334d5e9bbb323335a717e9.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/49a1c8d72ced43a8ba5a93850cbd1048.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/553b7d77faf443109b0c28c068a1e17a.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/076e84670e7b4b4d8df7a86ee2aef8bb.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/bba304a4a016486aa7323a004e1dc78c.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/3faee8cc41874be899cad2575ae54c7f.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/40ccf1edb54a46818b5ab13d3855c239.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/0fa9f462421b417a9902c569f75b965e.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/e29709155826464aaa67a9d628658391.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/8774e3d443534604b2f00063856f92a9.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/9552af6cf69f45ab811d1e6b8e5fbf48.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/9517392a46fd42ce81ddcab7ff47c678.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/814d7a8644d44687a567f2dde9ec9160.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/ba3296c42d3e46ee92f594990d90775a.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/14c70645c0fd402493b2f3c9e3087bcc.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/62dc90b3404c42bc9fa7f42ebb5178a6.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/26ea4b7d952f423f84939cc58b35fff2.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/81c17b23879a41089325664a4967ec46.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/ae6bbe288a7b4851993d0a32954377a4.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/e0c8a265c2dc4ade8ebbd90d0f9135da.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/a120a007ff3b4a6cae7aab6c563cd65f.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/91ff700776f5445a9c3bd57106ff1242.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/dc830315250c4b249bb377b86189726f.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/37c2bf9f63bb4b7c9f606b5cd4d9fc40.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/ec897d483dc949fdb3035b330f2f5a52.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/f02177d8a8074487bb93000e628a6e1e.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/6fd40926a3814b6895825c8a14723bac.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/9efb0d7d1d8c4a2b95a468a66c667c8b.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/91ca5551024647ffa90a536fcce9ee03.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/c2e3c7d28b054ebca02bac59d0883d11.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/7e72a1401d8c4bc684979621cac94bd8.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/80eccd86eae84ae1916b35210a8d54f7.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/7752230dd416446091406daccd5ba894.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/8894912a8be94de3be79f6c8d9952b1c.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/32278a4e2d4e46c08b05395e208ad884.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/0433370e7d9540efa9d142ed918dbffc.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/9ef42fe0cf12477daeb7ec827d67aa46.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/e6aa9637d17249c391e0eb56402e7744.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/9ff3e215d36a46f59b8d47b309508d0c.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/322d0796635e4c93881bd8b745317201.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/d3c8c779f797456a8ebb6853b1562724.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/cd55b40c41424a23945744fcd31b7a6a.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/82d7487917e344029c4ab23bdad10d8b.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/10cd099e1d0849569bbd2aa095a1ba2c.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/fc82014b08534ef7980465bacf4b538a.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/77dad7987bad43108f583c334ad44e24.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/319c80b75d524be083c2641b688253f8.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/7f4845b9c8964c44b87abd1457b19536.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/d15e8c6bbde94193bc029386b10e764d.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/c1b1807ab4db4a0c847e7d2585ff0a49.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/473c09499659479783263112c4eefa20.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/104cd99f0b1a461a88ef36298823a931.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/d942872d7fc64bbf9db0d72d0fb60842.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/a0bc5b633c1b4a9196d522092f8771fc.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/32323249222d4e98aad463c3821ba850.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/ed665e4b9d61451db7796a4b1fae24c3.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/d0d074f8311f41bc8eacf606d258ce94.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/bd4f5cd0b9ac44279a2075e309941b98.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/d04cf7f14cb94a21a097f6e22be9eb0f.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/ac21dbee4ba642308ae827912feaf739.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/5da4d1c707b744a79aa5f46820c8f905.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/2f24102e0dde4dbc9856c3fc7fc4b069.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/2cb1243de4e44e10987ca7afa4a275da.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/381d5ebf2ddb44689ea45bb076233718.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/57fcd3b03c8743ee9c7e590dd61d953e.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/a98b31acea00499f9481167266e6351e.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/868c253c918c46a69bf6850fc1de0cdc.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/5b2847cab5ff4a89a246e53d5926a72d.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/4708910436ee444a8eae1ffdeab57908.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/dc099879880a48aab55f1496ede571df.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/83e21579913747658e1ccb77f28b02d9.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/b1ac25a964b6453b9125d9dff0d701de.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/7d0967e523bd44998993ee2ccd9aedac.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/5a02f75b9ee94febb394f65ea50752eb.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/8a0304b1d6174feca99dfff3e3ac9c7d.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/f0391718cc0d4a19ac6c00aff938f801.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/d7c673983bfd44a891e8bb00c0852a2a.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/8e019f8a83ec4688811d998c7ad3834f.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/f960acbadab84a6d836b3c22a57db05b.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/3e4745a3397440c3b460be16d1c43fb2.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/0739d93d792c46c9b321ee2be000b759.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/14f6c31a450a4cec85c2b68de72b9e3f.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/540e2f6809684c6496a13d9149251b27.jpg",
+     "angle": null,
+     "paint": null
+    },
+    {
+     "url": "https://m.atcdn.co.uk/a/media/{resize}/6ea458de37f144a6bc3e2d9811075b12.jpg",
+     "angle": null,
+     "paint": null
+    }
+   ]
+  },
+  "video": {
+   "url": "https://youtube.com/embed/29cA7My4NC0?autoplay=1&rel=0",
+   "preview": null
+  },
+  "spin": null,
+  "generation": {
+   "generationId": "22f3a2f293d3b73ef3c176cc9e9a3653",
+   "name": "Hatchback (2013 - 2016)",
+   "bodyType": "Hatchback",
+   "make": "Tesla",
+   "model": "Model S",
+   "review": {
+    "expertReviewSummary": null
+   }
+  },
+  "capabilities": {
+   "digitalRetailing": {
+    "enabled": true
+   },
+   "sellerPromise": null
+  },
+  "reservation": {
+   "eligibility": "ELIGIBLE",
+   "status": null
+  },
+  "vehicleCheckSummary": {
+   "type": "FULL",
+   "title": "All checks passed",
+   "performed": "2026-11-17",
+   "passes": 9,
+   "fails": 1,
+   "warnings": 1,
+   "writeOffCategory": null,
+   "checks": [
+    {
+     "key": "STOLEN",
+     "name": null,
+     "description": null,
+     "failed": false,
+     "warning": false,
+     "info": null
+    },
+    {
+     "key": "SCRAPPED",
+     "name": null,
+     "description": null,
+     "failed": false,
+     "warning": false,
+     "info": null
+    },
+    {
+     "key": "WRITE_OFF_CATEGORY",
+     "name": null,
+     "description": null,
+     "failed": false,
+     "warning": false,
+     "info": null
+    },
+    {
+     "key": "IMPORTED",
+     "name": null,
+     "description": null,
+     "failed": false,
+     "warning": false,
+     "info": null
+    },
+    {
+     "key": "EXPORTED",
+     "name": null,
+     "description": null,
+     "failed": false,
+     "warning": false,
+     "info": null
+    },
+    {
+     "key": "HIGH_RISK",
+     "name": null,
+     "description": null,
+     "failed": false,
+     "warning": false,
+     "info": null
+    },
+    {
+     "key": "MILEAGE_DISCREPANCY",
+     "name": null,
+     "description": null,
+     "failed": false,
+     "warning": false,
+     "info": null
+    },
+    {
+     "key": "COLOUR_CHANGED",
+     "name": null,
+     "description": null,
+     "failed": false,
+     "warning": false,
+     "info": null
+    },
+    {
+     "key": "PRIVATE_FINANCE",
+     "name": null,
+     "description": null,
+     "failed": false,
+     "warning": false,
+     "info": null
+    },
+    {
+     "key": "TRADE_FINANCE",
+     "name": null,
+     "description": null,
+     "failed": false,
+     "warning": false,
+     "info": null
+    },
+    {
+     "key": "REGISTRATION_CHANGED",
+     "name": null,
+     "description": null,
+     "failed": true,
+     "warning": true,
+     "info": null
+    }
+   ]
+  },
+  "finance": null,
+  "collectionLocations": null
+ },
+ "AdvertSpec": {
+  "id": "202611177981513",
+  "specification": {
+   "make": "Tesla",
+   "model": "Model S",
+   "trim": null,
+   "derivative": "85D (Dual Motor) Auto 4WD 5dr",
+   "derivativeId": "8d4149bd3654444c9aa7b0ecfd664136",
+   "generationId": "22f3a2f293d3b73ef3c176cc9e9a3653",
+   "vehicleCategory": "Car",
+   "bodyType": "Hatchback",
+   "rawBodyType": "Hatchback",
+   "style": null,
+   "subStyle": null,
+   "fuel": "Electric",
+   "transmission": "Automatic",
+   "driveTrain": "Four Wheel Drive",
+   "oemDrivetrain": "4WD",
+   "driverPosition": "Unlisted",
+   "doors": 5,
+   "seats": 5,
+   "numberOfGears": null,
+   "emissionClass": null,
+   "ulezCompliant": false,
+   "isCrossover": false,
+   "operatingType": null,
+   "interiorDescription": null,
+   "wheelbase": "STD",
+   "cabType": "Unlisted",
+   "axleConfig": null,
+   "berth": null,
+   "bedrooms": null,
+   "bedroomLayout": null,
+   "endLayout": null,
+   "trailerAxleNumber": null,
+   "bikeLicenceType": null,
+   "brakeType": null,
+   "frameSizeCM": null,
+   "frameStyle": null,
+   "motorMake": null,
+   "engine": {
+    "sizeLitres": null,
+    "sizeCC": null,
+    "manufacturerEngineSize": null,
+    "power": {
+     "enginePower": 422,
+     "unit": "BHP"
+    }
+   },
+   "co2Emissions": {
+    "co2Emission": 0,
+    "unit": "g/km"
+   },
+   "annualTax": {
+    "standardRate": 20
+   },
+   "topSpeed": {
+    "topSpeed": 155
+   },
+   "range": null,
+   "battery": {
+    "capacity": {
+     "capacity": 81.5,
+     "unit": "kWh"
+    },
+    "usableCapacity": {
+     "capacity": 77.5,
+     "unit": "kWh"
+    },
+    "range": {
+     "range": 305,
+     "unit": "miles"
+    },
+    "charging": {
+     "chargeTime": "12h / 0 - 100%",
+     "quickChargeTime": "1h20m / 0 - 80%"
+    }
+   }
+  }
+ },
+ "AdvertSize": {
+  "id": "202611177981513",
+  "specification": {
+   "exteriorHeight": {
+    "height": 1445,
+    "unit": "mm"
+   },
+   "exteriorLength": {
+    "length": 4970,
+    "unit": "mm"
+   },
+   "exteriorWidth": {
+    "width": 2187,
+    "unit": "mm"
+   },
+   "capacityHeight": {
+    "height": null,
+    "unit": null
+   },
+   "capacityLength": {
+    "length": null,
+    "unit": null
+   },
+   "capacityWidth": {
+    "width": null,
+    "unit": null
+   },
+   "capacityWeight": {
+    "weight": null,
+    "unit": null
+   },
+   "grossVehicleWeight": {
+    "weight": null,
+    "unit": null
+   },
+   "minimumKerbWeight": {
+    "weight": 2100,
+    "unit": "kg"
+   },
+   "liftingCapacity": {
+    "weight": null,
+    "unit": null
+   },
+   "maxReach": {
+    "length": null,
+    "unit": null
+   },
+   "operatingWidth": {
+    "width": null,
+    "unit": null
+   },
+   "techData": {
+    "bodyStyle": "Hatchback",
+    "fuelType": "Electric",
+    "transmission": "Automatic",
+    "numberOfDoors": "5",
+    "numberOfSeats": "5",
+    "cylinders": null,
+    "valves": "0",
+    "enginePower": "422 bhp",
+    "engineTorque": "362.00 lbs/ft",
+    "topSpeed": "155 mph",
+    "zeroToSixtyMph": "5.20 seconds",
+    "zeroToSixtyTwoMph": "5.40 seconds",
+    "co2Emissions": "0 g/km",
+    "insuranceGroup": "50U",
+    "fuelConsumptionCombined": null,
+    "fuelConsumptionExtraUrban": null,
+    "fuelConsumptionUrban": null,
+    "fuelTankCapacity": null,
+    "bootspaceSeatsUp": "745 litres",
+    "luggageCapacitySeatsDown": "1645 litres",
+    "vehicleHeight": "1445 mm",
+    "vehicleLength": "4970 mm",
+    "vehicleWidth": "2187 mm",
+    "vehicleWidthInclMirrors": null,
+    "wheelbase": "2960 mm",
+    "minimumKerbWeight": "2100 kg",
+    "grossVehicleWeight": null,
+    "maxLoadingWeight": null
+   }
+  }
+ },
+ "AdvertFeatures": {
+  "id": "202611177981513",
+  "specification": {
+   "standardFeatures": [
+    {
+     "description": "12v Power Outlet",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "17in Touchscreen with Media - Communication - Cabin and Vehicle Controls",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "19in Alloy Wheels",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "ABS - Anti-lock Braking System",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Airbags - Curtain",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Airbags - Driver",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Airbags - Head",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Airbags - Knee",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Airbags - Passenger",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Airbags - Pelvis",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Armrest - Centre",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Automatic Emergency Braking",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Blind Spot Warning",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Blue Charging Adaptor",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Bluetooth Connectivity",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Bluetooth Connectivity - Audio",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Child Door Safety Locks - Rear",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Climate Control - Dual Zone",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Crash Sensor - High Voltage Disconnect",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Cruise Control",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Cupholders - 2x Front Centre Armrest",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Daytime Running Lights - LED",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Door Handles - Retracting",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Door Mirrors - Heated and Powerfold",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Door Mirrors - Memory with Driver Profile",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "ESC - Electronic Stability Control",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Electric Parking Brake",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Electric Windows - Power One Touch - Front and Rear",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Electrically Adjustable Steering Column - Tilt-Telescopic",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Front LED Map Lights",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Glove Compartment",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Headlight Cleaning System",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Headlights - Automatic On",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Headlights - Xenon",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Headliner - Textile",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "High Mounted Rear Light - LED",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "ISOFIX - 2x Second Row",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Interior Decor - Piano Black",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Keyless Entry",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Lane Departure Warning",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Mirrors - Electrochromatic",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Mobile App Remote",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Motion Activated Intrusion Alarm",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Parcel Shelf",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Parking Sensors - Front",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Parking Sensors - Rear",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Pollen Filter",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Power Steering - Speed Sensitive",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Radio - AM-FM - Internet Streaming",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Rear LED Reading Lights",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Rear Taillights - LED",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Rear View Camera",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Rollover Crash Sensor",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Roof - Solid Black",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Sat Nav - Onboard Maps for Europe with 7yrs Free Updates",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Seat Belt Warning Sysytem - Acoustic",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Seats - Driver and Front Passenger Seat Sensors",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Seats - Drivers Height Adjustment",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Seats - Front 12-way Electrically Adjustable",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Seats - Front with Memory and Driver Profile",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Seats - Heated Front",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Seats - Lumbar Support",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Seats - Rear 60-40 Split Fold",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Speakers - 7",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Speed Limit Display",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Steering Wheel - 3-Spoke Leather",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Steering Wheel - Multi-function with Tactile Controls",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Storage - Open Centre Console Storage Area",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Sunvisors - Front",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Supercharger Enabled",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Traction Control",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Trip Computer",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Tyre Pressure Monitoring System",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "USB Port - Dual Front",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Voice Activation",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "WiFi Internet Connectivity",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Windscreen - UV and Infrared Blocking Safety Glass",
+     "category": "Standard",
+     "type": null
+    },
+    {
+     "description": "Wipers - Rain Sensing",
+     "category": "Standard",
+     "type": null
+    }
+   ],
+   "optionalFeatures": [
+    {
+     "description": "Deep Blue",
+     "category": "Optional",
+     "type": null
+    },
+    {
+     "description": "Nappa Leather - Black",
+     "category": "Optional",
+     "type": null
+    },
+    {
+     "description": "Headliner - Alcantara - Black",
+     "category": "Optional",
+     "type": null
+    }
+   ]
+  }
+ }
+}

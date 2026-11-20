@@ -1,0 +1,264 @@
+{
+ "dealerId": "10036877",
+ "name": "BLUEHAWK AUTOMOTIVE LIMITED",
+ "location": {
+  "town": "Hounslow",
+  "county": "Middlesex"
+ },
+ "acceptedDealerReviews": {
+  "totalLiveReviews": 169,
+  "averageLiveReviewRating": 4.2,
+  "sourceSummaries": [
+   {
+    "source": "FEEFO_PARTNERSHIP",
+    "averageLiveReviewRating": 4.2,
+    "totalLiveReviews": 169,
+    "sourceUrl": null
+   }
+  ],
+  "starSummaries": [
+   {
+    "starRating": 1,
+    "totalReviews": 18
+   },
+   {
+    "starRating": 3,
+    "totalReviews": 1
+   },
+   {
+    "starRating": 4,
+    "totalReviews": 2
+   },
+   {
+    "starRating": 5,
+    "totalReviews": 148
+   }
+  ],
+  "dealerReviewList": {
+   "size": 169,
+   "nextCursor": "cGFnZT0z",
+   "reviews": [
+    {
+     "title": "Amazing cars and customer service",
+     "text": "Bought an Audi, beautiful car really good customer service will defo recommend very professional",
+     "reviewerName": "Liam H",
+     "overallRating": 5,
+     "source": "FEEFO_PARTNERSHIP",
+     "verified": false,
+     "created": "2026-03-26T21:06:17.512Z",
+     "updated": "2026-03-26T21:08:48.000Z",
+     "reply": null
+    },
+    {
+     "title": "Avoid at all cost !!!",
+     "text": "The worst dealer i have ever encounter seling to you a broken car , and after a few hours they didn't want the car back saying that is my issue to try and repair it with the \"warranty\" what they gave me , i needed to sue them to return the car back and receive my money !",
+     "reviewerName": "Anonymous",
+     "overallRating": 1,
+     "source": "FEEFO_PARTNERSHIP",
+     "verified": false,
+     "created": "2026-03-26T20:04:37.218Z",
+     "updated": "2026-03-26T20:05:45.000Z",
+     "reply": null
+    },
+    {
+     "title": "Outstanding",
+     "text": "Just purchased an M3 from these guys, couldn’t be happier with the car and the service.",
+     "reviewerName": "Anonymous",
+     "overallRating": 5,
+     "source": "FEEFO_PARTNERSHIP",
+     "verified": false,
+     "created": "2026-03-19T14:37:30.435Z",
+     "updated": "2026-03-19T14:38:05.000Z",
+     "reply": null
+    },
+    {
+     "title": "",
+     "text": "thank you to everyone at blue hawk - really happy with my new car, great guys too",
+     "reviewerName": "Scott D",
+     "overallRating": 5,
+     "source": "FEEFO_PARTNERSHIP",
+     "verified": false,
+     "created": "2026-03-18T23:37:34.302Z",
+     "updated": "2026-03-18T23:38:11.000Z",
+     "reply": null
+    },
+    {
+     "title": "",
+     "text": "The team were very helpful and knowledgeable had loads of questions and they were all answered, the car was in excellent condition and i couldn’t be happier! Thanks again guys!",
+     "reviewerName": "Adam H",
+     "overallRating": 5,
+     "source": "FEEFO_PARTNERSHIP",
+     "verified": false,
+     "created": "2026-03-18T22:00:45.895Z",
+     "updated": "2026-03-18T22:01:34.000Z",
+     "reply": null
+    },
+    {
+     "title": "",
+     "text": "I recently purchased a car from them, and had a very good experience they have examples of some very admirable cars and they way they communicated and explained warranties and specs of the car was very helpful! Overall very good experience",
+     "reviewerName": "Andrew H",
+     "overallRating": 5,
+     "source": "FEEFO_PARTNERSHIP",
+     "verified": false,
+     "created": "2026-03-18T11:45:47.713Z",
+     "updated": "2026-03-18T12:01:27.000Z",
+     "reply": null
+    },
+    {
+     "title": "",
+     "text": "I recently purchased a 2020 Mercedes-Benz C-Class from this dealership, and overall, it was a great experience. The staff were professional, knowledgeable, and took the time to answer all my questions without any pressure.The car itself was in excellent condition, exactly as advertised, and the buying process was smooth and straightforward. I especially appreciated how transparent they were about pricing and the vehicle’s history, which made me feel confident in my decision.Customer service stood out the most — from the initial inquiry to driving off the lot, everything was handled efficiently and respectfully. I would definitely recommend this dealership to anyone looking for a quality vehicle and a hassle-free buying experience.Very happy with my purchase!",
+     "reviewerName": "Jason M",
+     "overallRating": 5,
+     "source": "FEEFO_PARTNERSHIP",
+     "verified": false,
+     "created": "2026-03-17T19:25:52.869Z",
+     "updated": "2026-03-17T19:26:03.000Z",
+     "reply": null
+    },
+    {
+     "title": "Great dealers",
+     "text": "Thanks to the bluehawk team I was able to hop into my dream car Audi rs3. A high performance car only reliable dealers such as bluehawk can be trusted with. A big shout out to the whole team for their hard work and commitment to their customers. Big 10/10 from me and would 100 percent suggest others to this business",
+     "reviewerName": "Jamie Aldridge",
+     "overallRating": 5,
+     "source": "FEEFO_PARTNERSHIP",
+     "verified": true,
+     "created": "2026-03-16T15:37:15.631Z",
+     "updated": "2026-03-16T15:40:53.000Z",
+     "reply": null
+    },
+    {
+     "title": "Highly recommend!",
+     "text": "Excellent experience from start to finish. The team were professional, friendly, and very knowledgeable. They made the whole process smooth and stress-free, and I’m extremely happy with my new car. Highly recommend bluehawk",
+     "reviewerName": "Kris Tirsu",
+     "overallRating": 5,
+     "source": "FEEFO_PARTNERSHIP",
+     "verified": true,
+     "created": "2026-03-16T14:58:56.918Z",
+     "updated": "2026-03-16T15:01:50.000Z",
+     "reply": null
+    },
+    {
+     "title": "Highly recommend",
+     "text": "Had an excellent experience with buying my car start to finish, they were very well informed with all of the cars they had in stock and was able to help me with any questions i had which was really reassuring. I travelled quite far and was quite apprehensive about buying a used car but I couldn’t fault the experience and I love my new Merc! Thank you again",
+     "reviewerName": "Layla Rich",
+     "overallRating": 5,
+     "source": "FEEFO_PARTNERSHIP",
+     "verified": true,
+     "created": "2026-03-16T14:29:39.054Z",
+     "updated": "2026-03-16T14:29:43.000Z",
+     "reply": null
+    },
+    {
+     "title": "",
+     "text": "I had a great experience at Bluehawk Automotive. The team was professional, honest, and efficient from start to finish. They explained everything clearly, offered fair pricing, and got the job done right the first time. It’s not easy to find a garage you can truly trust — I highly recommend them!",
+     "reviewerName": "Anonymous",
+     "overallRating": 5,
+     "source": "FEEFO_PARTNERSHIP",
+     "verified": true,
+     "created": "2026-02-21T19:54:14.440Z",
+     "updated": "2026-02-21T19:54:17.000Z",
+     "reply": null
+    },
+    {
+     "title": "Thank you Guys",
+     "text": "As a first-time car buyer, I was nervous, but the staff made the whole process easy and stress-free. They explained financing options clearly and never made me feel rushed. I drove away confident and excited about my new car. Highly recommended!",
+     "reviewerName": "Michelle L",
+     "overallRating": 5,
+     "source": "FEEFO_PARTNERSHIP",
+     "verified": false,
+     "created": "2026-02-12T13:49:28.076Z",
+     "updated": "2026-02-12T13:56:29.000Z",
+     "reply": null
+    },
+    {
+     "title": "",
+     "text": "Lack of reply to any sort of messages",
+     "reviewerName": "Anonymous",
+     "overallRating": 1,
+     "source": "FEEFO_PARTNERSHIP",
+     "verified": false,
+     "created": "2026-02-06T11:35:04.603Z",
+     "updated": "2026-02-06T11:37:08.000Z",
+     "reply": null
+    },
+    {
+     "title": "Great experience",
+     "text": "Amazing service, bought an a class with BodyKit and they were able to deliver it to Manchester for me the same day. Quick turn around the car was exactly as described",
+     "reviewerName": "Anonymous",
+     "overallRating": 5,
+     "source": "FEEFO_PARTNERSHIP",
+     "verified": false,
+     "created": "2026-02-03T15:00:42.076Z",
+     "updated": "2026-02-03T15:02:56.000Z",
+     "reply": null
+    },
+    {
+     "title": "",
+     "text": "I had a great experience at Blue Hawk Automotive, and I can honestly say the service was a 10/10. From the moment I arrived, the staff was friendly, professional, and made the entire process smooth and stress-free. I was able to review a car without feeling rushed or pressured, which I really appreciated.There were many vehicle options to choose from, making it easy to compare and find something that fit my needs. The car I viewed was in excellent condition, and everything was clearly explained to me. Overall, Blue Hawk Automotive offers great customer service, a wide selection of vehicles, and a welcoming atmosphere. I would definitely recommend them to anyone looking for a reliable and enjoyable car-buying experience.",
+     "reviewerName": "Anonymous",
+     "overallRating": 5,
+     "source": "FEEFO_PARTNERSHIP",
+     "verified": false,
+     "created": "2026-01-23T13:39:09.257Z",
+     "updated": "2026-01-23T13:39:51.000Z",
+     "reply": null
+    },
+    {
+     "title": "This is a business?",
+     "text": "My experience with this dealership was bad and left me feeling like I have completely wasted my time.I called them up to someone asking me who I was in a confrontational manner as if I am calling someone who has nothing to do with selling cars! Then someone who actually dealt with the cars for sale called me back on that same number and briefly stated said if the car I was interested in was available, casually saying that someone will soon be putting a deposit on it to build interest, no big deal most dealers do these tricks, viewing was set. When I turned up they acted as if I was bothering them, seemed really smug and forgot I had booked an appointment and then rushed to move a dozen cars to get my car of interest out for a test drive. The guy couldn’t have had any less enthusiasm. I mean I don’t like pushy sales people but this guy was polar opposite, didn’t give me any info and was on his phone the entire time, could barely make conversation, so unprofessional,I asked him a question just to test his knowledge and he didn’t know. The car I viewed wasn’t in good enough condition anyways but due to the service I would have looked somewhere else even if it was to my liking. I just felt like I was bothering them just being there. I am convinced most of the reviews must be bots, waste of time.",
+     "reviewerName": "Anonymous",
+     "overallRating": 1,
+     "source": "FEEFO_PARTNERSHIP",
+     "verified": false,
+     "created": "2026-01-21T20:56:47.635Z",
+     "updated": "2026-01-21T20:57:10.000Z",
+     "reply": null
+    },
+    {
+     "title": "Excellent buying experience",
+     "text": "Excellent car buying experience from start to finish. The process was smooth, transparent, and stress-free. The car is exactly as described and in great condition. The team was professional, helpful, and kept me informed throughout. Highly recommended—would definitely buy again!",
+     "reviewerName": "Anonymous",
+     "overallRating": 5,
+     "source": "FEEFO_PARTNERSHIP",
+     "verified": true,
+     "created": "2026-01-21T17:08:58.835Z",
+     "updated": "2026-01-21T17:09:04.000Z",
+     "reply": null
+    },
+    {
+     "title": "Epitome of Salesman",
+     "text": "A complete and utter joy to work with, their efficiency is second to none and I’ve personally recommended them to clients, friends and family.",
+     "reviewerName": "Adam Restova",
+     "overallRating": 5,
+     "source": "FEEFO_PARTNERSHIP",
+     "verified": true,
+     "created": "2025-10-24T20:59:59.027Z",
+     "updated": "2025-10-27T11:44:52.000Z",
+     "reply": null
+    },
+    {
+     "title": "",
+     "text": "Great Dealership, they got an outstanding selection of vehicles. It made it harder to decide between 3 s3’s but they were patient with me and made sure I made the right choice and was able to deliver it to my house for an good price I’ll definitely be back when it’s time for my next upgrade!",
+     "reviewerName": "Anonymous",
+     "overallRating": 5,
+     "source": "FEEFO_PARTNERSHIP",
+     "verified": true,
+     "created": "2025-10-18T21:18:05.786Z",
+     "updated": "2025-10-18T21:18:09.000Z",
+     "reply": null
+    },
+    {
+     "title": "",
+     "text": "Great experience overall! The journeys down to the showroom from York wasn’t the quickest so to get there and the car was absolutely spot on was perfect. The team were very friendly and accommodated to all our needs. Would definitely recommend",
+     "reviewerName": "Anonymous",
+     "overallRating": 5,
+     "source": "FEEFO_PARTNERSHIP",
+     "verified": true,
+     "created": "2025-10-18T21:13:49.790Z",
+     "updated": "2025-10-18T21:17:46.000Z",
+     "reply": null
+    }
+   ]
+  }
+ }
+}

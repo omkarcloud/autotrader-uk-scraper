@@ -1,0 +1,33 @@
+[
+ {
+  "errors": [
+   {
+    "message": "Some input filters were invalid: postcode - The postcode could not be found",
+    "path": [
+     "searchResults"
+    ],
+    "extensions": {
+     "filters": [
+      {
+       "filter": "postcode",
+       "reason": "The postcode could not be found"
+      }
+     ],
+     "code": "BAD_REQUEST",
+     "errorType": "BAD_REQUEST",
+     "errorDetail": "INVALID_ARGUMENT",
+     "serviceName": "search-results-aggregator",
+     "exception": {
+      "message": "Some input filters were invalid: postcode - The postcode could not be found",
+      "path": [
+       "searchResults"
+      ]
+     }
+    }
+   }
+  ],
+  "data": {
+   "searchResults": null
+  }
+ }
+]

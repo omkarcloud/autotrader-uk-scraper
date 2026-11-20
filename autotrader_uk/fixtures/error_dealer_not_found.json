@@ -1,0 +1,47 @@
+[
+ {
+  "errors": [
+   {
+    "message": "Resource not found",
+    "locations": [
+     {
+      "line": 3,
+      "column": 12
+     }
+    ],
+    "path": [
+     "search",
+     "dealer"
+    ],
+    "extensions": {
+     "code": "NOT_FOUND",
+     "statusCode": 404,
+     "exception": {
+      "message": "Resource not found",
+      "request": {
+       "requestUrl": "http://app.search-one-read.svc.cluster.local/api/v1/retailer/999999999"
+      }
+     },
+     "resourceIds": [
+      "9",
+      "9",
+      "9",
+      "9",
+      "9",
+      "9",
+      "9",
+      "9",
+      "9"
+     ],
+     "logging": {
+      "ignoreNotFound": true,
+      "ignoreConflict": false,
+      "ignoreBadRequest": false,
+      "ignoreUnauthorized": false
+     }
+    }
+   }
+  ],
+  "data": null
+ }
+]

@@ -1,0 +1,3424 @@
+{
+ "sortBy": {
+  "selected": "relevance",
+  "options": [
+   {
+    "name": "Relevance",
+    "value": "relevance"
+   },
+   {
+    "name": "Price (low to high)",
+    "value": "price_asc"
+   },
+   {
+    "name": "Price (high to low)",
+    "value": "price_desc"
+   },
+   {
+    "name": "Distance",
+    "value": "distance"
+   },
+   {
+    "name": "Mileage",
+    "value": "mileage"
+   },
+   {
+    "name": "Age (newest)",
+    "value": "year_dsc"
+   },
+   {
+    "name": "Age (oldest)",
+    "value": "year_asc"
+   },
+   {
+    "name": "Most recent",
+    "value": "most_recent"
+   }
+  ]
+ },
+ "facets": [
+  {
+   "facet": "acceleration_values",
+   "filters": [
+    {
+     "parent": null,
+     "filter": "acceleration_values",
+     "selected": [],
+     "options": [
+      {
+       "label": "4-6 seconds",
+       "value": "4_TO_6",
+       "count": 164,
+       "description": null
+      },
+      {
+       "label": "6-8 seconds",
+       "value": "6_TO_8",
+       "count": 1482,
+       "description": null
+      },
+      {
+       "label": "8-10 seconds",
+       "value": "8_TO_10",
+       "count": 3290,
+       "description": null
+      },
+      {
+       "label": "10-12 seconds",
+       "value": "10_TO_12",
+       "count": 7214,
+       "description": null
+      },
+      {
+       "label": "12+ seconds",
+       "value": "OVER_12",
+       "count": 11491,
+       "description": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "facet": "battery_charge_time_values",
+   "filters": [
+    {
+     "parent": null,
+     "filter": "battery_charge_time_values",
+     "selected": [],
+     "options": [
+      {
+       "label": "Up to 6 hours",
+       "value": "TO_6",
+       "count": 661,
+       "description": null
+      },
+      {
+       "label": "Up to 9 hours",
+       "value": "TO_9",
+       "count": 1234,
+       "description": null
+      },
+      {
+       "label": "Up to 12 hours",
+       "value": "TO_12",
+       "count": 1684,
+       "description": null
+      },
+      {
+       "label": "Up to 15 hours",
+       "value": "TO_15",
+       "count": 1722,
+       "description": null
+      },
+      {
+       "label": "Up to 20 hours",
+       "value": "TO_20",
+       "count": 1728,
+       "description": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "facet": "battery_quick_charge_time_values",
+   "filters": [
+    {
+     "parent": null,
+     "filter": "battery_quick_charge_time_values",
+     "selected": [],
+     "options": [
+      {
+       "label": "Up to 1 hours",
+       "value": "TO_1",
+       "count": 219,
+       "description": null
+      },
+      {
+       "label": "Up to 2 hours",
+       "value": "TO_2",
+       "count": 364,
+       "description": null
+      },
+      {
+       "label": "Up to 3 hours",
+       "value": "TO_3",
+       "count": 395,
+       "description": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "facet": "battery_range_values",
+   "filters": [
+    {
+     "parent": null,
+     "filter": "battery_range_values",
+     "selected": [],
+     "options": [
+      {
+       "label": "Up to 50 miles",
+       "value": "TO_50",
+       "count": 855,
+       "description": null
+      },
+      {
+       "label": "50 miles +",
+       "value": "OVER_50",
+       "count": 2098,
+       "description": null
+      },
+      {
+       "label": "100 miles +",
+       "value": "OVER_100",
+       "count": 1820,
+       "description": null
+      },
+      {
+       "label": "150 miles +",
+       "value": "OVER_150",
+       "count": 1640,
+       "description": null
+      },
+      {
+       "label": "200 miles +",
+       "value": "OVER_200",
+       "count": 881,
+       "description": null
+      },
+      {
+       "label": "250 miles +",
+       "value": "OVER_250",
+       "count": 259,
+       "description": null
+      },
+      {
+       "label": "300 miles +",
+       "value": "OVER_300",
+       "count": 28,
+       "description": null
+      },
+      {
+       "label": "350 miles +",
+       "value": "OVER_350",
+       "count": 27,
+       "description": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "facet": "body_type",
+   "filters": [
+    {
+     "parent": null,
+     "filter": "body_type",
+     "selected": [],
+     "options": [
+      {
+       "label": "Camper",
+       "value": "Camper",
+       "count": 153,
+       "description": null
+      },
+      {
+       "label": "Car Derived Van",
+       "value": "Car Derived Van",
+       "count": 302,
+       "description": null
+      },
+      {
+       "label": "Combi Van",
+       "value": "Combi Van",
+       "count": 3887,
+       "description": null
+      },
+      {
+       "label": "Minibus",
+       "value": "Minibus",
+       "count": 1341,
+       "description": null
+      },
+      {
+       "label": "MPV",
+       "value": "MPV",
+       "count": 651,
+       "description": null
+      },
+      {
+       "label": "Panel Van",
+       "value": "Panel Van",
+       "count": 24370,
+       "description": null
+      },
+      {
+       "label": "Pickup",
+       "value": "Pickup",
+       "count": 5781,
+       "description": null
+      },
+      {
+       "label": "SUV",
+       "value": "SUV",
+       "count": 1598,
+       "description": null
+      },
+      {
+       "label": "Box Van",
+       "value": "Box Van",
+       "count": 19,
+       "description": null
+      },
+      {
+       "label": "Chassis Cab",
+       "value": "Chassis Cab",
+       "count": 640,
+       "description": null
+      },
+      {
+       "label": "Coupe",
+       "value": "Coupe",
+       "count": 5,
+       "description": null
+      },
+      {
+       "label": "Curtain Side",
+       "value": "Curtain Side",
+       "count": 135,
+       "description": null
+      },
+      {
+       "label": "Dropside",
+       "value": "Dropside",
+       "count": 702,
+       "description": null
+      },
+      {
+       "label": "High Roof Van",
+       "value": "High Roof Van",
+       "count": 69,
+       "description": null
+      },
+      {
+       "label": "Luton",
+       "value": "Luton",
+       "count": 537,
+       "description": null
+      },
+      {
+       "label": "Platform",
+       "value": "Platform",
+       "count": 4,
+       "description": null
+      },
+      {
+       "label": "Specialist Vehicle",
+       "value": "Specialist Vehicle",
+       "count": 49,
+       "description": null
+      },
+      {
+       "label": "Temperature Controlled",
+       "value": "Temperature Controlled",
+       "count": 185,
+       "description": null
+      },
+      {
+       "label": "Tipper",
+       "value": "Tipper",
+       "count": 733,
+       "description": null
+      },
+      {
+       "label": "Vehicle Transporter",
+       "value": "Vehicle Transporter",
+       "count": 91,
+       "description": null
+      },
+      {
+       "label": "Welfare",
+       "value": "Welfare",
+       "count": 43,
+       "description": null
+      },
+      {
+       "label": "Window Van",
+       "value": "Window Van",
+       "count": 111,
+       "description": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "facet": "co2_emission_values",
+   "filters": [
+    {
+     "parent": null,
+     "filter": "co2_emission_values",
+     "selected": [],
+     "options": [
+      {
+       "label": "Up to 0 g / km CO2",
+       "value": "TO_0",
+       "count": 1963,
+       "description": null
+      },
+      {
+       "label": "Up to 75 g / km CO2",
+       "value": "TO_75",
+       "count": 2972,
+       "description": null
+      },
+      {
+       "label": "Up to 100 g / km CO2",
+       "value": "TO_100",
+       "count": 3118,
+       "description": null
+      },
+      {
+       "label": "Up to 110 g / km CO2",
+       "value": "TO_110",
+       "count": 3530,
+       "description": null
+      },
+      {
+       "label": "Up to 120 g / km CO2",
+       "value": "TO_120",
+       "count": 4403,
+       "description": null
+      },
+      {
+       "label": "Up to 130 g / km CO2",
+       "value": "TO_130",
+       "count": 5482,
+       "description": null
+      },
+      {
+       "label": "Up to 140 g / km CO2",
+       "value": "TO_140",
+       "count": 6946,
+       "description": null
+      },
+      {
+       "label": "Up to 150 g / km CO2",
+       "value": "TO_150",
+       "count": 10830,
+       "description": null
+      },
+      {
+       "label": "Up to 165 g / km CO2",
+       "value": "TO_165",
+       "count": 13258,
+       "description": null
+      },
+      {
+       "label": "Up to 175 g / km CO2",
+       "value": "TO_175",
+       "count": 15904,
+       "description": null
+      },
+      {
+       "label": "Up to 185 g / km CO2",
+       "value": "TO_185",
+       "count": 19365,
+       "description": null
+      },
+      {
+       "label": "Up to 200 g / km CO2",
+       "value": "TO_200",
+       "count": 26105,
+       "description": null
+      },
+      {
+       "label": "Up to 225 g / km CO2",
+       "value": "TO_225",
+       "count": 32086,
+       "description": null
+      },
+      {
+       "label": "Up to 255 g / km CO2",
+       "value": "TO_255",
+       "count": 39042,
+       "description": null
+      },
+      {
+       "label": "255 g / km +",
+       "value": "OVER_255",
+       "count": 3341,
+       "description": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "facet": "colour",
+   "filters": [
+    {
+     "parent": null,
+     "filter": "colour",
+     "selected": [],
+     "options": [
+      {
+       "label": "Black",
+       "value": "Black",
+       "count": 4997,
+       "description": null
+      },
+      {
+       "label": "Blue",
+       "value": "Blue",
+       "count": 2687,
+       "description": null
+      },
+      {
+       "label": "Grey",
+       "value": "Grey",
+       "count": 8428,
+       "description": null
+      },
+      {
+       "label": "White",
+       "value": "White",
+       "count": 21043,
+       "description": null
+      },
+      {
+       "label": "Silver",
+       "value": "Silver",
+       "count": 3808,
+       "description": null
+      },
+      {
+       "label": "Red",
+       "value": "Red",
+       "count": 907,
+       "description": null
+      },
+      {
+       "label": "Green",
+       "value": "Green",
+       "count": 462,
+       "description": null
+      },
+      {
+       "label": "Beige",
+       "value": "Beige",
+       "count": 54,
+       "description": null
+      },
+      {
+       "label": "Bronze",
+       "value": "Bronze",
+       "count": 79,
+       "description": null
+      },
+      {
+       "label": "Brown",
+       "value": "Brown",
+       "count": 85,
+       "description": null
+      },
+      {
+       "label": "Gold",
+       "value": "Gold",
+       "count": 17,
+       "description": null
+      },
+      {
+       "label": "Multicolour",
+       "value": "Multicolour",
+       "count": 39,
+       "description": null
+      },
+      {
+       "label": "Orange",
+       "value": "Orange",
+       "count": 495,
+       "description": null
+      },
+      {
+       "label": "Pink",
+       "value": "Pink",
+       "count": 5,
+       "description": null
+      },
+      {
+       "label": "Purple",
+       "value": "Purple",
+       "count": 58,
+       "description": null
+      },
+      {
+       "label": "Yellow",
+       "value": "Yellow",
+       "count": 97,
+       "description": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "facet": "with_digital_retailing",
+   "filters": [
+    {
+     "parent": null,
+     "filter": "with_digital_retailing",
+     "selected": [],
+     "options": [
+      {
+       "label": "Reserve online with the option to finance or part exchange",
+       "value": "true",
+       "count": 26228,
+       "description": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "facet": "distance",
+   "filters": [
+    {
+     "parent": null,
+     "filter": "distance",
+     "selected": [],
+     "options": [
+      {
+       "label": "Within 1 mile",
+       "value": "1",
+       "count": null,
+       "description": null
+      },
+      {
+       "label": "Within 5 miles",
+       "value": "5",
+       "count": null,
+       "description": null
+      },
+      {
+       "label": "Within 10 miles",
+       "value": "10",
+       "count": null,
+       "description": null
+      },
+      {
+       "label": "Within 15 miles",
+       "value": "15",
+       "count": null,
+       "description": null
+      },
+      {
+       "label": "Within 20 miles",
+       "value": "20",
+       "count": null,
+       "description": null
+      },
+      {
+       "label": "Within 25 miles",
+       "value": "25",
+       "count": null,
+       "description": null
+      },
+      {
+       "label": "Within 30 miles",
+       "value": "30",
+       "count": null,
+       "description": null
+      },
+      {
+       "label": "Within 35 miles",
+       "value": "35",
+       "count": null,
+       "description": null
+      },
+      {
+       "label": "Within 40 miles",
+       "value": "40",
+       "count": null,
+       "description": null
+      },
+      {
+       "label": "Within 45 miles",
+       "value": "45",
+       "count": null,
+       "description": null
+      },
+      {
+       "label": "Within 50 miles",
+       "value": "50",
+       "count": null,
+       "description": null
+      },
+      {
+       "label": "Within 55 miles",
+       "value": "55",
+       "count": null,
+       "description": null
+      },
+      {
+       "label": "Within 60 miles",
+       "value": "60",
+       "count": null,
+       "description": null
+      },
+      {
+       "label": "Within 70 miles",
+       "value": "70",
+       "count": null,
+       "description": null
+      },
+      {
+       "label": "Within 80 miles",
+       "value": "80",
+       "count": null,
+       "description": null
+      },
+      {
+       "label": "Within 90 miles",
+       "value": "90",
+       "count": null,
+       "description": null
+      },
+      {
+       "label": "Within 100 miles",
+       "value": "100",
+       "count": null,
+       "description": null
+      },
+      {
+       "label": "Within 200 miles",
+       "value": "200",
+       "count": null,
+       "description": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "facet": "doors_values",
+   "filters": [
+    {
+     "parent": null,
+     "filter": "doors_values",
+     "selected": [],
+     "options": [
+      {
+       "label": "0 doors",
+       "value": "0",
+       "count": 382,
+       "description": null
+      },
+      {
+       "label": "1 door",
+       "value": "1",
+       "count": 9,
+       "description": null
+      },
+      {
+       "label": "2 doors",
+       "value": "2",
+       "count": 3439,
+       "description": null
+      },
+      {
+       "label": "3 doors",
+       "value": "3",
+       "count": 2100,
+       "description": null
+      },
+      {
+       "label": "4 doors",
+       "value": "4",
+       "count": 8385,
+       "description": null
+      },
+      {
+       "label": "5 doors",
+       "value": "5",
+       "count": 23679,
+       "description": null
+      },
+      {
+       "label": "6 doors",
+       "value": "6",
+       "count": 5071,
+       "description": null
+      },
+      {
+       "label": "7 doors",
+       "value": "7",
+       "count": 3,
+       "description": null
+      },
+      {
+       "label": "8 doors",
+       "value": "8",
+       "count": 1,
+       "description": null
+      },
+      {
+       "label": "12 doors",
+       "value": "12",
+       "count": 1,
+       "description": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "facet": "drivetrain",
+   "filters": [
+    {
+     "parent": null,
+     "filter": "drivetrain",
+     "selected": [],
+     "options": [
+      {
+       "label": "Four Wheel Drive",
+       "value": "Four Wheel Drive",
+       "count": 8128,
+       "description": null
+      },
+      {
+       "label": "Front Wheel Drive",
+       "value": "Front Wheel Drive",
+       "count": 29047,
+       "description": null
+      },
+      {
+       "label": "Rear Wheel Drive",
+       "value": "Rear Wheel Drive",
+       "count": 5263,
+       "description": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "facet": "engine_power",
+   "filters": [
+    {
+     "parent": null,
+     "filter": "min_engine_power",
+     "selected": [],
+     "options": [
+      {
+       "label": "0bhp",
+       "value": "0",
+       "count": 42614,
+       "description": null
+      },
+      {
+       "label": "50bhp",
+       "value": "50",
+       "count": 42591,
+       "description": null
+      },
+      {
+       "label": "100bhp",
+       "value": "100",
+       "count": 37621,
+       "description": null
+      },
+      {
+       "label": "150bhp",
+       "value": "150",
+       "count": 12491,
+       "description": null
+      },
+      {
+       "label": "200bhp",
+       "value": "200",
+       "count": 5778,
+       "description": null
+      },
+      {
+       "label": "250bhp",
+       "value": "250",
+       "count": 1335,
+       "description": null
+      },
+      {
+       "label": "300bhp",
+       "value": "300",
+       "count": 460,
+       "description": null
+      },
+      {
+       "label": "350bhp",
+       "value": "350",
+       "count": 101,
+       "description": null
+      },
+      {
+       "label": "400bhp",
+       "value": "400",
+       "count": 74,
+       "description": null
+      },
+      {
+       "label": "500bhp",
+       "value": "500",
+       "count": 12,
+       "description": null
+      },
+      {
+       "label": "650bhp",
+       "value": "650",
+       "count": 11,
+       "description": null
+      },
+      {
+       "label": "700bhp",
+       "value": "700",
+       "count": 10,
+       "description": null
+      },
+      {
+       "label": "950bhp",
+       "value": "950",
+       "count": 9,
+       "description": null
+      },
+      {
+       "label": "1000bhp",
+       "value": "1000",
+       "count": 6,
+       "description": null
+      }
+     ]
+    },
+    {
+     "parent": null,
+     "filter": "max_engine_power",
+     "selected": [],
+     "options": [
+      {
+       "label": "50bhp",
+       "value": "50",
+       "count": 23,
+       "description": null
+      },
+      {
+       "label": "100bhp",
+       "value": "100",
+       "count": 5900,
+       "description": null
+      },
+      {
+       "label": "150bhp",
+       "value": "150",
+       "count": 30647,
+       "description": null
+      },
+      {
+       "label": "200bhp",
+       "value": "200",
+       "count": 36851,
+       "description": null
+      },
+      {
+       "label": "250bhp",
+       "value": "250",
+       "count": 41306,
+       "description": null
+      },
+      {
+       "label": "300bhp",
+       "value": "300",
+       "count": 42161,
+       "description": null
+      },
+      {
+       "label": "350bhp",
+       "value": "350",
+       "count": 42540,
+       "description": null
+      },
+      {
+       "label": "400bhp",
+       "value": "400",
+       "count": 42541,
+       "description": null
+      },
+      {
+       "label": "450bhp",
+       "value": "450",
+       "count": 42602,
+       "description": null
+      },
+      {
+       "label": "500bhp",
+       "value": "500",
+       "count": 42603,
+       "description": null
+      },
+      {
+       "label": "700bhp",
+       "value": "700",
+       "count": 42604,
+       "description": null
+      },
+      {
+       "label": "750bhp",
+       "value": "750",
+       "count": 42605,
+       "description": null
+      },
+      {
+       "label": "1000bhp",
+       "value": "1000",
+       "count": 42608,
+       "description": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "facet": "engine_size",
+   "filters": [
+    {
+     "parent": null,
+     "filter": "min_engine_size",
+     "selected": [],
+     "options": [
+      {
+       "label": "0L",
+       "value": "0",
+       "count": 41947,
+       "description": null
+      },
+      {
+       "label": "1.0L",
+       "value": "1.0",
+       "count": 41321,
+       "description": null
+      },
+      {
+       "label": "1.2L",
+       "value": "1.2",
+       "count": 41020,
+       "description": null
+      },
+      {
+       "label": "1.4L",
+       "value": "1.4",
+       "count": 40581,
+       "description": null
+      },
+      {
+       "label": "1.6L",
+       "value": "1.6",
+       "count": 33311,
+       "description": null
+      },
+      {
+       "label": "1.8L",
+       "value": "1.8",
+       "count": 31449,
+       "description": null
+      },
+      {
+       "label": "1.9L",
+       "value": "1.9",
+       "count": 31370,
+       "description": null
+      },
+      {
+       "label": "2.0L",
+       "value": "2.0",
+       "count": 30817,
+       "description": null
+      },
+      {
+       "label": "2.2L",
+       "value": "2.2",
+       "count": 9725,
+       "description": null
+      },
+      {
+       "label": "2.4L",
+       "value": "2.4",
+       "count": 4921,
+       "description": null
+      },
+      {
+       "label": "2.6L",
+       "value": "2.6",
+       "count": 3085,
+       "description": null
+      },
+      {
+       "label": "3.0L",
+       "value": "3.0",
+       "count": 2641,
+       "description": null
+      },
+      {
+       "label": "3.5L",
+       "value": "3.5",
+       "count": 33,
+       "description": null
+      },
+      {
+       "label": "4.0L",
+       "value": "4.0",
+       "count": 19,
+       "description": null
+      },
+      {
+       "label": "4.5L",
+       "value": "4.5",
+       "count": 17,
+       "description": null
+      },
+      {
+       "label": "5.0L",
+       "value": "5.0",
+       "count": 14,
+       "description": null
+      },
+      {
+       "label": "5.5L",
+       "value": "5.5",
+       "count": 10,
+       "description": null
+      },
+      {
+       "label": "6.0L",
+       "value": "6.0",
+       "count": 6,
+       "description": null
+      },
+      {
+       "label": "6.5L",
+       "value": "6.5",
+       "count": 2,
+       "description": null
+      },
+      {
+       "label": "7.0L",
+       "value": "7.0",
+       "count": 1,
+       "description": null
+      }
+     ]
+    },
+    {
+     "parent": null,
+     "filter": "max_engine_size",
+     "selected": [],
+     "options": [
+      {
+       "label": "0L",
+       "value": "0",
+       "count": 585,
+       "description": null
+      },
+      {
+       "label": "1.0L",
+       "value": "1.0",
+       "count": 927,
+       "description": null
+      },
+      {
+       "label": "1.2L",
+       "value": "1.2",
+       "count": 981,
+       "description": null
+      },
+      {
+       "label": "1.4L",
+       "value": "1.4",
+       "count": 1410,
+       "description": null
+      },
+      {
+       "label": "1.6L",
+       "value": "1.6",
+       "count": 10439,
+       "description": null
+      },
+      {
+       "label": "1.8L",
+       "value": "1.8",
+       "count": 10573,
+       "description": null
+      },
+      {
+       "label": "1.9L",
+       "value": "1.9",
+       "count": 11125,
+       "description": null
+      },
+      {
+       "label": "2.0L",
+       "value": "2.0",
+       "count": 31386,
+       "description": null
+      },
+      {
+       "label": "2.2L",
+       "value": "2.2",
+       "count": 35172,
+       "description": null
+      },
+      {
+       "label": "2.4L",
+       "value": "2.4",
+       "count": 37743,
+       "description": null
+      },
+      {
+       "label": "2.6L",
+       "value": "2.6",
+       "count": 38863,
+       "description": null
+      },
+      {
+       "label": "3.0L",
+       "value": "3.0",
+       "count": 41435,
+       "description": null
+      },
+      {
+       "label": "3.5L",
+       "value": "3.5",
+       "count": 41922,
+       "description": null
+      },
+      {
+       "label": "4.0L",
+       "value": "4.0",
+       "count": 41928,
+       "description": null
+      },
+      {
+       "label": "4.5L",
+       "value": "4.5",
+       "count": 41932,
+       "description": null
+      },
+      {
+       "label": "5.0L",
+       "value": "5.0",
+       "count": 41934,
+       "description": null
+      },
+      {
+       "label": "5.5L",
+       "value": "5.5",
+       "count": 41937,
+       "description": null
+      },
+      {
+       "label": "6.0L",
+       "value": "6.0",
+       "count": 41942,
+       "description": null
+      },
+      {
+       "label": "6.5L",
+       "value": "6.5",
+       "count": 41945,
+       "description": null
+      },
+      {
+       "label": "7.0L",
+       "value": "7.0",
+       "count": 41946,
+       "description": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "facet": "insurance_group",
+   "filters": [
+    {
+     "parent": null,
+     "filter": "insurance_group",
+     "selected": [],
+     "options": [
+      {
+       "label": "Up to group 3",
+       "value": "03U",
+       "count": 40,
+       "description": null
+      },
+      {
+       "label": "Up to group 5",
+       "value": "05U",
+       "count": 132,
+       "description": null
+      },
+      {
+       "label": "Up to group 10",
+       "value": "10U",
+       "count": 1116,
+       "description": null
+      },
+      {
+       "label": "Up to group 20",
+       "value": "20U",
+       "count": 3217,
+       "description": null
+      },
+      {
+       "label": "Up to group 30",
+       "value": "30U",
+       "count": 7483,
+       "description": null
+      },
+      {
+       "label": "Up to group 40",
+       "value": "40U",
+       "count": 26686,
+       "description": null
+      },
+      {
+       "label": "Up to group 50",
+       "value": "50U",
+       "count": 37530,
+       "description": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "facet": "is_writeoff",
+   "filters": [
+    {
+     "parent": null,
+     "filter": "is_writeoff",
+     "selected": [],
+     "options": [
+      {
+       "label": "Exclude",
+       "value": "exclude",
+       "count": 43509,
+       "description": null
+      },
+      {
+       "label": "Show only",
+       "value": "only",
+       "count": 424,
+       "description": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "facet": "fuel_consumption_values",
+   "filters": [
+    {
+     "parent": null,
+     "filter": "fuel_consumption_values",
+     "selected": [],
+     "options": [
+      {
+       "label": "30+ mpg",
+       "value": "OVER_30",
+       "count": 34719,
+       "description": null
+      },
+      {
+       "label": "40+ mpg",
+       "value": "OVER_40",
+       "count": 18405,
+       "description": null
+      },
+      {
+       "label": "50+ mpg",
+       "value": "OVER_50",
+       "count": 7779,
+       "description": null
+      },
+      {
+       "label": "60+ mpg",
+       "value": "OVER_60",
+       "count": 2523,
+       "description": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "facet": "fuel_type",
+   "filters": [
+    {
+     "parent": null,
+     "filter": "fuel_type",
+     "selected": [],
+     "options": [
+      {
+       "label": "Petrol",
+       "value": "Petrol",
+       "count": 890,
+       "description": null
+      },
+      {
+       "label": "Diesel",
+       "value": "Diesel",
+       "count": 39683,
+       "description": null
+      },
+      {
+       "label": "Electric",
+       "value": "Electric",
+       "count": 2001,
+       "description": null
+      },
+      {
+       "label": "Hybrid",
+       "value": "Hybrid",
+       "count": 1249,
+       "description": null
+      },
+      {
+       "label": "Plug-in petrol",
+       "value": "Petrol Plug-in Hybrid",
+       "count": 1075,
+       "description": null
+      },
+      {
+       "label": "Petrol hybrid",
+       "value": "Petrol Hybrid",
+       "count": 37,
+       "description": null
+      },
+      {
+       "label": "Diesel hybrid",
+       "value": "Diesel Hybrid",
+       "count": 137,
+       "description": null
+      },
+      {
+       "label": "Bi Fuel",
+       "value": "Bi Fuel",
+       "count": 1,
+       "description": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "facet": "make",
+   "filters": [
+    {
+     "parent": null,
+     "filter": "make",
+     "selected": [],
+     "options": [
+      {
+       "label": "Aixam",
+       "value": "Aixam",
+       "count": 1,
+       "description": null
+      },
+      {
+       "label": "BYD",
+       "value": "BYD",
+       "count": 47,
+       "description": null
+      },
+      {
+       "label": "Chevrolet",
+       "value": "Chevrolet",
+       "count": 2,
+       "description": null
+      },
+      {
+       "label": "Citroen",
+       "value": "Citroen",
+       "count": 2870,
+       "description": null
+      },
+      {
+       "label": "Dacia",
+       "value": "Dacia",
+       "count": 10,
+       "description": null
+      },
+      {
+       "label": "DAF",
+       "value": "DAF",
+       "count": 1,
+       "description": null
+      },
+      {
+       "label": "Daihatsu",
+       "value": "Daihatsu",
+       "count": 9,
+       "description": null
+      },
+      {
+       "label": "DFSK",
+       "value": "DFSK",
+       "count": 9,
+       "description": null
+      },
+      {
+       "label": "Dodge",
+       "value": "Dodge",
+       "count": 10,
+       "description": null
+      },
+      {
+       "label": "Farizon",
+       "value": "Farizon",
+       "count": 50,
+       "description": null
+      },
+      {
+       "label": "Fiat",
+       "value": "Fiat",
+       "count": 790,
+       "description": null
+      },
+      {
+       "label": "Ford",
+       "value": "Ford",
+       "count": 15363,
+       "description": null
+      },
+      {
+       "label": "FUSO",
+       "value": "FUSO",
+       "count": 7,
+       "description": null
+      },
+      {
+       "label": "Garia",
+       "value": "Garia",
+       "count": 1,
+       "description": null
+      },
+      {
+       "label": "GMC",
+       "value": "GMC",
+       "count": 1,
+       "description": null
+      },
+      {
+       "label": "Great Wall",
+       "value": "Great Wall",
+       "count": 5,
+       "description": null
+      },
+      {
+       "label": "GWM",
+       "value": "GWM",
+       "count": 29,
+       "description": null
+      },
+      {
+       "label": "Honda",
+       "value": "Honda",
+       "count": 4,
+       "description": null
+      },
+      {
+       "label": "Hyundai",
+       "value": "Hyundai",
+       "count": 2,
+       "description": null
+      },
+      {
+       "label": "INEOS",
+       "value": "INEOS",
+       "count": 50,
+       "description": null
+      },
+      {
+       "label": "Isuzu",
+       "value": "Isuzu",
+       "count": 630,
+       "description": null
+      },
+      {
+       "label": "Iveco",
+       "value": "Iveco",
+       "count": 524,
+       "description": null
+      },
+      {
+       "label": "KGM",
+       "value": "KGM",
+       "count": 118,
+       "description": null
+      },
+      {
+       "label": "Kia",
+       "value": "Kia",
+       "count": 89,
+       "description": null
+      },
+      {
+       "label": "Land Rover",
+       "value": "Land Rover",
+       "count": 1684,
+       "description": null
+      },
+      {
+       "label": "LDV",
+       "value": "LDV",
+       "count": 17,
+       "description": null
+      },
+      {
+       "label": "LEVC",
+       "value": "LEVC",
+       "count": 10,
+       "description": null
+      },
+      {
+       "label": "Leyland DAF",
+       "value": "Leyland DAF",
+       "count": 1,
+       "description": null
+      },
+      {
+       "label": "MAN",
+       "value": "MAN",
+       "count": 226,
+       "description": null
+      },
+      {
+       "label": "Marshall",
+       "value": "Marshall",
+       "count": 1,
+       "description": null
+      },
+      {
+       "label": "MAXUS",
+       "value": "MAXUS",
+       "count": 618,
+       "description": null
+      },
+      {
+       "label": "Mazda",
+       "value": "Mazda",
+       "count": 4,
+       "description": null
+      },
+      {
+       "label": "Mercedes-Benz",
+       "value": "Mercedes-Benz",
+       "count": 3171,
+       "description": null
+      },
+      {
+       "label": "MINI",
+       "value": "MINI",
+       "count": 8,
+       "description": null
+      },
+      {
+       "label": "Mitsubishi",
+       "value": "Mitsubishi",
+       "count": 522,
+       "description": null
+      },
+      {
+       "label": "Morris",
+       "value": "Morris",
+       "count": 1,
+       "description": null
+      },
+      {
+       "label": "Nissan",
+       "value": "Nissan",
+       "count": 1287,
+       "description": null
+      },
+      {
+       "label": "Peugeot",
+       "value": "Peugeot",
+       "count": 2614,
+       "description": null
+      },
+      {
+       "label": "Piaggio",
+       "value": "Piaggio",
+       "count": 1,
+       "description": null
+      },
+      {
+       "label": "Proton",
+       "value": "Proton",
+       "count": 1,
+       "description": null
+      },
+      {
+       "label": "Renault",
+       "value": "Renault",
+       "count": 2775,
+       "description": null
+      },
+      {
+       "label": "Renault Trucks",
+       "value": "Renault Trucks",
+       "count": 48,
+       "description": null
+      },
+      {
+       "label": "SsangYong",
+       "value": "SsangYong",
+       "count": 75,
+       "description": null
+      },
+      {
+       "label": "Subaru",
+       "value": "Subaru",
+       "count": 2,
+       "description": null
+      },
+      {
+       "label": "Suzuki",
+       "value": "Suzuki",
+       "count": 65,
+       "description": null
+      },
+      {
+       "label": "Toyota",
+       "value": "Toyota",
+       "count": 1300,
+       "description": null
+      },
+      {
+       "label": "Vauxhall",
+       "value": "Vauxhall",
+       "count": 3650,
+       "description": null
+      },
+      {
+       "label": "Volkswagen",
+       "value": "Volkswagen",
+       "count": 5230,
+       "description": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "facet": "is_manufacturer_approved",
+   "filters": [
+    {
+     "parent": null,
+     "filter": "is_manufacturer_approved",
+     "selected": [],
+     "options": [
+      {
+       "label": "Only show manufacturer approved vans",
+       "value": "true",
+       "count": 2870,
+       "description": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "facet": "mileage",
+   "filters": [
+    {
+     "parent": null,
+     "filter": "min_mileage",
+     "selected": [],
+     "options": [
+      {
+       "label": "0 miles",
+       "value": "0",
+       "count": 43928,
+       "description": null
+      },
+      {
+       "label": "100 miles",
+       "value": "100",
+       "count": 37074,
+       "description": null
+      },
+      {
+       "label": "500 miles",
+       "value": "500",
+       "count": 35758,
+       "description": null
+      },
+      {
+       "label": "5,000 miles",
+       "value": "5000",
+       "count": 34199,
+       "description": null
+      },
+      {
+       "label": "10,000 miles",
+       "value": "10000",
+       "count": 32357,
+       "description": null
+      },
+      {
+       "label": "15,000 miles",
+       "value": "15000",
+       "count": 30668,
+       "description": null
+      },
+      {
+       "label": "20,000 miles",
+       "value": "20000",
+       "count": 28997,
+       "description": null
+      },
+      {
+       "label": "25,000 miles",
+       "value": "25000",
+       "count": 27334,
+       "description": null
+      },
+      {
+       "label": "30,000 miles",
+       "value": "30000",
+       "count": 25676,
+       "description": null
+      },
+      {
+       "label": "35,000 miles",
+       "value": "35000",
+       "count": 24137,
+       "description": null
+      },
+      {
+       "label": "40,000 miles",
+       "value": "40000",
+       "count": 22564,
+       "description": null
+      },
+      {
+       "label": "45,000 miles",
+       "value": "45000",
+       "count": 20970,
+       "description": null
+      },
+      {
+       "label": "50,000 miles",
+       "value": "50000",
+       "count": 19273,
+       "description": null
+      },
+      {
+       "label": "60,000 miles",
+       "value": "60000",
+       "count": 16066,
+       "description": null
+      },
+      {
+       "label": "70,000 miles",
+       "value": "70000",
+       "count": 13071,
+       "description": null
+      },
+      {
+       "label": "80,000 miles",
+       "value": "80000",
+       "count": 10277,
+       "description": null
+      },
+      {
+       "label": "90,000 miles",
+       "value": "90000",
+       "count": 8024,
+       "description": null
+      },
+      {
+       "label": "100,000 miles",
+       "value": "100000",
+       "count": 6039,
+       "description": null
+      },
+      {
+       "label": "125,000 miles",
+       "value": "125000",
+       "count": 2806,
+       "description": null
+      },
+      {
+       "label": "150,000 miles",
+       "value": "150000",
+       "count": 1334,
+       "description": null
+      },
+      {
+       "label": "200,000 miles",
+       "value": "200000",
+       "count": 313,
+       "description": null
+      }
+     ]
+    },
+    {
+     "parent": null,
+     "filter": "max_mileage",
+     "selected": [],
+     "options": [
+      {
+       "label": "100 miles",
+       "value": "100",
+       "count": 7520,
+       "description": null
+      },
+      {
+       "label": "500 miles",
+       "value": "500",
+       "count": 8212,
+       "description": null
+      },
+      {
+       "label": "5,000 miles",
+       "value": "5000",
+       "count": 9805,
+       "description": null
+      },
+      {
+       "label": "10,000 miles",
+       "value": "10000",
+       "count": 11637,
+       "description": null
+      },
+      {
+       "label": "15,000 miles",
+       "value": "15000",
+       "count": 13337,
+       "description": null
+      },
+      {
+       "label": "20,000 miles",
+       "value": "20000",
+       "count": 15008,
+       "description": null
+      },
+      {
+       "label": "25,000 miles",
+       "value": "25000",
+       "count": 16676,
+       "description": null
+      },
+      {
+       "label": "30,000 miles",
+       "value": "30000",
+       "count": 18342,
+       "description": null
+      },
+      {
+       "label": "35,000 miles",
+       "value": "35000",
+       "count": 19874,
+       "description": null
+      },
+      {
+       "label": "40,000 miles",
+       "value": "40000",
+       "count": 21490,
+       "description": null
+      },
+      {
+       "label": "45,000 miles",
+       "value": "45000",
+       "count": 23057,
+       "description": null
+      },
+      {
+       "label": "50,000 miles",
+       "value": "50000",
+       "count": 24794,
+       "description": null
+      },
+      {
+       "label": "60,000 miles",
+       "value": "60000",
+       "count": 28007,
+       "description": null
+      },
+      {
+       "label": "70,000 miles",
+       "value": "70000",
+       "count": 30992,
+       "description": null
+      },
+      {
+       "label": "80,000 miles",
+       "value": "80000",
+       "count": 33759,
+       "description": null
+      },
+      {
+       "label": "90,000 miles",
+       "value": "90000",
+       "count": 35998,
+       "description": null
+      },
+      {
+       "label": "100,000 miles",
+       "value": "100000",
+       "count": 37995,
+       "description": null
+      },
+      {
+       "label": "125,000 miles",
+       "value": "125000",
+       "count": 41165,
+       "description": null
+      },
+      {
+       "label": "150,000 miles",
+       "value": "150000",
+       "count": 42621,
+       "description": null
+      },
+      {
+       "label": "200,000 miles",
+       "value": "200000",
+       "count": 43623,
+       "description": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "facet": "ni_only",
+   "filters": [
+    {
+     "parent": null,
+     "filter": "ni_only",
+     "selected": [],
+     "options": [
+      {
+       "label": "Northern Ireland",
+       "value": "on",
+       "count": 937,
+       "description": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "facet": "seats_values",
+   "filters": [
+    {
+     "parent": null,
+     "filter": "seats_values",
+     "selected": [],
+     "options": [
+      {
+       "label": "1 seat",
+       "value": "1",
+       "count": 7,
+       "description": null
+      },
+      {
+       "label": "2 seats",
+       "value": "2",
+       "count": 7328,
+       "description": null
+      },
+      {
+       "label": "3 seats",
+       "value": "3",
+       "count": 22695,
+       "description": null
+      },
+      {
+       "label": "4 seats",
+       "value": "4",
+       "count": 349,
+       "description": null
+      },
+      {
+       "label": "5 seats",
+       "value": "5",
+       "count": 8306,
+       "description": null
+      },
+      {
+       "label": "6 seats",
+       "value": "6",
+       "count": 2103,
+       "description": null
+      },
+      {
+       "label": "7 seats",
+       "value": "7",
+       "count": 644,
+       "description": null
+      },
+      {
+       "label": "8 seats",
+       "value": "8",
+       "count": 728,
+       "description": null
+      },
+      {
+       "label": "9 seats",
+       "value": "9",
+       "count": 647,
+       "description": null
+      },
+      {
+       "label": "10 seats",
+       "value": "10",
+       "count": 5,
+       "description": null
+      },
+      {
+       "label": "11 seats",
+       "value": "11",
+       "count": 6,
+       "description": null
+      },
+      {
+       "label": "12 seats",
+       "value": "12",
+       "count": 19,
+       "description": null
+      },
+      {
+       "label": "13 seats",
+       "value": "13",
+       "count": 3,
+       "description": null
+      },
+      {
+       "label": "14 seats",
+       "value": "14",
+       "count": 10,
+       "description": null
+      },
+      {
+       "label": "15 seats",
+       "value": "15",
+       "count": 18,
+       "description": null
+      },
+      {
+       "label": "16 seats",
+       "value": "16",
+       "count": 4,
+       "description": null
+      },
+      {
+       "label": "17 seats",
+       "value": "17",
+       "count": 168,
+       "description": null
+      },
+      {
+       "label": "18 seats",
+       "value": "18",
+       "count": 29,
+       "description": null
+      },
+      {
+       "label": "19 seats",
+       "value": "19",
+       "count": 2,
+       "description": null
+      },
+      {
+       "label": "23 seats",
+       "value": "23",
+       "count": 1,
+       "description": null
+      },
+      {
+       "label": "32 seats",
+       "value": "32",
+       "count": 1,
+       "description": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "facet": "seller_type",
+   "filters": [
+    {
+     "parent": null,
+     "filter": "seller_type",
+     "selected": [],
+     "options": [
+      {
+       "label": "Private sellers",
+       "value": "private",
+       "count": 3743,
+       "description": null
+      },
+      {
+       "label": "Trade sellers",
+       "value": "trade",
+       "count": 40190,
+       "description": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "facet": "transmission",
+   "filters": [
+    {
+     "parent": null,
+     "filter": "transmission",
+     "selected": [],
+     "options": [
+      {
+       "label": "Automatic",
+       "value": "Automatic",
+       "count": 15308,
+       "description": null
+      },
+      {
+       "label": "Manual",
+       "value": "Manual",
+       "count": 28544,
+       "description": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "facet": "year_manufactured",
+   "filters": [
+    {
+     "parent": null,
+     "filter": "min_year_manufactured",
+     "selected": [],
+     "options": [
+      {
+       "label": "Brand New",
+       "value": "new",
+       "count": 4673,
+       "description": null
+      },
+      {
+       "label": "2026",
+       "value": "2026",
+       "count": 9213,
+       "description": null
+      },
+      {
+       "label": "2025",
+       "value": "2025",
+       "count": 12928,
+       "description": null
+      },
+      {
+       "label": "2024",
+       "value": "2024",
+       "count": 16833,
+       "description": null
+      },
+      {
+       "label": "2023",
+       "value": "2023",
+       "count": 23071,
+       "description": null
+      },
+      {
+       "label": "2022",
+       "value": "2022",
+       "count": 27151,
+       "description": null
+      },
+      {
+       "label": "2021",
+       "value": "2021",
+       "count": 31091,
+       "description": null
+      },
+      {
+       "label": "2020",
+       "value": "2020",
+       "count": 33662,
+       "description": null
+      },
+      {
+       "label": "2019",
+       "value": "2019",
+       "count": 36298,
+       "description": null
+      },
+      {
+       "label": "2018",
+       "value": "2018",
+       "count": 38244,
+       "description": null
+      },
+      {
+       "label": "2017",
+       "value": "2017",
+       "count": 39691,
+       "description": null
+      },
+      {
+       "label": "2016",
+       "value": "2016",
+       "count": 40849,
+       "description": null
+      },
+      {
+       "label": "2015",
+       "value": "2015",
+       "count": 41671,
+       "description": null
+      },
+      {
+       "label": "2014",
+       "value": "2014",
+       "count": 42269,
+       "description": null
+      },
+      {
+       "label": "2013",
+       "value": "2013",
+       "count": 42624,
+       "description": null
+      },
+      {
+       "label": "2012",
+       "value": "2012",
+       "count": 42905,
+       "description": null
+      },
+      {
+       "label": "2011",
+       "value": "2011",
+       "count": 43096,
+       "description": null
+      },
+      {
+       "label": "2010",
+       "value": "2010",
+       "count": 43248,
+       "description": null
+      },
+      {
+       "label": "2009",
+       "value": "2009",
+       "count": 43354,
+       "description": null
+      },
+      {
+       "label": "2008",
+       "value": "2008",
+       "count": 43471,
+       "description": null
+      },
+      {
+       "label": "2007",
+       "value": "2007",
+       "count": 43559,
+       "description": null
+      },
+      {
+       "label": "2006",
+       "value": "2006",
+       "count": 43627,
+       "description": null
+      },
+      {
+       "label": "2005",
+       "value": "2005",
+       "count": 43679,
+       "description": null
+      },
+      {
+       "label": "2004",
+       "value": "2004",
+       "count": 43716,
+       "description": null
+      },
+      {
+       "label": "2003",
+       "value": "2003",
+       "count": 43736,
+       "description": null
+      },
+      {
+       "label": "2002",
+       "value": "2002",
+       "count": 43751,
+       "description": null
+      },
+      {
+       "label": "2001",
+       "value": "2001",
+       "count": 43766,
+       "description": null
+      },
+      {
+       "label": "2000",
+       "value": "2000",
+       "count": 43783,
+       "description": null
+      },
+      {
+       "label": "1995",
+       "value": "1995",
+       "count": 43828,
+       "description": null
+      },
+      {
+       "label": "1990",
+       "value": "1990",
+       "count": 43844,
+       "description": null
+      },
+      {
+       "label": "1980",
+       "value": "1980",
+       "count": 43860,
+       "description": null
+      },
+      {
+       "label": "1970",
+       "value": "1970",
+       "count": 43864,
+       "description": null
+      },
+      {
+       "label": "1960",
+       "value": "1960",
+       "count": 43872,
+       "description": null
+      },
+      {
+       "label": "1950",
+       "value": "1950",
+       "count": 43874,
+       "description": null
+      }
+     ]
+    },
+    {
+     "parent": null,
+     "filter": "max_year_manufactured",
+     "selected": [],
+     "options": [
+      {
+       "label": "Brand New",
+       "value": "new",
+       "count": 43874,
+       "description": null
+      },
+      {
+       "label": "2026",
+       "value": "2026",
+       "count": 39201,
+       "description": null
+      },
+      {
+       "label": "2025",
+       "value": "2025",
+       "count": 34661,
+       "description": null
+      },
+      {
+       "label": "2024",
+       "value": "2024",
+       "count": 30946,
+       "description": null
+      },
+      {
+       "label": "2023",
+       "value": "2023",
+       "count": 27041,
+       "description": null
+      },
+      {
+       "label": "2022",
+       "value": "2022",
+       "count": 20803,
+       "description": null
+      },
+      {
+       "label": "2021",
+       "value": "2021",
+       "count": 16723,
+       "description": null
+      },
+      {
+       "label": "2020",
+       "value": "2020",
+       "count": 12783,
+       "description": null
+      },
+      {
+       "label": "2019",
+       "value": "2019",
+       "count": 10212,
+       "description": null
+      },
+      {
+       "label": "2018",
+       "value": "2018",
+       "count": 7576,
+       "description": null
+      },
+      {
+       "label": "2017",
+       "value": "2017",
+       "count": 5630,
+       "description": null
+      },
+      {
+       "label": "2016",
+       "value": "2016",
+       "count": 4183,
+       "description": null
+      },
+      {
+       "label": "2015",
+       "value": "2015",
+       "count": 3025,
+       "description": null
+      },
+      {
+       "label": "2014",
+       "value": "2014",
+       "count": 2203,
+       "description": null
+      },
+      {
+       "label": "2013",
+       "value": "2013",
+       "count": 1605,
+       "description": null
+      },
+      {
+       "label": "2012",
+       "value": "2012",
+       "count": 1250,
+       "description": null
+      },
+      {
+       "label": "2011",
+       "value": "2011",
+       "count": 969,
+       "description": null
+      },
+      {
+       "label": "2010",
+       "value": "2010",
+       "count": 778,
+       "description": null
+      },
+      {
+       "label": "2009",
+       "value": "2009",
+       "count": 626,
+       "description": null
+      },
+      {
+       "label": "2008",
+       "value": "2008",
+       "count": 520,
+       "description": null
+      },
+      {
+       "label": "2007",
+       "value": "2007",
+       "count": 403,
+       "description": null
+      },
+      {
+       "label": "2006",
+       "value": "2006",
+       "count": 315,
+       "description": null
+      },
+      {
+       "label": "2005",
+       "value": "2005",
+       "count": 247,
+       "description": null
+      },
+      {
+       "label": "2004",
+       "value": "2004",
+       "count": 195,
+       "description": null
+      },
+      {
+       "label": "2003",
+       "value": "2003",
+       "count": 158,
+       "description": null
+      },
+      {
+       "label": "2002",
+       "value": "2002",
+       "count": 138,
+       "description": null
+      },
+      {
+       "label": "2001",
+       "value": "2001",
+       "count": 123,
+       "description": null
+      },
+      {
+       "label": "2000",
+       "value": "2000",
+       "count": 108,
+       "description": null
+      },
+      {
+       "label": "1995",
+       "value": "1995",
+       "count": 54,
+       "description": null
+      },
+      {
+       "label": "1990",
+       "value": "1990",
+       "count": 31,
+       "description": null
+      },
+      {
+       "label": "1980",
+       "value": "1980",
+       "count": 14,
+       "description": null
+      },
+      {
+       "label": "1970",
+       "value": "1970",
+       "count": 11,
+       "description": null
+      },
+      {
+       "label": "1960",
+       "value": "1960",
+       "count": 2,
+       "description": null
+      },
+      {
+       "label": "1950",
+       "value": "1950",
+       "count": 1,
+       "description": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "facet": "vat_status",
+   "filters": [
+    {
+     "parent": null,
+     "filter": "vat_status",
+     "selected": [],
+     "options": [
+      {
+       "label": "VAT to pay",
+       "value": "VAT to pay",
+       "count": 32265,
+       "description": "Shows adverts with VAT already included in the price (Inc VAT) or where VAT will be added on top (+VAT)"
+      },
+      {
+       "label": "No VAT to pay",
+       "value": "No VAT",
+       "count": 11548,
+       "description": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "facet": "wheelbase",
+   "filters": [
+    {
+     "parent": null,
+     "filter": "wheelbase",
+     "selected": [],
+     "options": [
+      {
+       "label": "EXLWB",
+       "value": "EXLWB",
+       "count": 3,
+       "description": null
+      },
+      {
+       "label": "Long",
+       "value": "LWB",
+       "count": 13714,
+       "description": null
+      },
+      {
+       "label": "Medium",
+       "value": "MWB",
+       "count": 4964,
+       "description": null
+      },
+      {
+       "label": "Standard",
+       "value": "STD",
+       "count": 7005,
+       "description": null
+      },
+      {
+       "label": "Short",
+       "value": "SWB",
+       "count": 15456,
+       "description": null
+      },
+      {
+       "label": "Extra long",
+       "value": "XLWB",
+       "count": 1413,
+       "description": null
+      },
+      {
+       "label": "Extra extra long",
+       "value": "XXLWB",
+       "count": 12,
+       "description": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "facet": "cab_type",
+   "filters": [
+    {
+     "parent": null,
+     "filter": "cab_type",
+     "selected": [],
+     "options": [
+      {
+       "label": "Double Cab",
+       "value": "Double Cab",
+       "count": 11543,
+       "description": null
+      },
+      {
+       "label": "Extended Cab",
+       "value": "Extended Cab",
+       "count": 126,
+       "description": null
+      },
+      {
+       "label": "Single Cab",
+       "value": "Single Cab",
+       "count": 30801,
+       "description": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "facet": "wheelchair_accessible",
+   "filters": [
+    {
+     "parent": null,
+     "filter": "wheelchair_accessible",
+     "selected": [],
+     "options": [
+      {
+       "label": "Wheelchair accessible",
+       "value": "true",
+       "count": 2,
+       "description": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "facet": "price",
+   "filters": [
+    {
+     "parent": null,
+     "filter": "min_price",
+     "selected": [],
+     "options": [
+      {
+       "label": "£0",
+       "value": "0",
+       "count": 43933,
+       "description": null
+      },
+      {
+       "label": "£500",
+       "value": "500",
+       "count": 43929,
+       "description": null
+      },
+      {
+       "label": "£1,000",
+       "value": "1000",
+       "count": 43905,
+       "description": null
+      },
+      {
+       "label": "£1,500",
+       "value": "1500",
+       "count": 43835,
+       "description": null
+      },
+      {
+       "label": "£2,000",
+       "value": "2000",
+       "count": 43703,
+       "description": null
+      },
+      {
+       "label": "£2,500",
+       "value": "2500",
+       "count": 43553,
+       "description": null
+      },
+      {
+       "label": "£3,000",
+       "value": "3000",
+       "count": 43361,
+       "description": null
+      },
+      {
+       "label": "£3,500",
+       "value": "3500",
+       "count": 43161,
+       "description": null
+      },
+      {
+       "label": "£4,000",
+       "value": "4000",
+       "count": 42810,
+       "description": null
+      },
+      {
+       "label": "£4,500",
+       "value": "4500",
+       "count": 42550,
+       "description": null
+      },
+      {
+       "label": "£5,000",
+       "value": "5000",
+       "count": 42065,
+       "description": null
+      },
+      {
+       "label": "£5,500",
+       "value": "5500",
+       "count": 41740,
+       "description": null
+      },
+      {
+       "label": "£6,000",
+       "value": "6000",
+       "count": 41161,
+       "description": null
+      },
+      {
+       "label": "£6,500",
+       "value": "6500",
+       "count": 40733,
+       "description": null
+      },
+      {
+       "label": "£7,000",
+       "value": "7000",
+       "count": 39946,
+       "description": null
+      },
+      {
+       "label": "£7,500",
+       "value": "7500",
+       "count": 39443,
+       "description": null
+      },
+      {
+       "label": "£8,000",
+       "value": "8000",
+       "count": 38496,
+       "description": null
+      },
+      {
+       "label": "£8,500",
+       "value": "8500",
+       "count": 37896,
+       "description": null
+      },
+      {
+       "label": "£9,000",
+       "value": "9000",
+       "count": 36887,
+       "description": null
+      },
+      {
+       "label": "£9,500",
+       "value": "9500",
+       "count": 36301,
+       "description": null
+      },
+      {
+       "label": "£10,000",
+       "value": "10000",
+       "count": 35073,
+       "description": null
+      },
+      {
+       "label": "£11,000",
+       "value": "11000",
+       "count": 33331,
+       "description": null
+      },
+      {
+       "label": "£12,000",
+       "value": "12000",
+       "count": 31465,
+       "description": null
+      },
+      {
+       "label": "£13,000",
+       "value": "13000",
+       "count": 29507,
+       "description": null
+      },
+      {
+       "label": "£14,000",
+       "value": "14000",
+       "count": 27667,
+       "description": null
+      },
+      {
+       "label": "£15,000",
+       "value": "15000",
+       "count": 25833,
+       "description": null
+      },
+      {
+       "label": "£16,000",
+       "value": "16000",
+       "count": 24261,
+       "description": null
+      },
+      {
+       "label": "£17,000",
+       "value": "17000",
+       "count": 22529,
+       "description": null
+      },
+      {
+       "label": "£18,000",
+       "value": "18000",
+       "count": 20912,
+       "description": null
+      },
+      {
+       "label": "£19,000",
+       "value": "19000",
+       "count": 19478,
+       "description": null
+      },
+      {
+       "label": "£20,000",
+       "value": "20000",
+       "count": 18073,
+       "description": null
+      },
+      {
+       "label": "£22,500",
+       "value": "22500",
+       "count": 15533,
+       "description": null
+      },
+      {
+       "label": "£25,000",
+       "value": "25000",
+       "count": 12557,
+       "description": null
+      },
+      {
+       "label": "£27,500",
+       "value": "27500",
+       "count": 10421,
+       "description": null
+      },
+      {
+       "label": "£30,000",
+       "value": "30000",
+       "count": 8082,
+       "description": null
+      },
+      {
+       "label": "£35,000",
+       "value": "35000",
+       "count": 5232,
+       "description": null
+      },
+      {
+       "label": "£40,000",
+       "value": "40000",
+       "count": 3151,
+       "description": null
+      },
+      {
+       "label": "£45,000",
+       "value": "45000",
+       "count": 2068,
+       "description": null
+      },
+      {
+       "label": "£50,000",
+       "value": "50000",
+       "count": 1221,
+       "description": null
+      },
+      {
+       "label": "£55,000",
+       "value": "55000",
+       "count": 835,
+       "description": null
+      },
+      {
+       "label": "£60,000",
+       "value": "60000",
+       "count": 562,
+       "description": null
+      },
+      {
+       "label": "£65,000",
+       "value": "65000",
+       "count": 411,
+       "description": null
+      },
+      {
+       "label": "£70,000",
+       "value": "70000",
+       "count": 279,
+       "description": null
+      },
+      {
+       "label": "£75,000",
+       "value": "75000",
+       "count": 198,
+       "description": null
+      },
+      {
+       "label": "£100,000",
+       "value": "100000",
+       "count": 27,
+       "description": null
+      },
+      {
+       "label": "£250,000",
+       "value": "250000",
+       "count": 3,
+       "description": null
+      },
+      {
+       "label": "£1,000,000",
+       "value": "1000000",
+       "count": 1,
+       "description": null
+      }
+     ]
+    },
+    {
+     "parent": null,
+     "filter": "max_price",
+     "selected": [],
+     "options": [
+      {
+       "label": "£500",
+       "value": "500",
+       "count": 5,
+       "description": null
+      },
+      {
+       "label": "£1,000",
+       "value": "1000",
+       "count": 35,
+       "description": null
+      },
+      {
+       "label": "£1,500",
+       "value": "1500",
+       "count": 110,
+       "description": null
+      },
+      {
+       "label": "£2,000",
+       "value": "2000",
+       "count": 243,
+       "description": null
+      },
+      {
+       "label": "£2,500",
+       "value": "2500",
+       "count": 406,
+       "description": null
+      },
+      {
+       "label": "£3,000",
+       "value": "3000",
+       "count": 610,
+       "description": null
+      },
+      {
+       "label": "£3,500",
+       "value": "3500",
+       "count": 808,
+       "description": null
+      },
+      {
+       "label": "£4,000",
+       "value": "4000",
+       "count": 1176,
+       "description": null
+      },
+      {
+       "label": "£4,500",
+       "value": "4500",
+       "count": 1448,
+       "description": null
+      },
+      {
+       "label": "£5,000",
+       "value": "5000",
+       "count": 1929,
+       "description": null
+      },
+      {
+       "label": "£5,500",
+       "value": "5500",
+       "count": 2271,
+       "description": null
+      },
+      {
+       "label": "£6,000",
+       "value": "6000",
+       "count": 2846,
+       "description": null
+      },
+      {
+       "label": "£6,500",
+       "value": "6500",
+       "count": 3296,
+       "description": null
+      },
+      {
+       "label": "£7,000",
+       "value": "7000",
+       "count": 4075,
+       "description": null
+      },
+      {
+       "label": "£7,500",
+       "value": "7500",
+       "count": 4600,
+       "description": null
+      },
+      {
+       "label": "£8,000",
+       "value": "8000",
+       "count": 5520,
+       "description": null
+      },
+      {
+       "label": "£8,500",
+       "value": "8500",
+       "count": 6138,
+       "description": null
+      },
+      {
+       "label": "£9,000",
+       "value": "9000",
+       "count": 7151,
+       "description": null
+      },
+      {
+       "label": "£9,500",
+       "value": "9500",
+       "count": 7725,
+       "description": null
+      },
+      {
+       "label": "£10,000",
+       "value": "10000",
+       "count": 8976,
+       "description": null
+      },
+      {
+       "label": "£11,000",
+       "value": "11000",
+       "count": 10714,
+       "description": null
+      },
+      {
+       "label": "£12,000",
+       "value": "12000",
+       "count": 12584,
+       "description": null
+      },
+      {
+       "label": "£13,000",
+       "value": "13000",
+       "count": 14507,
+       "description": null
+      },
+      {
+       "label": "£14,000",
+       "value": "14000",
+       "count": 16358,
+       "description": null
+      },
+      {
+       "label": "£15,000",
+       "value": "15000",
+       "count": 18176,
+       "description": null
+      },
+      {
+       "label": "£16,000",
+       "value": "16000",
+       "count": 19747,
+       "description": null
+      },
+      {
+       "label": "£17,000",
+       "value": "17000",
+       "count": 21458,
+       "description": null
+      },
+      {
+       "label": "£18,000",
+       "value": "18000",
+       "count": 23085,
+       "description": null
+      },
+      {
+       "label": "£19,000",
+       "value": "19000",
+       "count": 24514,
+       "description": null
+      },
+      {
+       "label": "£20,000",
+       "value": "20000",
+       "count": 25928,
+       "description": null
+      },
+      {
+       "label": "£22,500",
+       "value": "22500",
+       "count": 28455,
+       "description": null
+      },
+      {
+       "label": "£25,000",
+       "value": "25000",
+       "count": 31459,
+       "description": null
+      },
+      {
+       "label": "£27,500",
+       "value": "27500",
+       "count": 33578,
+       "description": null
+      },
+      {
+       "label": "£30,000",
+       "value": "30000",
+       "count": 35909,
+       "description": null
+      },
+      {
+       "label": "£35,000",
+       "value": "35000",
+       "count": 38752,
+       "description": null
+      },
+      {
+       "label": "£40,000",
+       "value": "40000",
+       "count": 40810,
+       "description": null
+      },
+      {
+       "label": "£45,000",
+       "value": "45000",
+       "count": 41895,
+       "description": null
+      },
+      {
+       "label": "£50,000",
+       "value": "50000",
+       "count": 42731,
+       "description": null
+      },
+      {
+       "label": "£55,000",
+       "value": "55000",
+       "count": 43106,
+       "description": null
+      },
+      {
+       "label": "£60,000",
+       "value": "60000",
+       "count": 43378,
+       "description": null
+      },
+      {
+       "label": "£65,000",
+       "value": "65000",
+       "count": 43531,
+       "description": null
+      },
+      {
+       "label": "£70,000",
+       "value": "70000",
+       "count": 43659,
+       "description": null
+      },
+      {
+       "label": "£75,000",
+       "value": "75000",
+       "count": 43743,
+       "description": null
+      },
+      {
+       "label": "£100,000",
+       "value": "100000",
+       "count": 43906,
+       "description": null
+      },
+      {
+       "label": "£250,000",
+       "value": "250000",
+       "count": 43932,
+       "description": null
+      },
+      {
+       "label": "£1,000,000",
+       "value": "1000000",
+       "count": 43933,
+       "description": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "facet": "model",
+   "filters": [
+    {
+     "parent": null,
+     "filter": "model",
+     "selected": [],
+     "options": []
+    }
+   ]
+  },
+  {
+   "facet": "aggregated_trim",
+   "filters": [
+    {
+     "parent": null,
+     "filter": "aggregated_trim",
+     "selected": [],
+     "options": []
+    }
+   ]
+  },
+  {
+   "facet": "keywords",
+   "filters": [
+    {
+     "parent": null,
+     "filter": "keywords",
+     "selected": [],
+     "options": []
+    }
+   ]
+  },
+  {
+   "facet": "postcode",
+   "filters": [
+    {
+     "parent": null,
+     "filter": "postcode",
+     "selected": [
+      "SW1A 1AA"
+     ],
+     "options": [
+      {
+       "label": "SW1A 1AA",
+       "value": "SW1A 1AA",
+       "count": null,
+       "description": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "facet": "price_search_type",
+   "filters": [
+    {
+     "parent": null,
+     "filter": "price_search_type",
+     "selected": [
+      "total"
+     ],
+     "options": [
+      {
+       "label": "Pay in full",
+       "value": "total",
+       "count": null,
+       "description": null
+      },
+      {
+       "label": "Pay monthly",
+       "value": "monthly",
+       "count": null,
+       "description": null
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "page": {
+  "results": {
+   "count": 43933
+  }
+ }
+}

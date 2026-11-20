@@ -1,0 +1,19 @@
+{
+ "dealerId": "10036877",
+ "name": "BLUEHAWK AUTOMOTIVE LIMITED",
+ "location": {
+  "town": "Hounslow",
+  "county": "Middlesex"
+ },
+ "acceptedDealerReviews": {
+  "totalLiveReviews": 0,
+  "averageLiveReviewRating": 0,
+  "sourceSummaries": [],
+  "starSummaries": [],
+  "dealerReviewList": {
+   "size": 0,
+   "nextCursor": "",
+   "reviews": []
+  }
+ }
+}

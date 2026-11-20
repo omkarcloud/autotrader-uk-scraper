@@ -1,0 +1,284 @@
+{
+ "dealer": {
+  "dealerId": "9994",
+  "name": "Williams Landrover",
+  "legalName": "WILLIAMS MOTOR CO. LIMITED T/A Williams Landrover",
+  "description": "",
+  "distance": null,
+  "fca": "412069",
+  "fcaPermission": "Appointed Representative",
+  "chargesAdminFee": false,
+  "location": {
+   "addressOne": "24 BARTON DOCK ROAD",
+   "addressTwo": null,
+   "town": "Manchester",
+   "county": "Lancashire",
+   "region": "North West",
+   "country": "GB",
+   "postcode": "M41 7GF",
+   "latLong": "53.4647775,-2.3388703"
+  },
+  "marketing": {
+   "profile": null,
+   "productPageBrandingImage": "https://m.atcdn.co.uk/dealer-logo/at2/adbranding/9994/images/fpa_logo.gif",
+   "strapline": "PHONE 0161 937 6765 TO ARRANGE A TEST DRIVE OR REQUEST A PERSONALISED VIDEO"
+  },
+  "media": {
+   "email": "yes",
+   "emailAddress": "jenny.brayton@williamsgroup.co.uk",
+   "phoneNumber1": "(0161) 937 6765",
+   "phoneNumber2": null,
+   "protectedNumber": false,
+   "dealerWebsite": {
+    "href": "https://www.williamsgroup.co.uk/landrover/contact-us/manchester/"
+   }
+  },
+  "reviews": {
+   "overallReviewRating": "1.0",
+   "numberOfReviews": "10"
+  },
+  "atAwards": [],
+  "branding": {
+   "brands": [],
+   "accreditations": []
+  },
+  "capabilities": {
+   "digitalRetailing": {
+    "enabled": false
+   },
+   "instantMessagingChat": {
+    "enabled": true,
+    "provider": "LivePersonConversationalCloud"
+   },
+   "instantMessagingText": null
+  },
+  "servicesOffered": {
+   "services": null,
+   "newCarMakes": [
+    "LAND ROVER"
+   ],
+   "franchises": [
+    "LAND ROVER"
+   ],
+   "hasDealerProfilePage": true,
+   "hasHomeDelivery": false,
+   "hasClickAndCollect": false,
+   "hasVideoWalkAround": true,
+   "hasSafeSelling": false,
+   "servicePartners": []
+  },
+  "assignedNumber": null,
+  "stockLevels": {
+   "atStockCounts": {
+    "car": 137,
+    "bike": null,
+    "van": 10,
+    "motorhome": null,
+    "caravan": null,
+    "truck": null,
+    "plant": null,
+    "agricultural": null,
+    "stock_car": 197,
+    "stock_bike": null,
+    "stock_van": 11,
+    "stock_caravan": null,
+    "stock_motorhome": null,
+    "stock_truck": null,
+    "stock_plant": null,
+    "stock_agricultural": null
+   }
+  }
+ },
+ "profile": {
+  "faqs": [
+   {
+    "question": "Where are Williams Landrover based?",
+    "answer": "Williams Landrover are a car dealership based in Lancashire. Their address is 24 BARTON DOCK ROAD, Manchester, M41 7GF. Get directions on the Auto Trader site."
+   },
+   {
+    "question": "What services do Williams Landrover offer?",
+    "answer": "Williams Landrover offer a range of services including Home delivery, Live video viewing and Click and collect. Business services and onsite facilities are listed on their dealer page. For specific requirements and questions, please contact Williams Landrover with the details provided."
+   },
+   {
+    "question": "Do Williams Landrover deliver?",
+    "answer": "Williams Landrover do provide home delivery services. Click and collect services may also be available. Learn more about home delivery and collection services on Auto Trader."
+   },
+   {
+    "question": "What are the opening times for Williams Landrover?",
+    "answer": "Williams Landrover is open Monday-Friday 08:00-18:00, Sunday 11:00-16:00 and Saturday 09:00-17:00."
+   }
+  ],
+  "statement": null,
+  "description": "The Williams Group is a family owned business with 100 hundred years' heritage in selling and maintaining vehicles to the highest standards throughout the North West of England. Within the group we have a total of 14 retail centre including BMW, MINI, Jaguar, Land Rover and BMW Motorcycles. This means we have access to the highest quality used cars and have built our reputation based on the Williams customer pledge: 'Right first time, on time, every time' and maintain the highest possible standards of customer care.",
+  "openingHoursRules": [
+   {
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday"
+    ],
+    "opens": "08:00",
+    "closes": "18:00",
+    "validFrom": null,
+    "validThrough": null
+   },
+   {
+    "dayOfWeek": [
+     "Sunday"
+    ],
+    "opens": "11:00",
+    "closes": "16:00",
+    "validFrom": null,
+    "validThrough": null
+   },
+   {
+    "dayOfWeek": [
+     "Saturday"
+    ],
+    "opens": "09:00",
+    "closes": "17:00",
+    "validFrom": null,
+    "validThrough": null
+   }
+  ],
+  "media": [
+   {
+    "type": "Image",
+    "url": "https://m.atcdn.co.uk/retailer/media/{resize}/8a42800b793cab4b017955f6b1090b0f.jpg",
+    "videoPreviewUrl": null
+   },
+   {
+    "type": "Image",
+    "url": "https://m.atcdn.co.uk/retailer/media/{resize}/8a42a175793cab3a017955f6c115051d.jpg",
+    "videoPreviewUrl": null
+   },
+   {
+    "type": "Image",
+    "url": "https://m.atcdn.co.uk/retailer/media/{resize}/8a42800b793cab4b017955f6dbb50b10.jpg",
+    "videoPreviewUrl": null
+   },
+   {
+    "type": "Image",
+    "url": "https://m.atcdn.co.uk/retailer/media/{resize}/8a42a175793cab3a017955f71bd5051e.jpg",
+    "videoPreviewUrl": null
+   },
+   {
+    "type": "Image",
+    "url": "https://m.atcdn.co.uk/retailer/media/{resize}/8a42a175793cab3a017955f74c60051f.jpg",
+    "videoPreviewUrl": null
+   },
+   {
+    "type": "Image",
+    "url": "https://m.atcdn.co.uk/retailer/media/{resize}/8a42870c793cab56017955f75fe61141.jpg",
+    "videoPreviewUrl": null
+   }
+  ],
+  "noneATAwards": [],
+  "appointmentOnlyVisits": false,
+  "businessServices": [
+   "Home delivery",
+   "Live video viewing",
+   "Click and collect",
+   "Vehicle health checks",
+   "Winter vehicle checks",
+   "Part exchange",
+   "Finance services",
+   "Handover specialist",
+   "Insurance services"
+  ],
+  "onSiteServices": [
+   "New vehicle sales",
+   "Used vehicle sales",
+   "Parts",
+   "Servicing",
+   "Approved Workshop",
+   "Bodyshop",
+   "Business centre",
+   "Electric charging point",
+   "Motability",
+   "MOT",
+   "Parts & Accessories, Clothing",
+   "Tyre fitting & repairs"
+  ],
+  "keyHighlights": [
+   {
+    "category": "Family owned business",
+    "title": "Family Business for 110 years",
+    "description": null
+   },
+   {
+    "category": "Approved dealer",
+    "title": "100% Approved Used Vehicles",
+    "description": null
+   },
+   {
+    "category": "Vehicles in stock",
+    "title": "100+ Approved Used in stock",
+    "description": null
+   }
+  ],
+  "whyBuy": [],
+  "safeSelling": null,
+  "metropolitan": {
+   "name": "Manchester",
+   "uriValue": "manchester"
+  },
+  "manufacturers": [
+   {
+    "id": "60c232eb1a43447331485348",
+    "name": "LAND ROVER",
+    "types": [
+     "used-approved-cars",
+     "used-approved-vans"
+    ],
+    "retailerTitle": "This retailer is part of the Land Rover UK network",
+    "approvedUsedParagraphs": [
+     "Every vehicle that wears the Land Rover badge is designed to be driven effortlessly on some of the world's most difficult terrain. This means our Approved Used programme has to go above and beyond to make sure all our vehicles continue to be up to this challenge no matter what you put them through. Your Approved Used vehicle from Land Rover is prepared to the highest standards. To ensure it leaves a Land Rover Retailer in immaculate condition, an eleven point customer promise is in place. This gives you absolute peace of mind and guarantees your vehicle delivers the most composed and capable drive possible."
+    ],
+    "retailerParagraphs": null,
+    "approvedUsedBulletPoints": [
+     "Minimum 12 month Land Rover Approved warranty",
+     "A minimum of 12 months of 24/7 Roadside Assistance",
+     "165 Multi-point Inspection",
+     "Reconditioning by Land Rover Technicians using Genuine Parts",
+     "Independent mileage and history check",
+     "Road test by Land Rover Technicians",
+     "MOT Test Warranty",
+     "Professional, expert part exchange service",
+     "30 day / 1,000 mile Conditional Vehicle Exchange Agreement",
+     "Complimentary half-day Land Rover Experience"
+    ]
+   }
+  ]
+ },
+ "rating": {
+  "totalLiveReviews": 10,
+  "averageLiveReviewRating": 1,
+  "sourceSummaries": [
+   {
+    "source": "AUTOTRADER",
+    "averageLiveReviewRating": 0,
+    "totalLiveReviews": 2,
+    "sourceUrl": null
+   },
+   {
+    "source": "FEEFO_PARTNERSHIP",
+    "averageLiveReviewRating": 1,
+    "totalLiveReviews": 8,
+    "sourceUrl": null
+   }
+  ],
+  "starSummaries": [
+   {
+    "starRating": 1,
+    "totalReviews": 2
+   },
+   {
+    "starRating": 5,
+    "totalReviews": 8
+   }
+  ]
+ }
+}

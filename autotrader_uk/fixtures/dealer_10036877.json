@@ -1,0 +1,187 @@
+{
+ "dealer": {
+  "dealerId": "10036877",
+  "name": "BLUEHAWK AUTOMOTIVE LIMITED",
+  "legalName": "BLUEHAWK AUTOMOTIVE LIMITED",
+  "description": "",
+  "distance": null,
+  "fca": "993859",
+  "fcaPermission": "Broker",
+  "chargesAdminFee": false,
+  "location": {
+   "addressOne": "Unit 24, Phoenix Way",
+   "addressTwo": null,
+   "town": "Hounslow",
+   "county": "Middlesex",
+   "region": "London",
+   "country": "GB",
+   "postcode": "TW5 9NB",
+   "latLong": "51.4866563,-0.3961258"
+  },
+  "marketing": {
+   "profile": null,
+   "productPageBrandingImage": "https://m.atcdn.co.uk/dealer-logo/at2/adbranding/10036877/images/fpa_logo.gif",
+   "strapline": "APPLY FINANCE THROUGH OUR WEBSITE FOR AN ACCEPTANCE,6MONTHS EXTENDABLE WARRANTY,WHATSAPP 07561852682"
+  },
+  "media": {
+   "email": "yes",
+   "emailAddress": "sales@bluehawkautomotive.com",
+   "phoneNumber1": "(07456) 418930",
+   "phoneNumber2": null,
+   "protectedNumber": false,
+   "dealerWebsite": {
+    "href": "https://bluehawkautomotive.co.uk/listings"
+   }
+  },
+  "reviews": {
+   "overallReviewRating": "4.2",
+   "numberOfReviews": "169"
+  },
+  "atAwards": [],
+  "branding": {
+   "brands": [
+    {
+     "name": "MotoNovo Finance",
+     "imageUrl": "https://m.atcdn.co.uk/service-partner-logo/motonovo.jpg"
+    },
+    {
+     "name": "Autoguard Warranties",
+     "imageUrl": "https://m.atcdn.co.uk/service-partner-logo/autoGuardWarranties.jpg"
+    },
+    {
+     "name": "SAF - Specialist Automotive Finance",
+     "imageUrl": "https://m.atcdn.co.uk/service-partner-logo/specialistAutomotive.jpg"
+    }
+   ],
+   "accreditations": []
+  },
+  "capabilities": {
+   "digitalRetailing": {
+    "enabled": true
+   },
+   "instantMessagingChat": null,
+   "instantMessagingText": null
+  },
+  "servicesOffered": {
+   "services": null,
+   "newCarMakes": null,
+   "franchises": null,
+   "hasDealerProfilePage": true,
+   "hasHomeDelivery": true,
+   "hasClickAndCollect": false,
+   "hasVideoWalkAround": false,
+   "hasSafeSelling": false,
+   "servicePartners": [
+    {
+     "name": "MotoNovo Finance",
+     "imageUrl": "https://m.atcdn.co.uk/service-partner-logo/motonovo.jpg"
+    },
+    {
+     "name": "Autoguard Warranties",
+     "imageUrl": "https://m.atcdn.co.uk/service-partner-logo/autoGuardWarranties.jpg"
+    },
+    {
+     "name": "SAF - Specialist Automotive Finance",
+     "imageUrl": "https://m.atcdn.co.uk/service-partner-logo/specialistAutomotive.jpg"
+    }
+   ]
+  },
+  "assignedNumber": null,
+  "stockLevels": {
+   "atStockCounts": {
+    "car": 102,
+    "bike": null,
+    "van": null,
+    "motorhome": null,
+    "caravan": null,
+    "truck": null,
+    "plant": null,
+    "agricultural": null,
+    "stock_car": 102,
+    "stock_bike": null,
+    "stock_van": null,
+    "stock_caravan": null,
+    "stock_motorhome": null,
+    "stock_truck": null,
+    "stock_plant": null,
+    "stock_agricultural": null
+   }
+  }
+ },
+ "profile": {
+  "faqs": [
+   {
+    "question": "Where are BLUEHAWK AUTOMOTIVE LIMITED based?",
+    "answer": "BLUEHAWK AUTOMOTIVE LIMITED are a car dealership based in Middlesex. Their address is Unit 24, Phoenix Way, Hounslow, TW5 9NB. Get directions on the Auto Trader site."
+   }
+  ],
+  "statement": null,
+  "description": "Welcome to Bluehawk Automotive – specialists in high-specification vehicles at unbeatable value. We pride ourselves on offering a carefully selected range of premium, high-quality cars with outstanding features and excellent condition. Customer satisfaction is our priority, and we are committed to providing a professional, friendly, and hassle-free buying experience.\n\nLooking for finance? We can help. Simply apply for finance through our website for a quick and easy process tailored to your needs.\n\nThinking of part exchanging your current vehicle? We can provide a competitive valuation and make the process simple and straightforward.\n\nWhether you’re upgrading to your next luxury vehicle or searching for the perfect high-spec car, our team is here to help every step of the way.",
+  "openingHoursRules": [],
+  "media": [
+   {
+    "type": "Image",
+    "url": "https://m.atcdn.co.uk/retailer/media/{resize}/8a42a5d689207932018937c609be0323.jpg",
+    "videoPreviewUrl": null
+   }
+  ],
+  "noneATAwards": [],
+  "appointmentOnlyVisits": true,
+  "businessServices": [],
+  "onSiteServices": [],
+  "keyHighlights": [
+   {
+    "category": "Specialist dealer",
+    "title": "SPECIALIST IN HIGH SPEC CARS!!",
+    "description": null
+   },
+   {
+    "category": "Appointments",
+    "title": "VIEWINGS STRICTLY APPOINTMENTS",
+    "description": null
+   },
+   {
+    "category": "Finance",
+    "title": "TAILORED FINANCE PACKAGES 9.9%",
+    "description": null
+   }
+  ],
+  "whyBuy": [],
+  "safeSelling": null,
+  "metropolitan": {
+   "name": "Hounslow",
+   "uriValue": "hounslow"
+  },
+  "manufacturers": []
+ },
+ "rating": {
+  "totalLiveReviews": 169,
+  "averageLiveReviewRating": 4.2,
+  "sourceSummaries": [
+   {
+    "source": "FEEFO_PARTNERSHIP",
+    "averageLiveReviewRating": 4.2,
+    "totalLiveReviews": 169,
+    "sourceUrl": null
+   }
+  ],
+  "starSummaries": [
+   {
+    "starRating": 1,
+    "totalReviews": 18
+   },
+   {
+    "starRating": 3,
+    "totalReviews": 1
+   },
+   {
+    "starRating": 4,
+    "totalReviews": 2
+   },
+   {
+    "starRating": 5,
+    "totalReviews": 148
+   }
+  ]
+ }
+}
